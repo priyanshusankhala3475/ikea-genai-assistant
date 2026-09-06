@@ -13,9 +13,8 @@ sentence-transformers==2.5.1
 transformers==4.37.2
 
 torch==2.2.0
-torchvision
-
-diffusers
+torchvision==0.17.0
+diffusers==0.26.3
 
 pandas==2.1.4
 numpy==1.26.3
