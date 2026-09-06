@@ -1,0 +1,1201 @@
+item_id,name,category,price,short_description,designer,depth,height,width,other_colors,sellable_online,rating,reviews_count
+IKEA00001,ALEX,Chair,2138,Space-saving furniture with easy assembly.,Henrik Preutz,51,87,65,"Black, Beige, Blue",True,4.2,21
+IKEA00002,KALLAX,Chair,14827,Compact furniture suitable for small apartments.,Ola Wihlborg,97,36,173,"Oak, Beige, Blue",False,3.4,306
+IKEA00003,LACK,Sofa,10962,Space-saving furniture with easy assembly.,Monika Mulder,63,101,69,"Oak, Blue, Brown",True,3.2,54
+IKEA00004,BESTA,Wardrobe,40064,Durable furniture with practical storage space.,IKEA Design Team,78,167,61,"Blue, White, Grey",True,4.7,321
+IKEA00005,IVAR,Wardrobe,38336,Compact furniture suitable for small apartments.,IKEA Design Team,25,199,88,"Grey, White, Black",True,3.8,237
+IKEA00006,ALEX,Wardrobe,11158,Durable furniture with practical storage space.,Henrik Preutz,46,201,98,"Black, Grey, Beige",True,4.1,130
+IKEA00007,MALM,Storage,25366,Durable furniture with practical storage space.,Ola Wihlborg,48,205,113,"White, Black, Green",True,3.8,38
+IKEA00008,HEMNES,TV Unit,47548,Durable furniture with practical storage space.,Jon Karlsson,83,131,194,"Green, Black, Brown",True,3.5,292
+IKEA00009,MICKE,Bed,49455,Affordable and stylish furniture for everyday use.,Monika Mulder,94,132,122,"Oak, Black, Grey",False,3.2,29
+IKEA00010,IVAR,Chair,10515,Space-saving furniture with easy assembly.,Jon Karlsson,74,182,46,"Blue, Oak, Grey",False,4.1,288
+IKEA00011,IVAR,Sofa,45082,Space-saving furniture with easy assembly.,IKEA Design Team,88,98,194,"Beige, White, Brown",False,3.3,6
+IKEA00012,BRIMNES,Bed,33305,Simple design with clean Scandinavian lines.,Jon Karlsson,84,57,190,"Grey, Blue, Beige",True,3.3,395
+IKEA00013,MALM,Cabinet,35256,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,61,155,34,"Black, Brown, Blue",True,3.1,454
+IKEA00014,POANG,Chair,6112,Space-saving furniture with easy assembly.,Monika Mulder,28,166,62,"Brown, Beige, Oak",True,3.5,451
+IKEA00015,POANG,Bookshelf,14379,Affordable and stylish furniture for everyday use.,Jon Karlsson,59,132,196,"Beige, Oak, Grey",False,3.2,120
+IKEA00016,BILLY,Wardrobe,1877,Affordable and stylish furniture for everyday use.,Ola Wihlborg,49,180,86,"White, Green, Beige",True,3.5,468
+IKEA00017,KALLAX,Wardrobe,5142,Affordable and stylish furniture for everyday use.,Jon Karlsson,55,201,154,"Oak, Grey, Black",False,3.5,247
+IKEA00018,TROFAST,Bookshelf,12977,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,75,120,138,"Blue, Oak, Beige",True,4.3,335
+IKEA00019,BILLY,Sofa,26885,Space-saving furniture with easy assembly.,Henrik Preutz,33,93,79,"Oak, Grey, Green",True,3.8,147
+IKEA00020,EKET,Desk,5439,Minimalist design suitable for modern homes.,Ola Wihlborg,32,42,196,"White, Green, Black",True,3.8,251
+IKEA00021,HEMNES,Bookshelf,4341,Compact furniture suitable for small apartments.,Monika Mulder,20,129,97,"Green, Brown, Oak",False,3.3,156
+IKEA00022,HEMNES,Sofa,38456,Space-saving furniture with easy assembly.,Ola Wihlborg,27,110,44,"White, Grey, Oak",True,3.1,265
+IKEA00023,BILLY,Table,4989,Affordable and stylish furniture for everyday use.,IKEA Design Team,50,133,60,"Oak, Grey, Blue",True,4.2,219
+IKEA00024,ALEX,TV Unit,37541,Affordable and stylish furniture for everyday use.,Henrik Preutz,53,82,110,"Oak, Brown, Green",True,4.3,158
+IKEA00025,EKET,Wardrobe,49773,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,78,189,174,"Black, White, Grey",True,4.0,72
+IKEA00026,BESTA,Chair,16508,Durable furniture with practical storage space.,Henrik Preutz,40,142,169,"Grey, Green, Beige",True,4.3,288
+IKEA00027,LACK,Dining Furniture,7287,Compact furniture suitable for small apartments.,Henrik Preutz,34,57,171,"Brown, Green, Blue",True,4.4,109
+IKEA00028,ALEX,Dining Furniture,17799,Affordable and stylish furniture for everyday use.,Monika Mulder,52,43,53,"Blue, Green, Brown",True,3.0,399
+IKEA00029,MALM,Dining Furniture,17666,Compact furniture suitable for small apartments.,Monika Mulder,90,210,139,"White, Green, Blue",True,4.1,432
+IKEA00030,BESTA,TV Unit,36709,Compact furniture suitable for small apartments.,Monika Mulder,36,40,108,"Beige, Blue, White",True,3.4,132
+IKEA00031,ALEX,Chair,23677,Simple design with clean Scandinavian lines.,Ola Wihlborg,72,188,69,"Oak, Blue, Black",True,4.8,17
+IKEA00032,MALM,Wardrobe,27481,Simple design with clean Scandinavian lines.,Jon Karlsson,54,70,57,"Blue, Green, White",False,3.4,423
+IKEA00033,EKET,Wardrobe,20499,Simple design with clean Scandinavian lines.,Jon Karlsson,48,36,198,"Oak, Green, Brown",True,4.7,500
+IKEA00034,TROFAST,Bed,23511,Space-saving furniture with easy assembly.,Ola Wihlborg,71,203,167,"Beige, White, Blue",True,3.4,497
+IKEA00035,LACK,Sofa,7603,Affordable and stylish furniture for everyday use.,Monika Mulder,64,216,110,"Blue, Grey, Green",True,3.8,300
+IKEA00036,HEMNES,Bed,3407,Space-saving furniture with easy assembly.,Monika Mulder,20,163,167,"Oak, Brown, Green",True,4.9,476
+IKEA00037,BESTA,TV Unit,21071,Space-saving furniture with easy assembly.,IKEA Design Team,58,159,109,"Blue, Brown, Oak",True,4.1,103
+IKEA00038,PAX,Dining Furniture,25346,Space-saving furniture with easy assembly.,Jon Karlsson,98,175,107,"Blue, Grey, White",True,3.6,225
+IKEA00039,TROFAST,TV Unit,40257,Space-saving furniture with easy assembly.,Henrik Preutz,79,143,143,"Oak, Grey, Green",True,4.3,150
+IKEA00040,MICKE,Dining Furniture,41979,Affordable and stylish furniture for everyday use.,Henrik Preutz,31,90,109,"Oak, Blue, Black",True,3.0,130
+IKEA00041,EKET,TV Unit,5271,Minimalist design suitable for modern homes.,Monika Mulder,100,177,79,"Blue, Oak, Green",True,3.3,357
+IKEA00042,KALLAX,Chair,28361,Compact furniture suitable for small apartments.,Jon Karlsson,86,148,42,"Oak, Blue, White",False,3.3,242
+IKEA00043,ALEX,Cabinet,37128,Affordable and stylish furniture for everyday use.,Henrik Preutz,76,186,159,"Blue, Green, Grey",False,4.8,385
+IKEA00044,IVAR,Storage,29994,Durable furniture with practical storage space.,Jon Karlsson,55,163,154,"Oak, Brown, Green",True,4.4,125
+IKEA00045,LACK,Wardrobe,21451,Affordable and stylish furniture for everyday use.,IKEA Design Team,37,68,89,"Blue, Beige, Black",True,3.1,213
+IKEA00046,BESTA,Cabinet,31033,Minimalist design suitable for modern homes.,IKEA Design Team,46,137,129,"White, Blue, Grey",False,4.0,487
+IKEA00047,BESTA,Bed,49878,Minimalist design suitable for modern homes.,Monika Mulder,88,218,169,"Oak, Green, Black",True,3.9,19
+IKEA00048,PAX,Wardrobe,44334,Space-saving furniture with easy assembly.,Monika Mulder,41,149,62,"White, Oak, Grey",True,3.2,224
+IKEA00049,MALM,Storage,12408,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,68,113,84,"Green, Brown, Blue",False,3.6,492
+IKEA00050,IVAR,Bookshelf,17031,Simple design with clean Scandinavian lines.,IKEA Design Team,80,34,168,"White, Brown, Black",True,4.6,338
+IKEA00051,KALLAX,Sofa,16704,Compact furniture suitable for small apartments.,IKEA Design Team,99,69,91,"Brown, Oak, Beige",True,4.1,116
+IKEA00052,EKET,Bed,24674,Compact furniture suitable for small apartments.,Ola Wihlborg,97,213,59,"Brown, Green, White",True,4.9,299
+IKEA00053,ALEX,Bookshelf,26494,Space-saving furniture with easy assembly.,Jon Karlsson,29,181,190,"Oak, White, Beige",True,4.7,312
+IKEA00054,TROFAST,Chair,37587,Simple design with clean Scandinavian lines.,IKEA Design Team,64,166,139,"Beige, White, Grey",True,3.0,220
+IKEA00055,IVAR,Storage,7415,Minimalist design suitable for modern homes.,Henrik Preutz,78,211,69,"Blue, Black, Beige",True,4.2,475
+IKEA00056,MICKE,Storage,30964,Minimalist design suitable for modern homes.,Ola Wihlborg,54,112,92,"Black, Brown, Oak",True,4.5,296
+IKEA00057,POANG,Dining Furniture,25336,Durable furniture with practical storage space.,IKEA Design Team,83,113,76,"Green, Black, Brown",True,3.7,455
+IKEA00058,POANG,Bed,36923,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,44,51,91,"Blue, Oak, Grey",True,4.4,335
+IKEA00059,BRIMNES,Storage,29870,Simple design with clean Scandinavian lines.,IKEA Design Team,31,105,86,"Blue, Beige, Black",True,4.3,193
+IKEA00060,EKET,Cabinet,35293,Durable furniture with practical storage space.,Monika Mulder,90,114,120,"Green, Brown, Blue",True,3.5,374
+IKEA00061,HEMNES,Wardrobe,8334,Space-saving furniture with easy assembly.,Ola Wihlborg,43,79,85,"Green, Brown, Beige",True,5.0,431
+IKEA00062,HEMNES,Bed,15407,Durable furniture with practical storage space.,Jon Karlsson,58,33,166,"Brown, Green, White",True,4.1,362
+IKEA00063,MALM,Dining Furniture,49833,Minimalist design suitable for modern homes.,IKEA Design Team,21,176,102,"Green, Oak, Blue",True,3.4,31
+IKEA00064,LACK,Storage,7975,Simple design with clean Scandinavian lines.,IKEA Design Team,71,155,48,"White, Black, Blue",True,3.2,132
+IKEA00065,BILLY,Cabinet,27773,Affordable and stylish furniture for everyday use.,Ola Wihlborg,99,87,163,"Blue, Oak, Green",True,4.7,224
+IKEA00066,LACK,TV Unit,41198,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,32,83,190,"Oak, Brown, Beige",True,3.3,93
+IKEA00067,MICKE,Chair,10757,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,77,206,182,"Green, Brown, White",True,3.6,149
+IKEA00068,BRIMNES,Storage,5163,Space-saving furniture with easy assembly.,Jon Karlsson,53,190,180,"Oak, Green, White",True,4.3,470
+IKEA00069,LACK,Table,5178,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,59,182,175,"Grey, Oak, White",False,4.4,363
+IKEA00070,PAX,Bed,33297,Affordable and stylish furniture for everyday use.,Monika Mulder,76,50,183,"White, Oak, Beige",True,4.2,18
+IKEA00071,BILLY,Desk,44689,Simple design with clean Scandinavian lines.,Ola Wihlborg,95,35,98,"White, Blue, Black",False,4.0,231
+IKEA00072,LACK,Table,38859,Minimalist design suitable for modern homes.,Monika Mulder,31,150,119,"Blue, Brown, Green",True,4.7,173
+IKEA00073,PAX,Storage,19387,Space-saving furniture with easy assembly.,Monika Mulder,90,39,146,"Black, Brown, Blue",True,3.2,400
+IKEA00074,PAX,Cabinet,574,Space-saving furniture with easy assembly.,Ola Wihlborg,79,135,43,"Oak, Grey, Brown",False,4.3,394
+IKEA00075,KALLAX,Desk,18000,Affordable and stylish furniture for everyday use.,Jon Karlsson,56,142,154,"Black, White, Beige",True,4.4,164
+IKEA00076,MICKE,Sofa,36691,Minimalist design suitable for modern homes.,IKEA Design Team,48,59,148,"Black, Beige, Green",False,4.9,154
+IKEA00077,MICKE,Bed,27728,Simple design with clean Scandinavian lines.,Monika Mulder,80,92,146,"Brown, Oak, Black",True,4.7,146
+IKEA00078,TROFAST,Bookshelf,22773,Simple design with clean Scandinavian lines.,Ola Wihlborg,54,30,102,"Grey, Blue, Green",False,4.7,233
+IKEA00079,MICKE,Storage,23117,Durable furniture with practical storage space.,Ola Wihlborg,89,126,146,"Beige, Blue, Black",True,4.1,124
+IKEA00080,IVAR,Bookshelf,3359,Durable furniture with practical storage space.,Monika Mulder,68,128,199,"Brown, Oak, White",True,4.0,307
+IKEA00081,BESTA,Chair,29354,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,78,33,66,"Blue, Green, Beige",True,3.1,405
+IKEA00082,LACK,Wardrobe,41344,Space-saving furniture with easy assembly.,Monika Mulder,30,114,166,"Blue, Brown, Beige",False,4.7,23
+IKEA00083,POANG,Chair,15884,Space-saving furniture with easy assembly.,Henrik Preutz,49,53,141,"Black, Blue, Beige",True,3.9,360
+IKEA00084,LACK,Sofa,3513,Durable furniture with practical storage space.,IKEA Design Team,57,121,125,"Blue, Black, Green",False,4.1,410
+IKEA00085,MALM,Table,11972,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,68,188,91,"Green, Grey, Black",True,3.9,135
+IKEA00086,EKET,Bed,44201,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,56,203,169,"Brown, White, Oak",True,5.0,158
+IKEA00087,ALEX,Bookshelf,45739,Durable furniture with practical storage space.,Monika Mulder,58,80,128,"Green, White, Black",False,4.1,299
+IKEA00088,LACK,Bed,1936,Simple design with clean Scandinavian lines.,Monika Mulder,55,32,174,"White, Grey, Beige",False,4.7,467
+IKEA00089,LACK,Desk,40283,Simple design with clean Scandinavian lines.,Henrik Preutz,48,192,78,"Grey, Beige, Blue",True,4.3,467
+IKEA00090,ALEX,Dining Furniture,3082,Durable furniture with practical storage space.,Monika Mulder,24,178,123,"Brown, White, Green",True,4.5,94
+IKEA00091,HEMNES,Table,35849,Durable furniture with practical storage space.,Ola Wihlborg,84,99,72,"Grey, Blue, Oak",True,4.5,178
+IKEA00092,TROFAST,Chair,31191,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,48,203,131,"Beige, White, Oak",True,3.5,68
+IKEA00093,EKET,Wardrobe,44593,Space-saving furniture with easy assembly.,Henrik Preutz,94,127,193,"Beige, White, Green",True,3.9,322
+IKEA00094,MICKE,Wardrobe,40481,Compact furniture suitable for small apartments.,IKEA Design Team,79,209,107,"Blue, White, Black",True,4.9,160
+IKEA00095,EKET,Chair,6868,Compact furniture suitable for small apartments.,Ola Wihlborg,37,129,146,"Beige, Green, Blue",False,4.2,377
+IKEA00096,MALM,Bookshelf,43419,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,98,134,101,"White, Beige, Brown",True,3.9,491
+IKEA00097,HEMNES,Wardrobe,7010,Space-saving furniture with easy assembly.,Henrik Preutz,89,195,121,"White, Oak, Brown",True,4.9,490
+IKEA00098,IVAR,Storage,6506,Space-saving furniture with easy assembly.,Jon Karlsson,96,35,42,"Beige, Black, Blue",True,3.1,396
+IKEA00099,MICKE,Desk,38928,Compact furniture suitable for small apartments.,Jon Karlsson,62,67,182,"White, Brown, Black",True,4.1,413
+IKEA00100,MALM,Chair,43822,Simple design with clean Scandinavian lines.,IKEA Design Team,36,33,121,"Oak, Grey, Brown",True,3.3,31
+IKEA00101,MALM,Bookshelf,34976,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,80,144,122,"Black, Oak, Grey",True,4.9,27
+IKEA00102,BRIMNES,Dining Furniture,34672,Durable furniture with practical storage space.,Monika Mulder,23,45,152,"Blue, Oak, Beige",True,4.0,470
+IKEA00103,EKET,Chair,5793,Durable furniture with practical storage space.,Ola Wihlborg,38,46,62,"Grey, Green, Beige",True,3.8,310
+IKEA00104,MICKE,Bed,30233,Affordable and stylish furniture for everyday use.,Ola Wihlborg,75,55,59,"Oak, Green, Blue",True,3.8,428
+IKEA00105,EKET,Bookshelf,27761,Space-saving furniture with easy assembly.,IKEA Design Team,60,139,110,"Grey, Brown, Black",False,3.1,430
+IKEA00106,BILLY,Chair,28802,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,36,172,45,"Beige, Green, White",False,3.7,345
+IKEA00107,TROFAST,Bookshelf,47754,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,96,109,120,"Black, Grey, Blue",True,3.3,251
+IKEA00108,HEMNES,Chair,23444,Simple design with clean Scandinavian lines.,Ola Wihlborg,67,59,101,"Oak, Blue, Green",True,4.2,341
+IKEA00109,IVAR,Bed,2396,Compact furniture suitable for small apartments.,Henrik Preutz,59,116,119,"White, Black, Blue",False,3.1,384
+IKEA00110,ALEX,Sofa,6512,Space-saving furniture with easy assembly.,Ola Wihlborg,47,126,137,"Green, Brown, Black",True,3.6,171
+IKEA00111,TROFAST,TV Unit,39573,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,39,70,188,"White, Beige, Green",True,3.9,222
+IKEA00112,EKET,TV Unit,29468,Minimalist design suitable for modern homes.,Henrik Preutz,47,161,59,"Beige, Oak, White",True,4.4,308
+IKEA00113,EKET,Cabinet,44220,Durable furniture with practical storage space.,IKEA Design Team,48,131,183,"White, Green, Black",True,4.9,397
+IKEA00114,MALM,Bed,19468,Durable furniture with practical storage space.,IKEA Design Team,20,157,140,"Brown, Black, Oak",True,4.0,431
+IKEA00115,ALEX,Wardrobe,5222,Minimalist design suitable for modern homes.,IKEA Design Team,75,34,147,"Black, Blue, Brown",False,4.1,368
+IKEA00116,ALEX,Bookshelf,19472,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,22,113,73,"Green, Blue, Beige",True,3.2,437
+IKEA00117,BILLY,Desk,29051,Affordable and stylish furniture for everyday use.,Monika Mulder,87,50,131,"Grey, Beige, Brown",True,3.7,91
+IKEA00118,BILLY,Cabinet,41998,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,85,79,119,"Beige, Green, Blue",True,3.5,79
+IKEA00119,LACK,Desk,11869,Affordable and stylish furniture for everyday use.,Jon Karlsson,29,75,190,"Green, Oak, Grey",False,4.4,456
+IKEA00120,POANG,Dining Furniture,42133,Affordable and stylish furniture for everyday use.,Henrik Preutz,100,110,68,"Green, White, Oak",False,4.3,412
+IKEA00121,LACK,TV Unit,4180,Durable furniture with practical storage space.,Ola Wihlborg,29,109,148,"Green, White, Blue",True,4.7,44
+IKEA00122,ALEX,Chair,40804,Affordable and stylish furniture for everyday use.,Ola Wihlborg,69,148,178,"White, Oak, Grey",True,3.6,248
+IKEA00123,MICKE,Table,4553,Minimalist design suitable for modern homes.,IKEA Design Team,63,212,51,"Brown, White, Black",False,5.0,273
+IKEA00124,MICKE,TV Unit,10902,Durable furniture with practical storage space.,Henrik Preutz,56,129,134,"Beige, Green, Grey",True,4.6,336
+IKEA00125,BESTA,Chair,22105,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,69,102,94,"Brown, Green, White",True,4.8,163
+IKEA00126,ALEX,Dining Furniture,26186,Compact furniture suitable for small apartments.,Ola Wihlborg,30,109,173,"Blue, Beige, Brown",True,4.3,429
+IKEA00127,BRIMNES,Dining Furniture,34996,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,85,122,34,"Beige, Brown, Black",True,3.7,397
+IKEA00128,EKET,Desk,15345,Compact furniture suitable for small apartments.,Jon Karlsson,29,105,55,"White, Beige, Brown",True,4.2,83
+IKEA00129,MALM,Table,45905,Simple design with clean Scandinavian lines.,Ola Wihlborg,41,214,142,"White, Oak, Brown",True,4.9,317
+IKEA00130,LACK,Storage,15834,Affordable and stylish furniture for everyday use.,Jon Karlsson,59,150,79,"Beige, Green, Grey",False,3.9,149
+IKEA00131,TROFAST,Bookshelf,33457,Affordable and stylish furniture for everyday use.,Monika Mulder,40,81,184,"Brown, Blue, Green",True,4.3,452
+IKEA00132,BESTA,Cabinet,7222,Space-saving furniture with easy assembly.,Ola Wihlborg,35,102,51,"Brown, Green, Oak",True,4.7,51
+IKEA00133,HEMNES,Storage,23409,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,26,131,158,"Beige, Black, Oak",True,3.7,19
+IKEA00134,BESTA,Chair,47337,Space-saving furniture with easy assembly.,Henrik Preutz,38,65,39,"Grey, Blue, Oak",True,4.5,245
+IKEA00135,EKET,TV Unit,843,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,52,85,68,"Blue, White, Brown",True,3.6,29
+IKEA00136,HEMNES,Bookshelf,42373,Simple design with clean Scandinavian lines.,Ola Wihlborg,78,46,58,"Green, Grey, Blue",True,4.3,299
+IKEA00137,HEMNES,Table,19587,Minimalist design suitable for modern homes.,IKEA Design Team,98,120,91,"Blue, Black, Beige",True,4.0,189
+IKEA00138,BILLY,Cabinet,36155,Affordable and stylish furniture for everyday use.,Ola Wihlborg,90,35,129,"Green, White, Beige",False,5.0,134
+IKEA00139,BRIMNES,Sofa,23901,Simple design with clean Scandinavian lines.,IKEA Design Team,64,91,198,"Black, Blue, Grey",True,3.3,185
+IKEA00140,MICKE,Wardrobe,42625,Compact furniture suitable for small apartments.,Monika Mulder,81,191,76,"Brown, White, Beige",False,3.1,108
+IKEA00141,KALLAX,Desk,3245,Durable furniture with practical storage space.,Henrik Preutz,85,131,169,"Green, Brown, White",True,3.6,446
+IKEA00142,TROFAST,Sofa,43473,Durable furniture with practical storage space.,Henrik Preutz,35,124,141,"Blue, Beige, Oak",False,3.7,100
+IKEA00143,EKET,Storage,24573,Simple design with clean Scandinavian lines.,Ola Wihlborg,54,51,138,"Black, Oak, Grey",True,4.1,169
+IKEA00144,BILLY,Chair,21989,Space-saving furniture with easy assembly.,Henrik Preutz,59,144,184,"Blue, Black, Beige",False,3.7,26
+IKEA00145,BRIMNES,Wardrobe,40793,Minimalist design suitable for modern homes.,Henrik Preutz,27,49,193,"Blue, Brown, Grey",True,4.9,78
+IKEA00146,IVAR,TV Unit,44938,Simple design with clean Scandinavian lines.,Monika Mulder,24,62,47,"Oak, Blue, Beige",True,3.7,491
+IKEA00147,POANG,Sofa,40154,Compact furniture suitable for small apartments.,Monika Mulder,67,125,143,"Black, Grey, Green",True,3.8,337
+IKEA00148,LACK,Desk,7933,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,83,162,129,"Black, Brown, Blue",False,3.4,318
+IKEA00149,LACK,Storage,13617,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,29,145,74,"Green, White, Beige",True,4.3,368
+IKEA00150,BILLY,Cabinet,36030,Durable furniture with practical storage space.,Henrik Preutz,40,212,193,"Brown, Blue, Green",True,3.2,107
+IKEA00151,TROFAST,Table,16013,Simple design with clean Scandinavian lines.,Monika Mulder,23,122,171,"Beige, Oak, Grey",True,4.2,49
+IKEA00152,BILLY,Bed,26592,Space-saving furniture with easy assembly.,Monika Mulder,87,135,134,"Black, Green, Brown",True,3.9,353
+IKEA00153,MICKE,Wardrobe,8909,Simple design with clean Scandinavian lines.,Ola Wihlborg,95,76,63,"Blue, Grey, White",True,4.0,160
+IKEA00154,MALM,Table,21644,Space-saving furniture with easy assembly.,Jon Karlsson,64,162,102,"Black, Brown, Green",True,3.3,160
+IKEA00155,POANG,Cabinet,6621,Affordable and stylish furniture for everyday use.,Jon Karlsson,95,178,69,"Brown, Beige, Grey",True,4.7,293
+IKEA00156,KALLAX,Sofa,5822,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,53,196,83,"Blue, Grey, Beige",True,4.0,326
+IKEA00157,MICKE,Bed,42567,Durable furniture with practical storage space.,Monika Mulder,51,205,133,"Grey, Oak, White",True,3.3,217
+IKEA00158,EKET,Storage,13869,Durable furniture with practical storage space.,Ola Wihlborg,38,110,111,"Beige, Oak, Black",True,4.0,59
+IKEA00159,BESTA,Desk,31069,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,77,93,66,"Black, White, Brown",False,4.7,219
+IKEA00160,HEMNES,Table,21957,Affordable and stylish furniture for everyday use.,Henrik Preutz,44,70,157,"Green, Oak, Brown",False,3.0,488
+IKEA00161,PAX,Cabinet,30464,Compact furniture suitable for small apartments.,Jon Karlsson,94,120,42,"White, Brown, Oak",False,3.6,9
+IKEA00162,IVAR,Chair,28740,Compact furniture suitable for small apartments.,Henrik Preutz,66,133,123,"White, Oak, Green",True,3.7,152
+IKEA00163,BILLY,Bookshelf,33545,Minimalist design suitable for modern homes.,Ola Wihlborg,55,189,186,"Black, Green, White",False,3.7,178
+IKEA00164,MICKE,Wardrobe,49976,Compact furniture suitable for small apartments.,Jon Karlsson,97,160,132,"White, Green, Blue",True,4.4,416
+IKEA00165,EKET,Cabinet,30448,Compact furniture suitable for small apartments.,Ola Wihlborg,85,65,113,"Beige, Black, Oak",True,4.2,264
+IKEA00166,IVAR,Cabinet,35386,Minimalist design suitable for modern homes.,Ola Wihlborg,58,151,34,"Beige, Brown, Green",True,5.0,303
+IKEA00167,LACK,Dining Furniture,2245,Affordable and stylish furniture for everyday use.,Monika Mulder,53,197,178,"Oak, Beige, White",False,3.3,327
+IKEA00168,BRIMNES,TV Unit,25415,Compact furniture suitable for small apartments.,Jon Karlsson,24,176,58,"Oak, White, Green",True,3.8,216
+IKEA00169,BRIMNES,Desk,27393,Affordable and stylish furniture for everyday use.,Ola Wihlborg,80,218,45,"Brown, Grey, Black",True,5.0,249
+IKEA00170,MICKE,Bookshelf,21061,Compact furniture suitable for small apartments.,Monika Mulder,88,117,169,"Beige, Green, Blue",True,4.2,103
+IKEA00171,HEMNES,Bed,37073,Durable furniture with practical storage space.,Jon Karlsson,58,103,83,"Green, Brown, Oak",True,4.1,483
+IKEA00172,TROFAST,Bed,19359,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,89,127,131,"Beige, Blue, Black",True,3.1,494
+IKEA00173,BRIMNES,Chair,23198,Minimalist design suitable for modern homes.,Henrik Preutz,81,84,81,"Grey, Green, Beige",True,3.3,320
+IKEA00174,BRIMNES,TV Unit,16180,Compact furniture suitable for small apartments.,IKEA Design Team,87,87,193,"Oak, White, Blue",False,3.7,246
+IKEA00175,BILLY,Dining Furniture,9508,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,40,134,197,"Green, Oak, Beige",True,4.5,152
+IKEA00176,BESTA,Bed,42828,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,93,89,166,"White, Black, Oak",True,4.9,23
+IKEA00177,IVAR,Bookshelf,32964,Compact furniture suitable for small apartments.,Henrik Preutz,24,32,106,"Black, Brown, Blue",False,5.0,283
+IKEA00178,MICKE,Storage,9293,Simple design with clean Scandinavian lines.,Ola Wihlborg,79,99,79,"Black, Brown, Green",False,4.3,372
+IKEA00179,MALM,Sofa,48773,Durable furniture with practical storage space.,Henrik Preutz,92,202,79,"Brown, Grey, Beige",False,4.7,268
+IKEA00180,BESTA,Chair,26768,Space-saving furniture with easy assembly.,IKEA Design Team,43,65,152,"Beige, Black, White",True,3.8,233
+IKEA00181,TROFAST,Bed,22101,Durable furniture with practical storage space.,Ola Wihlborg,93,32,96,"Beige, Green, Black",True,4.3,243
+IKEA00182,LACK,Table,27068,Space-saving furniture with easy assembly.,Ola Wihlborg,59,206,60,"Grey, Brown, Green",True,3.4,73
+IKEA00183,EKET,Table,30316,Space-saving furniture with easy assembly.,Ola Wihlborg,67,136,170,"Green, Blue, Grey",True,4.5,353
+IKEA00184,TROFAST,TV Unit,5864,Affordable and stylish furniture for everyday use.,Monika Mulder,87,210,122,"Black, Grey, White",True,4.7,467
+IKEA00185,MICKE,Desk,38031,Affordable and stylish furniture for everyday use.,Jon Karlsson,41,113,163,"Green, White, Beige",True,4.4,255
+IKEA00186,BILLY,Cabinet,29694,Simple design with clean Scandinavian lines.,IKEA Design Team,78,63,161,"Blue, Oak, Grey",True,4.1,349
+IKEA00187,TROFAST,Bed,47899,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,52,30,85,"Black, White, Oak",True,4.4,282
+IKEA00188,KALLAX,Chair,31436,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,72,76,64,"Blue, Brown, Oak",False,4.7,469
+IKEA00189,PAX,Bookshelf,5758,Space-saving furniture with easy assembly.,Ola Wihlborg,37,197,119,"Black, Green, Grey",False,4.1,377
+IKEA00190,HEMNES,Sofa,1988,Durable furniture with practical storage space.,Monika Mulder,89,138,166,"Blue, Green, Black",True,3.9,84
+IKEA00191,LACK,Desk,48014,Simple design with clean Scandinavian lines.,IKEA Design Team,24,199,137,"White, Black, Blue",True,3.2,22
+IKEA00192,EKET,TV Unit,44540,Space-saving furniture with easy assembly.,IKEA Design Team,51,219,41,"Blue, Oak, Black",True,4.5,402
+IKEA00193,KALLAX,Table,33522,Durable furniture with practical storage space.,Jon Karlsson,93,111,177,"Beige, Black, Brown",True,5.0,271
+IKEA00194,HEMNES,Bookshelf,20192,Durable furniture with practical storage space.,IKEA Design Team,91,181,74,"Blue, Grey, Oak",True,4.9,487
+IKEA00195,ALEX,Dining Furniture,25478,Simple design with clean Scandinavian lines.,Ola Wihlborg,60,208,136,"Blue, Black, Brown",False,3.4,280
+IKEA00196,EKET,Desk,15267,Durable furniture with practical storage space.,Jon Karlsson,79,44,173,"Blue, Oak, Grey",True,3.8,135
+IKEA00197,HEMNES,Wardrobe,42881,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,67,53,167,"Oak, White, Brown",False,4.3,313
+IKEA00198,KALLAX,Chair,12830,Simple design with clean Scandinavian lines.,Ola Wihlborg,91,85,152,"Oak, Blue, Brown",True,4.9,12
+IKEA00199,HEMNES,Desk,49092,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,51,208,184,"Oak, Green, Black",True,4.6,199
+IKEA00200,EKET,Cabinet,43013,Durable furniture with practical storage space.,Henrik Preutz,53,122,161,"Green, Oak, White",False,4.5,168
+IKEA00201,HEMNES,Wardrobe,21006,Minimalist design suitable for modern homes.,IKEA Design Team,92,86,67,"White, Brown, Grey",False,3.6,105
+IKEA00202,BESTA,Desk,25392,Affordable and stylish furniture for everyday use.,Jon Karlsson,83,170,197,"Beige, Brown, Oak",False,3.9,380
+IKEA00203,TROFAST,Wardrobe,11591,Compact furniture suitable for small apartments.,Ola Wihlborg,82,77,168,"White, Grey, Green",True,4.9,347
+IKEA00204,KALLAX,Sofa,27525,Compact furniture suitable for small apartments.,Jon Karlsson,28,211,68,"White, Black, Grey",False,3.7,321
+IKEA00205,ALEX,Dining Furniture,40903,Minimalist design suitable for modern homes.,Monika Mulder,22,31,166,"Blue, White, Green",True,4.1,151
+IKEA00206,KALLAX,Cabinet,46233,Space-saving furniture with easy assembly.,Monika Mulder,42,57,54,"Brown, Black, Blue",True,4.6,141
+IKEA00207,TROFAST,Bookshelf,5677,Durable furniture with practical storage space.,Monika Mulder,78,174,92,"Oak, Brown, Beige",True,4.3,444
+IKEA00208,ALEX,Sofa,6626,Minimalist design suitable for modern homes.,Monika Mulder,68,171,151,"White, Beige, Green",True,3.2,437
+IKEA00209,PAX,Dining Furniture,22209,Affordable and stylish furniture for everyday use.,IKEA Design Team,87,40,88,"Oak, Blue, Beige",False,3.5,478
+IKEA00210,BILLY,Dining Furniture,18873,Affordable and stylish furniture for everyday use.,Ola Wihlborg,24,75,110,"White, Black, Grey",True,4.5,369
+IKEA00211,IVAR,Bookshelf,5541,Durable furniture with practical storage space.,Jon Karlsson,92,91,175,"Blue, Beige, Grey",True,3.8,383
+IKEA00212,MALM,Chair,33318,Space-saving furniture with easy assembly.,Henrik Preutz,26,55,141,"Oak, Blue, White",True,4.2,319
+IKEA00213,POANG,Bookshelf,21888,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,77,155,88,"Beige, Grey, Oak",False,3.4,304
+IKEA00214,ALEX,Bookshelf,6115,Simple design with clean Scandinavian lines.,Ola Wihlborg,57,93,48,"Black, Brown, Green",False,4.4,329
+IKEA00215,MALM,Bookshelf,21252,Durable furniture with practical storage space.,IKEA Design Team,31,31,108,"Green, Brown, Blue",True,3.3,100
+IKEA00216,PAX,Storage,37001,Affordable and stylish furniture for everyday use.,Ola Wihlborg,72,56,36,"Black, Brown, Grey",True,4.2,406
+IKEA00217,BESTA,Bookshelf,1307,Durable furniture with practical storage space.,Monika Mulder,69,51,173,"Oak, Grey, Blue",True,4.4,91
+IKEA00218,MALM,Bed,20233,Durable furniture with practical storage space.,Monika Mulder,38,46,72,"Blue, Brown, Oak",True,4.0,44
+IKEA00219,BESTA,Bed,16659,Space-saving furniture with easy assembly.,Monika Mulder,96,187,80,"Green, White, Black",True,3.0,207
+IKEA00220,BESTA,TV Unit,25395,Simple design with clean Scandinavian lines.,Henrik Preutz,76,115,140,"Brown, Green, Blue",True,4.0,95
+IKEA00221,PAX,Wardrobe,19599,Space-saving furniture with easy assembly.,Monika Mulder,93,92,113,"Blue, Brown, Oak",True,3.2,293
+IKEA00222,HEMNES,TV Unit,36257,Compact furniture suitable for small apartments.,Ola Wihlborg,23,216,148,"Oak, Green, Brown",True,4.6,412
+IKEA00223,TROFAST,Bookshelf,44603,Minimalist design suitable for modern homes.,Jon Karlsson,58,91,94,"Brown, Beige, Oak",False,3.1,311
+IKEA00224,EKET,TV Unit,26766,Affordable and stylish furniture for everyday use.,Ola Wihlborg,73,169,39,"Beige, Green, Grey",True,3.2,132
+IKEA00225,ALEX,Dining Furniture,23764,Compact furniture suitable for small apartments.,Ola Wihlborg,25,174,195,"Blue, Green, Brown",False,3.2,55
+IKEA00226,LACK,Desk,33966,Space-saving furniture with easy assembly.,Ola Wihlborg,91,178,177,"Oak, Green, Brown",False,3.9,352
+IKEA00227,POANG,Cabinet,10378,Durable furniture with practical storage space.,IKEA Design Team,81,56,105,"Blue, White, Green",True,3.7,180
+IKEA00228,EKET,Desk,34650,Minimalist design suitable for modern homes.,Henrik Preutz,80,54,142,"Green, Brown, White",True,3.1,368
+IKEA00229,BILLY,Sofa,22982,Space-saving furniture with easy assembly.,IKEA Design Team,41,219,92,"Brown, Grey, Black",True,4.1,495
+IKEA00230,EKET,Desk,27044,Space-saving furniture with easy assembly.,Jon Karlsson,43,193,198,"Blue, Oak, White",True,3.9,224
+IKEA00231,PAX,Sofa,46684,Compact furniture suitable for small apartments.,Jon Karlsson,55,210,46,"Black, Blue, Grey",True,3.7,105
+IKEA00232,EKET,Chair,17692,Space-saving furniture with easy assembly.,Monika Mulder,87,193,110,"Blue, Grey, Oak",True,3.7,437
+IKEA00233,EKET,TV Unit,11805,Simple design with clean Scandinavian lines.,Henrik Preutz,98,181,51,"Brown, Green, White",True,3.6,98
+IKEA00234,BESTA,Table,33976,Minimalist design suitable for modern homes.,Monika Mulder,96,65,177,"Blue, Oak, Black",False,4.3,360
+IKEA00235,ALEX,Table,36865,Compact furniture suitable for small apartments.,Monika Mulder,56,65,77,"Beige, Blue, Oak",True,4.7,492
+IKEA00236,KALLAX,Storage,9446,Compact furniture suitable for small apartments.,Monika Mulder,91,159,197,"Green, Oak, Beige",False,3.8,435
+IKEA00237,EKET,Storage,11460,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,23,86,104,"White, Brown, Black",True,3.3,239
+IKEA00238,POANG,Storage,36525,Affordable and stylish furniture for everyday use.,IKEA Design Team,93,59,98,"Beige, Grey, White",False,4.1,222
+IKEA00239,BILLY,Dining Furniture,49739,Compact furniture suitable for small apartments.,Henrik Preutz,24,145,97,"Beige, Blue, White",False,4.7,65
+IKEA00240,TROFAST,Desk,14253,Simple design with clean Scandinavian lines.,Ola Wihlborg,64,211,186,"Blue, Black, Grey",True,4.6,421
+IKEA00241,HEMNES,Sofa,37859,Durable furniture with practical storage space.,Ola Wihlborg,55,182,167,"Brown, Green, Beige",True,3.6,141
+IKEA00242,IVAR,Cabinet,45017,Simple design with clean Scandinavian lines.,IKEA Design Team,37,135,45,"Grey, Blue, Beige",True,4.4,72
+IKEA00243,HEMNES,Table,47120,Durable furniture with practical storage space.,Jon Karlsson,70,155,66,"Grey, Beige, Oak",False,3.9,329
+IKEA00244,TROFAST,Chair,26900,Affordable and stylish furniture for everyday use.,Henrik Preutz,67,146,154,"Beige, Grey, White",True,4.5,239
+IKEA00245,ALEX,Dining Furniture,46196,Durable furniture with practical storage space.,IKEA Design Team,88,131,85,"Blue, Green, Black",False,3.5,429
+IKEA00246,LACK,Wardrobe,36367,Affordable and stylish furniture for everyday use.,Jon Karlsson,92,154,117,"White, Green, Blue",False,3.0,480
+IKEA00247,IVAR,Table,29419,Minimalist design suitable for modern homes.,IKEA Design Team,74,81,63,"Grey, Black, Brown",True,4.3,133
+IKEA00248,BILLY,Wardrobe,44048,Space-saving furniture with easy assembly.,Jon Karlsson,26,131,190,"Grey, Beige, Blue",True,3.9,51
+IKEA00249,BRIMNES,Chair,570,Compact furniture suitable for small apartments.,Monika Mulder,29,63,181,"Oak, Grey, Beige",False,3.0,361
+IKEA00250,BESTA,Chair,28175,Space-saving furniture with easy assembly.,Jon Karlsson,81,48,88,"Blue, White, Beige",True,3.2,193
+IKEA00251,LACK,Table,25581,Simple design with clean Scandinavian lines.,Jon Karlsson,38,47,165,"White, Grey, Beige",True,3.9,374
+IKEA00252,HEMNES,Dining Furniture,49537,Compact furniture suitable for small apartments.,Monika Mulder,98,205,143,"Oak, White, Blue",True,4.5,306
+IKEA00253,BRIMNES,Bookshelf,23537,Minimalist design suitable for modern homes.,Henrik Preutz,37,93,100,"Black, Green, Grey",True,4.6,358
+IKEA00254,KALLAX,Dining Furniture,20267,Compact furniture suitable for small apartments.,Ola Wihlborg,97,160,78,"Blue, Brown, Beige",True,4.6,411
+IKEA00255,HEMNES,Storage,25788,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,83,193,182,"Black, Grey, White",True,4.9,72
+IKEA00256,PAX,TV Unit,28080,Durable furniture with practical storage space.,Ola Wihlborg,42,150,48,"White, Grey, Green",True,3.5,25
+IKEA00257,KALLAX,Bookshelf,33700,Durable furniture with practical storage space.,Ola Wihlborg,73,138,132,"Black, Beige, Grey",True,3.6,163
+IKEA00258,BILLY,Cabinet,13815,Simple design with clean Scandinavian lines.,Jon Karlsson,88,113,130,"Black, Brown, Beige",False,4.5,438
+IKEA00259,HEMNES,Sofa,16521,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,34,146,186,"White, Brown, Beige",True,3.2,367
+IKEA00260,MALM,Sofa,11235,Minimalist design suitable for modern homes.,Henrik Preutz,86,162,96,"Brown, Green, Black",True,4.5,65
+IKEA00261,TROFAST,Sofa,22454,Simple design with clean Scandinavian lines.,Monika Mulder,54,164,46,"Grey, Beige, Green",True,4.0,266
+IKEA00262,BESTA,Sofa,33241,Simple design with clean Scandinavian lines.,Ola Wihlborg,41,124,70,"Grey, Blue, White",True,3.5,265
+IKEA00263,KALLAX,Sofa,1304,Compact furniture suitable for small apartments.,IKEA Design Team,80,123,128,"Brown, Black, White",False,3.4,132
+IKEA00264,PAX,Wardrobe,18276,Simple design with clean Scandinavian lines.,IKEA Design Team,93,125,60,"White, Black, Blue",True,4.9,40
+IKEA00265,EKET,Bed,20860,Durable furniture with practical storage space.,IKEA Design Team,90,146,32,"Beige, Black, Brown",True,4.5,129
+IKEA00266,EKET,Wardrobe,39276,Minimalist design suitable for modern homes.,Jon Karlsson,89,92,68,"White, Oak, Green",True,4.1,330
+IKEA00267,IVAR,Sofa,22454,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,59,56,82,"Oak, Green, Blue",True,4.9,77
+IKEA00268,BRIMNES,Bed,6595,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,86,135,125,"Green, Beige, White",True,4.0,331
+IKEA00269,IVAR,Bookshelf,5403,Affordable and stylish furniture for everyday use.,Ola Wihlborg,27,141,199,"Brown, Black, Green",True,4.7,479
+IKEA00270,TROFAST,Bookshelf,46421,Simple design with clean Scandinavian lines.,Henrik Preutz,60,145,99,"Oak, White, Black",True,4.6,304
+IKEA00271,BILLY,Table,7423,Compact furniture suitable for small apartments.,Monika Mulder,79,110,134,"Black, Grey, Brown",True,3.9,242
+IKEA00272,LACK,Chair,6424,Compact furniture suitable for small apartments.,Henrik Preutz,97,40,85,"Beige, Black, White",True,4.9,207
+IKEA00273,MICKE,Sofa,44878,Durable furniture with practical storage space.,Henrik Preutz,42,37,133,"Green, Grey, Beige",True,3.2,57
+IKEA00274,TROFAST,Table,8458,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,48,63,80,"Blue, Brown, Beige",True,4.2,137
+IKEA00275,IVAR,Chair,1927,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,76,62,53,"Beige, White, Blue",False,3.1,478
+IKEA00276,POANG,Bookshelf,47975,Minimalist design suitable for modern homes.,Monika Mulder,23,127,139,"Brown, Green, Black",True,3.5,233
+IKEA00277,MALM,Sofa,40745,Affordable and stylish furniture for everyday use.,Ola Wihlborg,51,195,105,"Green, Oak, Grey",False,3.1,148
+IKEA00278,PAX,Table,27973,Compact furniture suitable for small apartments.,Ola Wihlborg,51,191,169,"White, Oak, Beige",True,4.0,405
+IKEA00279,EKET,Wardrobe,37569,Affordable and stylish furniture for everyday use.,Henrik Preutz,69,99,76,"White, Brown, Grey",True,3.1,420
+IKEA00280,TROFAST,Bed,4338,Simple design with clean Scandinavian lines.,Monika Mulder,87,121,179,"Oak, Black, White",True,4.3,141
+IKEA00281,MICKE,Sofa,14878,Affordable and stylish furniture for everyday use.,Monika Mulder,65,74,75,"Oak, Grey, Brown",True,4.8,19
+IKEA00282,BRIMNES,Wardrobe,37700,Affordable and stylish furniture for everyday use.,Jon Karlsson,92,78,156,"Grey, Black, Oak",True,3.2,124
+IKEA00283,POANG,Desk,1805,Affordable and stylish furniture for everyday use.,Monika Mulder,20,114,187,"Oak, Blue, Black",True,4.4,475
+IKEA00284,TROFAST,Wardrobe,4402,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,95,210,66,"Black, Blue, Grey",True,4.9,196
+IKEA00285,BRIMNES,Dining Furniture,26424,Affordable and stylish furniture for everyday use.,IKEA Design Team,63,107,112,"Brown, Black, Beige",False,4.6,496
+IKEA00286,EKET,Dining Furniture,21292,Compact furniture suitable for small apartments.,Ola Wihlborg,98,121,87,"Brown, Oak, Green",True,3.3,378
+IKEA00287,KALLAX,TV Unit,26162,Simple design with clean Scandinavian lines.,Ola Wihlborg,24,76,184,"Beige, Blue, Grey",True,4.3,58
+IKEA00288,EKET,Table,22202,Space-saving furniture with easy assembly.,IKEA Design Team,50,118,111,"Brown, Beige, White",True,3.9,140
+IKEA00289,HEMNES,Desk,45926,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,52,57,30,"White, Oak, Blue",False,4.9,457
+IKEA00290,PAX,Storage,25318,Durable furniture with practical storage space.,Ola Wihlborg,68,55,152,"Oak, Black, Green",True,4.6,22
+IKEA00291,LACK,Sofa,21386,Durable furniture with practical storage space.,IKEA Design Team,29,117,73,"Blue, Black, Beige",True,4.1,464
+IKEA00292,BILLY,Wardrobe,39429,Affordable and stylish furniture for everyday use.,Monika Mulder,23,140,197,"Brown, Grey, Oak",True,3.1,174
+IKEA00293,HEMNES,Desk,27321,Space-saving furniture with easy assembly.,Ola Wihlborg,89,97,199,"Grey, Brown, Black",True,3.1,297
+IKEA00294,MICKE,Storage,10564,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,20,139,52,"Grey, Blue, Beige",False,3.4,18
+IKEA00295,HEMNES,Table,42323,Durable furniture with practical storage space.,IKEA Design Team,80,59,108,"Blue, Oak, Green",True,3.2,283
+IKEA00296,PAX,Table,24814,Minimalist design suitable for modern homes.,Henrik Preutz,43,144,41,"Grey, Oak, Blue",True,3.5,142
+IKEA00297,POANG,Sofa,10403,Simple design with clean Scandinavian lines.,IKEA Design Team,30,201,118,"Blue, Green, Grey",True,4.1,435
+IKEA00298,PAX,Cabinet,27934,Affordable and stylish furniture for everyday use.,Monika Mulder,93,90,151,"Grey, White, Oak",True,4.0,466
+IKEA00299,MICKE,TV Unit,44901,Affordable and stylish furniture for everyday use.,Jon Karlsson,35,144,74,"Brown, Black, Blue",True,3.1,45
+IKEA00300,ALEX,Bookshelf,13731,Simple design with clean Scandinavian lines.,Jon Karlsson,96,96,111,"Black, White, Oak",False,4.1,443
+IKEA00301,LACK,Cabinet,30524,Simple design with clean Scandinavian lines.,IKEA Design Team,99,180,163,"Blue, White, Oak",True,3.3,306
+IKEA00302,POANG,Chair,7421,Affordable and stylish furniture for everyday use.,IKEA Design Team,56,167,118,"Blue, Brown, Oak",False,4.1,247
+IKEA00303,KALLAX,Table,18548,Minimalist design suitable for modern homes.,Jon Karlsson,99,185,132,"White, Oak, Brown",True,3.1,248
+IKEA00304,LACK,Wardrobe,1824,Durable furniture with practical storage space.,Henrik Preutz,59,101,155,"Black, Blue, Green",True,3.6,385
+IKEA00305,EKET,Wardrobe,18155,Space-saving furniture with easy assembly.,Monika Mulder,97,195,52,"Oak, Green, Black",False,4.5,393
+IKEA00306,MICKE,Wardrobe,4182,Affordable and stylish furniture for everyday use.,Jon Karlsson,28,109,159,"Blue, Black, Grey",True,3.3,453
+IKEA00307,IVAR,Desk,4275,Compact furniture suitable for small apartments.,IKEA Design Team,78,42,122,"Oak, Brown, Blue",False,4.0,330
+IKEA00308,BILLY,Dining Furniture,2501,Compact furniture suitable for small apartments.,Henrik Preutz,82,182,144,"Brown, Blue, Oak",True,3.7,433
+IKEA00309,LACK,Chair,19181,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,26,71,176,"Oak, Blue, Black",True,4.4,142
+IKEA00310,ALEX,Bookshelf,34137,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,80,63,195,"Brown, Grey, White",True,3.5,417
+IKEA00311,LACK,Dining Furniture,18546,Minimalist design suitable for modern homes.,Monika Mulder,64,147,94,"Oak, Green, Brown",False,4.2,8
+IKEA00312,MICKE,Dining Furniture,25024,Affordable and stylish furniture for everyday use.,Ola Wihlborg,97,102,106,"Black, Oak, White",True,5.0,332
+IKEA00313,BESTA,Bed,17613,Space-saving furniture with easy assembly.,Henrik Preutz,44,68,162,"Oak, White, Grey",False,4.3,353
+IKEA00314,MALM,Sofa,43451,Minimalist design suitable for modern homes.,Henrik Preutz,53,137,133,"Blue, Beige, White",True,3.7,370
+IKEA00315,HEMNES,Dining Furniture,35536,Space-saving furniture with easy assembly.,Monika Mulder,65,159,106,"Brown, Blue, Beige",True,3.6,246
+IKEA00316,MALM,Bed,48024,Simple design with clean Scandinavian lines.,Ola Wihlborg,43,204,115,"Black, Green, Brown",True,4.5,162
+IKEA00317,PAX,Wardrobe,24857,Durable furniture with practical storage space.,Ola Wihlborg,57,148,60,"Green, White, Beige",True,3.9,104
+IKEA00318,MICKE,Chair,45109,Minimalist design suitable for modern homes.,Ola Wihlborg,58,135,43,"Brown, Black, Blue",True,3.8,296
+IKEA00319,EKET,Table,21233,Simple design with clean Scandinavian lines.,Jon Karlsson,30,154,115,"Brown, Green, Beige",True,3.0,145
+IKEA00320,HEMNES,Table,38266,Simple design with clean Scandinavian lines.,Jon Karlsson,82,52,63,"Blue, Beige, Oak",False,3.9,249
+IKEA00321,PAX,Sofa,2971,Affordable and stylish furniture for everyday use.,Jon Karlsson,67,33,112,"Oak, White, Beige",True,4.3,132
+IKEA00322,HEMNES,Wardrobe,20952,Compact furniture suitable for small apartments.,IKEA Design Team,69,158,180,"Grey, Black, White",True,3.6,153
+IKEA00323,EKET,Cabinet,39582,Affordable and stylish furniture for everyday use.,Henrik Preutz,75,205,64,"Beige, Oak, Brown",True,3.3,469
+IKEA00324,TROFAST,Bookshelf,1752,Compact furniture suitable for small apartments.,Jon Karlsson,36,84,35,"Brown, White, Green",True,3.8,332
+IKEA00325,LACK,Cabinet,41336,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,26,199,57,"White, Green, Beige",True,3.8,199
+IKEA00326,BILLY,Cabinet,17062,Minimalist design suitable for modern homes.,Jon Karlsson,46,207,191,"White, Brown, Oak",True,4.3,143
+IKEA00327,POANG,TV Unit,46421,Compact furniture suitable for small apartments.,Monika Mulder,33,160,188,"Black, Brown, White",True,4.0,316
+IKEA00328,HEMNES,Bed,34783,Compact furniture suitable for small apartments.,Henrik Preutz,72,105,71,"White, Grey, Oak",True,4.4,251
+IKEA00329,BESTA,Desk,678,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,34,176,156,"Brown, White, Grey",True,4.4,56
+IKEA00330,LACK,Dining Furniture,15648,Minimalist design suitable for modern homes.,Henrik Preutz,53,148,42,"Black, Blue, Green",True,4.7,189
+IKEA00331,TROFAST,Dining Furniture,20992,Minimalist design suitable for modern homes.,IKEA Design Team,32,41,32,"Brown, Beige, Blue",True,3.7,462
+IKEA00332,EKET,TV Unit,18082,Space-saving furniture with easy assembly.,IKEA Design Team,67,117,76,"Black, Oak, Blue",False,3.5,202
+IKEA00333,BRIMNES,Storage,28138,Space-saving furniture with easy assembly.,Jon Karlsson,34,63,45,"Brown, White, Oak",False,4.6,352
+IKEA00334,EKET,Table,40562,Minimalist design suitable for modern homes.,Henrik Preutz,98,37,63,"Green, Oak, White",False,3.9,37
+IKEA00335,LACK,Dining Furniture,21092,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,93,215,174,"Oak, Beige, Brown",True,3.9,377
+IKEA00336,HEMNES,Storage,23158,Space-saving furniture with easy assembly.,Monika Mulder,39,172,186,"White, Green, Beige",True,4.0,245
+IKEA00337,IVAR,Storage,11338,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,61,91,114,"Grey, White, Green",True,4.1,198
+IKEA00338,PAX,Desk,5665,Minimalist design suitable for modern homes.,Monika Mulder,93,144,52,"Green, Oak, Brown",True,5.0,386
+IKEA00339,ALEX,Sofa,7225,Minimalist design suitable for modern homes.,Monika Mulder,24,172,170,"White, Blue, Green",True,4.8,292
+IKEA00340,HEMNES,Dining Furniture,44504,Minimalist design suitable for modern homes.,Henrik Preutz,66,43,87,"Green, Brown, Grey",False,4.4,191
+IKEA00341,BRIMNES,Storage,7971,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,20,117,120,"Grey, Green, Blue",True,4.4,28
+IKEA00342,MALM,Storage,9703,Simple design with clean Scandinavian lines.,Monika Mulder,33,95,186,"Oak, Black, White",False,3.4,427
+IKEA00343,TROFAST,Desk,47474,Durable furniture with practical storage space.,IKEA Design Team,73,41,192,"Black, Blue, Oak",False,4.3,494
+IKEA00344,MICKE,Table,33190,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,26,171,140,"Green, Grey, Black",True,4.5,70
+IKEA00345,BILLY,Bookshelf,43590,Affordable and stylish furniture for everyday use.,Ola Wihlborg,61,159,128,"Blue, Grey, Beige",True,3.5,498
+IKEA00346,BESTA,Bed,30176,Simple design with clean Scandinavian lines.,Jon Karlsson,37,135,184,"Grey, Blue, Beige",True,4.4,483
+IKEA00347,MICKE,Dining Furniture,14742,Compact furniture suitable for small apartments.,Jon Karlsson,99,212,104,"Beige, Green, Black",True,4.0,360
+IKEA00348,ALEX,Wardrobe,47052,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,91,152,179,"Blue, Beige, Green",True,4.8,221
+IKEA00349,TROFAST,Sofa,34756,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,68,67,43,"White, Black, Brown",True,5.0,354
+IKEA00350,LACK,Table,4564,Space-saving furniture with easy assembly.,Henrik Preutz,46,168,38,"Beige, Blue, Oak",True,4.2,350
+IKEA00351,BRIMNES,Cabinet,15199,Space-saving furniture with easy assembly.,Ola Wihlborg,69,90,160,"Grey, Beige, Blue",True,4.9,203
+IKEA00352,PAX,Dining Furniture,20989,Affordable and stylish furniture for everyday use.,IKEA Design Team,21,220,94,"Oak, Grey, Green",True,4.8,365
+IKEA00353,BRIMNES,Dining Furniture,24599,Simple design with clean Scandinavian lines.,Ola Wihlborg,89,219,184,"Oak, Blue, Beige",True,3.6,95
+IKEA00354,ALEX,Chair,12752,Compact furniture suitable for small apartments.,Ola Wihlborg,35,126,40,"Blue, Brown, Grey",True,3.3,304
+IKEA00355,IVAR,Bed,868,Durable furniture with practical storage space.,Monika Mulder,39,40,69,"Beige, Grey, White",True,4.0,298
+IKEA00356,MICKE,Wardrobe,5275,Simple design with clean Scandinavian lines.,Henrik Preutz,87,86,77,"Black, Blue, Grey",True,3.8,279
+IKEA00357,PAX,Chair,23397,Compact furniture suitable for small apartments.,Jon Karlsson,62,114,122,"Grey, Black, Green",False,5.0,426
+IKEA00358,TROFAST,Dining Furniture,1075,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,77,91,194,"Oak, White, Beige",True,3.8,412
+IKEA00359,BILLY,Bookshelf,17314,Affordable and stylish furniture for everyday use.,Henrik Preutz,23,162,125,"Green, Oak, White",True,4.8,103
+IKEA00360,BESTA,Cabinet,5895,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,88,166,31,"Black, Green, Beige",True,4.7,222
+IKEA00361,IVAR,Chair,13971,Affordable and stylish furniture for everyday use.,Monika Mulder,29,205,69,"White, Oak, Beige",True,3.1,42
+IKEA00362,KALLAX,Table,17008,Affordable and stylish furniture for everyday use.,IKEA Design Team,93,88,96,"Blue, Oak, Green",False,3.9,13
+IKEA00363,PAX,Dining Furniture,8252,Affordable and stylish furniture for everyday use.,IKEA Design Team,99,46,179,"White, Beige, Green",True,4.9,59
+IKEA00364,LACK,Dining Furniture,20248,Affordable and stylish furniture for everyday use.,IKEA Design Team,56,142,127,"Blue, Green, Beige",True,3.9,278
+IKEA00365,HEMNES,Table,49438,Minimalist design suitable for modern homes.,Ola Wihlborg,57,192,66,"Grey, Beige, Blue",True,4.9,10
+IKEA00366,MICKE,Cabinet,9764,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,20,176,182,"Blue, Grey, Green",True,3.6,388
+IKEA00367,BRIMNES,Wardrobe,14375,Minimalist design suitable for modern homes.,Ola Wihlborg,38,71,77,"Oak, Grey, Brown",True,3.2,348
+IKEA00368,TROFAST,TV Unit,4063,Simple design with clean Scandinavian lines.,Ola Wihlborg,79,195,170,"Black, Brown, Beige",True,3.5,106
+IKEA00369,BRIMNES,TV Unit,32427,Durable furniture with practical storage space.,Henrik Preutz,36,201,197,"Oak, White, Brown",True,4.8,167
+IKEA00370,EKET,Storage,22017,Affordable and stylish furniture for everyday use.,Henrik Preutz,94,69,174,"Beige, Blue, Brown",False,3.3,165
+IKEA00371,HEMNES,Desk,47173,Space-saving furniture with easy assembly.,Monika Mulder,55,122,64,"Beige, Oak, Blue",False,3.7,161
+IKEA00372,EKET,Cabinet,7631,Compact furniture suitable for small apartments.,Ola Wihlborg,30,101,65,"Oak, Brown, Beige",True,4.5,461
+IKEA00373,KALLAX,Cabinet,41893,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,94,133,181,"Oak, White, Grey",True,4.1,281
+IKEA00374,EKET,Dining Furniture,10239,Durable furniture with practical storage space.,Monika Mulder,48,180,104,"Brown, Oak, Grey",True,3.8,262
+IKEA00375,KALLAX,Dining Furniture,16154,Simple design with clean Scandinavian lines.,Ola Wihlborg,41,161,65,"Green, Black, Blue",True,4.5,252
+IKEA00376,BESTA,Sofa,14839,Simple design with clean Scandinavian lines.,Monika Mulder,49,46,97,"Beige, Black, White",True,4.0,410
+IKEA00377,BESTA,Bookshelf,31279,Minimalist design suitable for modern homes.,IKEA Design Team,25,196,112,"Black, Beige, Grey",True,4.7,139
+IKEA00378,POANG,Cabinet,37865,Compact furniture suitable for small apartments.,Monika Mulder,68,123,180,"Black, Grey, Brown",False,4.9,119
+IKEA00379,MICKE,Bookshelf,23626,Simple design with clean Scandinavian lines.,Henrik Preutz,82,153,184,"White, Grey, Black",False,3.3,44
+IKEA00380,MICKE,Dining Furniture,18902,Compact furniture suitable for small apartments.,Jon Karlsson,43,70,122,"Black, Beige, Green",False,4.6,373
+IKEA00381,BILLY,Storage,44750,Minimalist design suitable for modern homes.,Monika Mulder,46,181,71,"Blue, White, Black",True,3.3,308
+IKEA00382,MALM,Table,41756,Affordable and stylish furniture for everyday use.,IKEA Design Team,93,67,44,"Brown, Green, Black",False,4.2,293
+IKEA00383,ALEX,Sofa,47655,Space-saving furniture with easy assembly.,Henrik Preutz,30,85,144,"Green, Blue, Oak",True,3.4,215
+IKEA00384,POANG,Table,38683,Simple design with clean Scandinavian lines.,Jon Karlsson,99,198,160,"Grey, Black, Beige",True,4.8,310
+IKEA00385,POANG,Chair,15560,Minimalist design suitable for modern homes.,Monika Mulder,36,57,34,"Oak, Grey, Blue",False,4.7,315
+IKEA00386,BILLY,Table,31685,Affordable and stylish furniture for everyday use.,Ola Wihlborg,24,166,158,"Black, White, Oak",True,4.8,281
+IKEA00387,IVAR,Sofa,44969,Space-saving furniture with easy assembly.,Monika Mulder,86,137,124,"White, Beige, Grey",False,3.5,415
+IKEA00388,EKET,Bookshelf,23470,Affordable and stylish furniture for everyday use.,Ola Wihlborg,32,138,64,"Grey, Oak, Black",True,3.6,453
+IKEA00389,MICKE,Bookshelf,17394,Compact furniture suitable for small apartments.,IKEA Design Team,20,177,163,"Black, Grey, White",False,4.3,357
+IKEA00390,TROFAST,Wardrobe,27293,Durable furniture with practical storage space.,IKEA Design Team,39,139,196,"Grey, Brown, Green",False,4.1,318
+IKEA00391,LACK,Dining Furniture,26546,Simple design with clean Scandinavian lines.,Jon Karlsson,72,171,172,"Green, Black, Brown",False,3.5,162
+IKEA00392,POANG,Wardrobe,46734,Minimalist design suitable for modern homes.,Jon Karlsson,35,88,144,"Brown, White, Black",False,4.6,415
+IKEA00393,MICKE,TV Unit,46181,Space-saving furniture with easy assembly.,IKEA Design Team,40,129,192,"White, Blue, Green",True,3.9,312
+IKEA00394,PAX,Chair,4698,Durable furniture with practical storage space.,Jon Karlsson,67,50,185,"White, Beige, Oak",False,4.2,271
+IKEA00395,LACK,TV Unit,4264,Simple design with clean Scandinavian lines.,Jon Karlsson,83,142,32,"Oak, Blue, Beige",True,3.4,406
+IKEA00396,POANG,Cabinet,34303,Space-saving furniture with easy assembly.,Jon Karlsson,98,73,39,"Beige, Black, Green",True,5.0,49
+IKEA00397,LACK,Bookshelf,23641,Space-saving furniture with easy assembly.,Monika Mulder,71,180,81,"White, Beige, Blue",True,4.8,286
+IKEA00398,LACK,Cabinet,38702,Durable furniture with practical storage space.,Henrik Preutz,55,87,185,"Oak, Green, Blue",True,3.5,213
+IKEA00399,MICKE,Chair,37109,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,57,117,59,"Grey, Green, Blue",True,4.4,499
+IKEA00400,PAX,TV Unit,32194,Simple design with clean Scandinavian lines.,Jon Karlsson,63,147,147,"White, Oak, Green",True,3.1,329
+IKEA00401,TROFAST,Desk,44861,Space-saving furniture with easy assembly.,Jon Karlsson,60,135,120,"White, Beige, Brown",True,3.6,209
+IKEA00402,ALEX,Wardrobe,5481,Affordable and stylish furniture for everyday use.,Jon Karlsson,80,110,120,"Oak, Grey, Brown",True,4.9,354
+IKEA00403,HEMNES,Storage,48806,Compact furniture suitable for small apartments.,Jon Karlsson,50,97,82,"Oak, Black, Blue",True,3.3,59
+IKEA00404,BILLY,Chair,44789,Space-saving furniture with easy assembly.,Monika Mulder,98,31,168,"White, Blue, Oak",True,4.2,257
+IKEA00405,POANG,Bed,32664,Compact furniture suitable for small apartments.,Ola Wihlborg,55,131,86,"Brown, White, Grey",False,4.0,281
+IKEA00406,KALLAX,Cabinet,23258,Minimalist design suitable for modern homes.,Jon Karlsson,78,60,162,"Green, Brown, Beige",True,3.0,112
+IKEA00407,PAX,TV Unit,7101,Durable furniture with practical storage space.,Henrik Preutz,98,96,77,"Grey, Black, Brown",False,4.9,180
+IKEA00408,BESTA,Table,33186,Minimalist design suitable for modern homes.,Jon Karlsson,73,209,125,"Beige, Blue, Oak",True,3.9,297
+IKEA00409,MALM,TV Unit,45457,Compact furniture suitable for small apartments.,IKEA Design Team,54,90,172,"Blue, Green, Oak",True,3.3,496
+IKEA00410,BRIMNES,Table,31496,Simple design with clean Scandinavian lines.,IKEA Design Team,42,137,157,"Brown, Blue, Beige",True,4.6,158
+IKEA00411,LACK,Cabinet,37712,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,32,206,71,"White, Black, Brown",False,4.7,54
+IKEA00412,EKET,Wardrobe,17523,Durable furniture with practical storage space.,Henrik Preutz,91,172,95,"Beige, White, Oak",True,3.7,352
+IKEA00413,POANG,Desk,38303,Affordable and stylish furniture for everyday use.,Ola Wihlborg,42,102,120,"Beige, Green, Grey",False,4.5,233
+IKEA00414,BILLY,Bookshelf,40716,Durable furniture with practical storage space.,Monika Mulder,100,67,72,"Beige, Oak, Green",False,4.7,41
+IKEA00415,BILLY,Table,23018,Compact furniture suitable for small apartments.,Henrik Preutz,60,197,104,"Grey, Green, Beige",False,3.5,232
+IKEA00416,TROFAST,Wardrobe,49513,Affordable and stylish furniture for everyday use.,Ola Wihlborg,77,135,72,"Brown, Blue, White",True,4.5,343
+IKEA00417,LACK,Chair,14299,Compact furniture suitable for small apartments.,Monika Mulder,33,54,46,"Green, Grey, White",True,4.5,273
+IKEA00418,TROFAST,Chair,7310,Durable furniture with practical storage space.,Ola Wihlborg,39,51,197,"Blue, Brown, Black",True,4.5,231
+IKEA00419,ALEX,Table,9102,Affordable and stylish furniture for everyday use.,Jon Karlsson,23,38,199,"Beige, Blue, Brown",False,3.9,450
+IKEA00420,MICKE,Bed,36448,Minimalist design suitable for modern homes.,Jon Karlsson,89,75,181,"Green, Beige, Blue",False,4.0,332
+IKEA00421,MICKE,Bed,23251,Minimalist design suitable for modern homes.,Ola Wihlborg,49,52,143,"Grey, Brown, Oak",True,3.3,10
+IKEA00422,KALLAX,Cabinet,9431,Durable furniture with practical storage space.,Henrik Preutz,80,166,32,"Green, Blue, Oak",True,3.0,225
+IKEA00423,TROFAST,Bed,39624,Compact furniture suitable for small apartments.,IKEA Design Team,90,125,78,"Blue, Grey, Oak",False,3.5,371
+IKEA00424,BRIMNES,Dining Furniture,26039,Simple design with clean Scandinavian lines.,Monika Mulder,48,97,50,"Blue, Beige, Black",True,3.6,385
+IKEA00425,MICKE,Bed,27559,Compact furniture suitable for small apartments.,IKEA Design Team,43,64,104,"Black, Beige, Oak",False,3.5,323
+IKEA00426,EKET,Desk,21512,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,26,166,35,"Brown, White, Green",True,3.3,229
+IKEA00427,BRIMNES,Sofa,15756,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,21,156,85,"Beige, Oak, Brown",False,5.0,242
+IKEA00428,BRIMNES,Sofa,22142,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,27,98,130,"Black, Grey, Oak",True,3.4,435
+IKEA00429,LACK,Bookshelf,1325,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,69,143,93,"White, Black, Oak",True,4.0,111
+IKEA00430,EKET,Bookshelf,45158,Durable furniture with practical storage space.,Henrik Preutz,40,191,40,"Black, Brown, Oak",True,3.4,459
+IKEA00431,KALLAX,Dining Furniture,14771,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,75,113,33,"Brown, Blue, Green",True,3.8,129
+IKEA00432,KALLAX,Sofa,38580,Simple design with clean Scandinavian lines.,Monika Mulder,96,69,125,"Black, Green, Blue",False,3.2,321
+IKEA00433,BESTA,Dining Furniture,4434,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,39,209,167,"Black, Green, Oak",True,3.6,290
+IKEA00434,TROFAST,Dining Furniture,23260,Simple design with clean Scandinavian lines.,Monika Mulder,44,35,126,"Beige, Green, Black",True,4.8,253
+IKEA00435,BRIMNES,Storage,37135,Durable furniture with practical storage space.,Ola Wihlborg,82,78,175,"Brown, Grey, Green",True,4.5,145
+IKEA00436,IVAR,TV Unit,36840,Compact furniture suitable for small apartments.,IKEA Design Team,87,69,145,"Grey, Blue, Brown",True,3.9,402
+IKEA00437,ALEX,Cabinet,25339,Space-saving furniture with easy assembly.,Jon Karlsson,22,188,123,"Oak, Brown, Beige",True,4.3,280
+IKEA00438,IVAR,Bookshelf,12942,Affordable and stylish furniture for everyday use.,Monika Mulder,90,69,186,"Grey, Brown, Oak",True,3.2,272
+IKEA00439,ALEX,Chair,3367,Simple design with clean Scandinavian lines.,Jon Karlsson,42,38,81,"Black, Oak, Green",True,3.1,333
+IKEA00440,IVAR,Bookshelf,43616,Minimalist design suitable for modern homes.,Ola Wihlborg,99,209,181,"Grey, White, Brown",True,4.2,41
+IKEA00441,KALLAX,Desk,43474,Minimalist design suitable for modern homes.,IKEA Design Team,79,193,45,"Beige, Grey, Green",False,4.6,411
+IKEA00442,BRIMNES,Sofa,40930,Durable furniture with practical storage space.,Ola Wihlborg,25,217,48,"Grey, White, Black",True,3.2,123
+IKEA00443,MICKE,Bookshelf,12915,Compact furniture suitable for small apartments.,Ola Wihlborg,51,175,190,"Brown, Grey, Beige",False,4.5,397
+IKEA00444,ALEX,TV Unit,23958,Space-saving furniture with easy assembly.,Monika Mulder,74,56,72,"Brown, Grey, Oak",True,4.3,278
+IKEA00445,POANG,Storage,23588,Durable furniture with practical storage space.,Ola Wihlborg,61,125,135,"Blue, Green, Beige",True,4.2,293
+IKEA00446,MICKE,Desk,25079,Simple design with clean Scandinavian lines.,Ola Wihlborg,52,122,145,"Green, Oak, White",True,5.0,310
+IKEA00447,KALLAX,Cabinet,9351,Durable furniture with practical storage space.,IKEA Design Team,58,86,84,"Beige, White, Green",True,4.8,266
+IKEA00448,MICKE,TV Unit,37960,Compact furniture suitable for small apartments.,IKEA Design Team,24,147,121,"Brown, Black, Green",True,4.8,132
+IKEA00449,HEMNES,Bed,20179,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,71,175,85,"Black, Beige, Brown",False,3.3,427
+IKEA00450,BRIMNES,TV Unit,6748,Affordable and stylish furniture for everyday use.,Henrik Preutz,24,217,177,"Blue, White, Green",True,3.7,423
+IKEA00451,PAX,Bookshelf,8398,Simple design with clean Scandinavian lines.,Jon Karlsson,97,32,192,"Blue, White, Brown",True,3.6,294
+IKEA00452,MALM,Wardrobe,33424,Space-saving furniture with easy assembly.,Jon Karlsson,39,42,130,"Green, Blue, Grey",True,3.4,153
+IKEA00453,TROFAST,Bookshelf,10199,Compact furniture suitable for small apartments.,Henrik Preutz,30,151,176,"White, Grey, Oak",True,3.2,261
+IKEA00454,PAX,Table,9337,Minimalist design suitable for modern homes.,Ola Wihlborg,45,154,131,"Oak, Grey, Blue",True,3.5,141
+IKEA00455,TROFAST,Bookshelf,21694,Space-saving furniture with easy assembly.,Ola Wihlborg,31,58,135,"Blue, Brown, Green",True,3.6,309
+IKEA00456,ALEX,Sofa,20475,Compact furniture suitable for small apartments.,Henrik Preutz,98,143,189,"Brown, Oak, White",True,3.4,196
+IKEA00457,MALM,Chair,7863,Space-saving furniture with easy assembly.,IKEA Design Team,51,188,67,"Grey, White, Brown",True,3.6,246
+IKEA00458,KALLAX,Wardrobe,14196,Space-saving furniture with easy assembly.,Ola Wihlborg,47,82,169,"Grey, Green, Oak",True,4.4,347
+IKEA00459,KALLAX,Bookshelf,38706,Space-saving furniture with easy assembly.,Ola Wihlborg,25,95,73,"White, Brown, Black",True,3.1,340
+IKEA00460,KALLAX,Chair,25969,Space-saving furniture with easy assembly.,Henrik Preutz,66,57,34,"Grey, Blue, Beige",False,3.5,199
+IKEA00461,MICKE,Chair,21172,Minimalist design suitable for modern homes.,Ola Wihlborg,88,52,77,"Oak, Grey, Green",True,3.1,477
+IKEA00462,MICKE,Bed,22359,Minimalist design suitable for modern homes.,Monika Mulder,40,34,118,"Beige, Brown, Green",True,3.5,261
+IKEA00463,LACK,Sofa,41510,Durable furniture with practical storage space.,Monika Mulder,23,172,101,"Oak, Black, Brown",False,4.3,49
+IKEA00464,BRIMNES,Bookshelf,34624,Space-saving furniture with easy assembly.,Ola Wihlborg,100,205,88,"Blue, Black, Grey",True,3.9,164
+IKEA00465,POANG,Wardrobe,29935,Affordable and stylish furniture for everyday use.,Jon Karlsson,46,197,65,"Oak, Blue, Black",True,4.4,465
+IKEA00466,MICKE,Table,28683,Simple design with clean Scandinavian lines.,Jon Karlsson,92,70,111,"Black, Grey, Blue",True,3.4,434
+IKEA00467,MALM,Sofa,21384,Minimalist design suitable for modern homes.,Monika Mulder,58,143,193,"Grey, Black, Blue",True,3.3,18
+IKEA00468,TROFAST,TV Unit,40931,Durable furniture with practical storage space.,Ola Wihlborg,92,186,89,"Oak, Black, Beige",True,3.7,357
+IKEA00469,TROFAST,Storage,9286,Affordable and stylish furniture for everyday use.,Ola Wihlborg,80,212,196,"Beige, Black, Oak",False,3.9,88
+IKEA00470,HEMNES,Desk,2611,Minimalist design suitable for modern homes.,IKEA Design Team,54,135,86,"Oak, Blue, Black",True,3.4,493
+IKEA00471,EKET,TV Unit,32607,Space-saving furniture with easy assembly.,Henrik Preutz,78,93,139,"Blue, Green, White",False,4.4,206
+IKEA00472,POANG,TV Unit,39414,Affordable and stylish furniture for everyday use.,Ola Wihlborg,24,163,57,"Green, Oak, White",True,4.0,207
+IKEA00473,BRIMNES,Sofa,37048,Minimalist design suitable for modern homes.,Ola Wihlborg,100,42,78,"Grey, Oak, Blue",True,4.5,151
+IKEA00474,EKET,Table,28185,Durable furniture with practical storage space.,Ola Wihlborg,26,206,162,"Brown, Oak, Beige",False,3.2,261
+IKEA00475,BILLY,Table,38866,Space-saving furniture with easy assembly.,Ola Wihlborg,37,130,135,"Beige, Oak, White",True,3.9,464
+IKEA00476,BRIMNES,Desk,30297,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,61,207,196,"Brown, Beige, Blue",True,3.2,366
+IKEA00477,EKET,Dining Furniture,24284,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,69,216,160,"Brown, Oak, Grey",False,3.1,92
+IKEA00478,BESTA,TV Unit,43721,Simple design with clean Scandinavian lines.,Jon Karlsson,40,67,75,"White, Oak, Brown",True,4.5,497
+IKEA00479,EKET,Bed,41554,Compact furniture suitable for small apartments.,IKEA Design Team,36,81,30,"Grey, White, Oak",False,4.7,283
+IKEA00480,TROFAST,Sofa,40343,Minimalist design suitable for modern homes.,Jon Karlsson,47,180,198,"Green, Oak, Blue",False,3.2,312
+IKEA00481,KALLAX,Desk,36369,Durable furniture with practical storage space.,Ola Wihlborg,100,172,83,"White, Black, Blue",True,4.3,23
+IKEA00482,MALM,Sofa,44211,Affordable and stylish furniture for everyday use.,Ola Wihlborg,58,114,52,"White, Green, Oak",True,3.3,150
+IKEA00483,POANG,Dining Furniture,45818,Space-saving furniture with easy assembly.,Ola Wihlborg,93,173,75,"Green, Beige, Grey",True,4.9,52
+IKEA00484,TROFAST,Bed,21655,Durable furniture with practical storage space.,Monika Mulder,28,139,170,"Black, Brown, Oak",True,3.2,445
+IKEA00485,LACK,Wardrobe,35039,Minimalist design suitable for modern homes.,Ola Wihlborg,46,208,83,"White, Green, Grey",True,4.0,357
+IKEA00486,POANG,Bed,28486,Affordable and stylish furniture for everyday use.,Henrik Preutz,53,164,177,"Beige, Black, Grey",False,4.0,328
+IKEA00487,EKET,Storage,12289,Affordable and stylish furniture for everyday use.,Jon Karlsson,57,79,30,"Black, White, Oak",True,4.5,111
+IKEA00488,TROFAST,TV Unit,27672,Minimalist design suitable for modern homes.,IKEA Design Team,62,119,173,"Oak, White, Beige",True,4.4,135
+IKEA00489,TROFAST,Chair,20669,Durable furniture with practical storage space.,Ola Wihlborg,90,112,31,"Black, Beige, Brown",True,3.8,296
+IKEA00490,POANG,Sofa,12009,Compact furniture suitable for small apartments.,Henrik Preutz,63,202,152,"Green, Blue, White",True,4.0,326
+IKEA00491,EKET,Cabinet,22460,Minimalist design suitable for modern homes.,Monika Mulder,27,163,106,"Beige, Grey, Blue",True,3.4,355
+IKEA00492,BESTA,Wardrobe,4838,Compact furniture suitable for small apartments.,Henrik Preutz,23,116,126,"Brown, Grey, Blue",False,3.4,64
+IKEA00493,IVAR,Bed,46719,Simple design with clean Scandinavian lines.,Henrik Preutz,24,99,135,"Black, Oak, Green",True,3.9,491
+IKEA00494,LACK,Desk,34911,Durable furniture with practical storage space.,Jon Karlsson,34,125,39,"Oak, White, Green",True,4.6,468
+IKEA00495,MICKE,Table,12964,Durable furniture with practical storage space.,Monika Mulder,87,109,113,"Brown, Blue, White",True,3.4,23
+IKEA00496,EKET,Bookshelf,47270,Simple design with clean Scandinavian lines.,Ola Wihlborg,34,31,109,"White, Beige, Grey",True,3.7,460
+IKEA00497,KALLAX,Chair,34615,Simple design with clean Scandinavian lines.,Henrik Preutz,22,177,109,"Oak, Brown, Black",True,3.6,277
+IKEA00498,BESTA,Storage,44481,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,39,70,100,"Black, White, Grey",True,3.4,184
+IKEA00499,MICKE,Wardrobe,18262,Compact furniture suitable for small apartments.,Henrik Preutz,93,92,73,"Black, Brown, Grey",True,4.1,30
+IKEA00500,MALM,Sofa,31349,Space-saving furniture with easy assembly.,IKEA Design Team,33,128,43,"Black, Oak, Blue",True,4.4,461
+IKEA00501,POANG,Dining Furniture,45727,Space-saving furniture with easy assembly.,Monika Mulder,98,121,109,"Beige, Blue, Black",True,4.9,391
+IKEA00502,TROFAST,Storage,37709,Compact furniture suitable for small apartments.,IKEA Design Team,79,54,146,"Grey, Beige, Blue",False,3.9,490
+IKEA00503,HEMNES,Table,40930,Durable furniture with practical storage space.,Henrik Preutz,70,76,200,"Beige, Blue, Brown",False,4.0,38
+IKEA00504,EKET,Chair,23531,Minimalist design suitable for modern homes.,Monika Mulder,41,102,119,"Brown, Grey, White",False,4.6,412
+IKEA00505,BILLY,Wardrobe,36946,Space-saving furniture with easy assembly.,IKEA Design Team,58,166,148,"Blue, Grey, Oak",True,4.2,285
+IKEA00506,MALM,Storage,25652,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,46,207,181,"Blue, Green, Oak",True,4.1,125
+IKEA00507,MALM,Dining Furniture,44382,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,82,59,181,"Green, Brown, Grey",True,4.6,95
+IKEA00508,LACK,Bookshelf,5060,Affordable and stylish furniture for everyday use.,IKEA Design Team,96,127,113,"Green, Beige, Blue",True,3.2,423
+IKEA00509,MALM,TV Unit,49977,Space-saving furniture with easy assembly.,IKEA Design Team,38,199,68,"Green, Grey, Brown",False,4.2,233
+IKEA00510,HEMNES,Desk,45162,Durable furniture with practical storage space.,Henrik Preutz,92,203,107,"Blue, Beige, Brown",True,4.2,318
+IKEA00511,MICKE,Bookshelf,8858,Simple design with clean Scandinavian lines.,Henrik Preutz,27,124,170,"White, Green, Beige",True,3.2,149
+IKEA00512,IVAR,Sofa,15915,Minimalist design suitable for modern homes.,Ola Wihlborg,70,190,111,"Blue, Oak, Green",False,4.1,344
+IKEA00513,MALM,Storage,9613,Compact furniture suitable for small apartments.,Ola Wihlborg,69,122,136,"Brown, Green, Beige",True,3.3,41
+IKEA00514,ALEX,Sofa,9935,Space-saving furniture with easy assembly.,Monika Mulder,75,64,51,"Brown, Beige, Oak",False,4.8,361
+IKEA00515,POANG,Bookshelf,41344,Compact furniture suitable for small apartments.,Monika Mulder,85,138,171,"Green, Oak, Brown",True,3.4,314
+IKEA00516,KALLAX,TV Unit,33146,Simple design with clean Scandinavian lines.,Jon Karlsson,84,98,135,"Beige, White, Blue",False,4.4,62
+IKEA00517,POANG,Storage,45751,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,87,101,149,"Black, Grey, Blue",True,3.5,327
+IKEA00518,BRIMNES,Dining Furniture,44324,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,94,109,186,"White, Brown, Grey",True,3.9,267
+IKEA00519,EKET,TV Unit,48590,Durable furniture with practical storage space.,Monika Mulder,65,105,104,"Brown, White, Beige",True,4.5,293
+IKEA00520,LACK,Sofa,41740,Minimalist design suitable for modern homes.,Ola Wihlborg,41,176,43,"Grey, Blue, Beige",True,3.6,47
+IKEA00521,MALM,Cabinet,5536,Simple design with clean Scandinavian lines.,Henrik Preutz,52,63,187,"Grey, Brown, Blue",True,4.5,314
+IKEA00522,MALM,TV Unit,48927,Compact furniture suitable for small apartments.,Monika Mulder,67,74,96,"Oak, Green, Black",True,3.7,48
+IKEA00523,MALM,TV Unit,10601,Simple design with clean Scandinavian lines.,Monika Mulder,72,128,90,"Green, Beige, Blue",True,3.4,380
+IKEA00524,IVAR,Wardrobe,4059,Space-saving furniture with easy assembly.,Henrik Preutz,34,43,72,"Green, Oak, Blue",True,4.0,490
+IKEA00525,TROFAST,Cabinet,15812,Minimalist design suitable for modern homes.,Monika Mulder,80,97,67,"Blue, White, Brown",False,3.8,166
+IKEA00526,MICKE,Dining Furniture,3187,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,65,140,186,"Grey, Brown, Blue",True,4.6,135
+IKEA00527,ALEX,TV Unit,26133,Minimalist design suitable for modern homes.,Jon Karlsson,95,79,163,"Beige, Green, Blue",True,3.6,10
+IKEA00528,ALEX,Sofa,4952,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,32,164,56,"Green, Brown, Black",True,3.5,22
+IKEA00529,KALLAX,TV Unit,6524,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,47,183,193,"Black, Beige, White",True,4.7,71
+IKEA00530,PAX,Dining Furniture,42960,Affordable and stylish furniture for everyday use.,Jon Karlsson,34,208,77,"Grey, Brown, Oak",True,4.3,477
+IKEA00531,LACK,Bookshelf,45864,Space-saving furniture with easy assembly.,Henrik Preutz,52,71,48,"Grey, Blue, White",False,3.8,35
+IKEA00532,LACK,Bed,12159,Minimalist design suitable for modern homes.,IKEA Design Team,82,81,186,"Blue, Black, Beige",False,3.2,281
+IKEA00533,TROFAST,Bookshelf,14811,Affordable and stylish furniture for everyday use.,IKEA Design Team,76,213,96,"Black, White, Blue",True,4.1,133
+IKEA00534,TROFAST,Storage,1728,Minimalist design suitable for modern homes.,Jon Karlsson,20,39,200,"Blue, Brown, Black",True,4.8,299
+IKEA00535,KALLAX,Cabinet,46872,Simple design with clean Scandinavian lines.,Monika Mulder,81,141,133,"Black, Grey, Green",True,3.8,357
+IKEA00536,IVAR,Storage,8442,Affordable and stylish furniture for everyday use.,Ola Wihlborg,65,115,107,"Blue, White, Beige",True,3.7,441
+IKEA00537,BESTA,Chair,30621,Simple design with clean Scandinavian lines.,Henrik Preutz,45,75,171,"White, Oak, Beige",True,3.6,204
+IKEA00538,BILLY,Dining Furniture,45642,Durable furniture with practical storage space.,Monika Mulder,30,191,142,"Oak, Black, White",True,3.1,308
+IKEA00539,HEMNES,Storage,25977,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,59,157,166,"Green, White, Blue",True,3.1,408
+IKEA00540,BRIMNES,Sofa,27074,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,86,147,167,"Brown, Beige, Grey",True,4.8,23
+IKEA00541,BRIMNES,Table,32539,Space-saving furniture with easy assembly.,IKEA Design Team,80,188,41,"Oak, Beige, Blue",True,3.0,328
+IKEA00542,KALLAX,Bed,6875,Minimalist design suitable for modern homes.,Ola Wihlborg,41,181,46,"Black, White, Oak",True,3.1,108
+IKEA00543,PAX,Wardrobe,48859,Space-saving furniture with easy assembly.,Monika Mulder,61,60,177,"Brown, Green, Black",True,4.2,176
+IKEA00544,BILLY,Chair,18448,Compact furniture suitable for small apartments.,Monika Mulder,41,208,124,"Brown, Oak, Black",True,3.3,410
+IKEA00545,IVAR,Dining Furniture,40635,Minimalist design suitable for modern homes.,Jon Karlsson,22,154,50,"White, Green, Black",True,4.4,308
+IKEA00546,LACK,Bookshelf,45948,Simple design with clean Scandinavian lines.,Monika Mulder,36,82,66,"Grey, Green, Oak",False,3.5,94
+IKEA00547,POANG,Sofa,39576,Compact furniture suitable for small apartments.,Monika Mulder,98,52,190,"Grey, Brown, Oak",True,4.1,103
+IKEA00548,BILLY,Cabinet,6769,Affordable and stylish furniture for everyday use.,Henrik Preutz,89,159,86,"Green, Blue, Beige",True,3.6,104
+IKEA00549,BILLY,Table,45407,Simple design with clean Scandinavian lines.,Monika Mulder,83,75,70,"White, Green, Beige",True,3.6,227
+IKEA00550,LACK,Wardrobe,40922,Simple design with clean Scandinavian lines.,Monika Mulder,25,56,43,"Brown, Black, White",False,4.0,41
+IKEA00551,HEMNES,Storage,39342,Affordable and stylish furniture for everyday use.,Henrik Preutz,73,80,113,"Oak, Blue, White",True,3.5,126
+IKEA00552,BRIMNES,Bookshelf,13603,Minimalist design suitable for modern homes.,Jon Karlsson,29,150,179,"Green, White, Oak",True,3.4,317
+IKEA00553,EKET,Table,25883,Durable furniture with practical storage space.,Jon Karlsson,78,214,79,"Beige, Brown, Black",True,3.3,359
+IKEA00554,POANG,Sofa,18888,Compact furniture suitable for small apartments.,IKEA Design Team,79,147,137,"Brown, Blue, Green",True,4.8,314
+IKEA00555,MALM,Dining Furniture,40576,Compact furniture suitable for small apartments.,Ola Wihlborg,90,88,52,"Blue, Green, Grey",False,4.7,115
+IKEA00556,POANG,Storage,30826,Durable furniture with practical storage space.,IKEA Design Team,74,218,93,"Oak, Brown, Green",True,4.8,307
+IKEA00557,MALM,TV Unit,831,Minimalist design suitable for modern homes.,IKEA Design Team,25,150,159,"White, Oak, Grey",False,4.0,413
+IKEA00558,BRIMNES,Chair,30150,Minimalist design suitable for modern homes.,Jon Karlsson,30,172,33,"Blue, Black, Green",True,3.6,336
+IKEA00559,BILLY,Sofa,31942,Space-saving furniture with easy assembly.,Henrik Preutz,40,210,147,"White, Oak, Blue",True,4.7,212
+IKEA00560,MALM,Wardrobe,41577,Minimalist design suitable for modern homes.,IKEA Design Team,100,48,128,"Beige, Grey, White",True,3.9,143
+IKEA00561,BRIMNES,TV Unit,36048,Affordable and stylish furniture for everyday use.,Jon Karlsson,30,188,115,"White, Grey, Beige",True,4.8,61
+IKEA00562,PAX,Wardrobe,30996,Affordable and stylish furniture for everyday use.,IKEA Design Team,66,123,74,"Black, Grey, Beige",True,3.3,176
+IKEA00563,HEMNES,Cabinet,7941,Space-saving furniture with easy assembly.,Monika Mulder,94,209,83,"Oak, Brown, Blue",True,4.0,221
+IKEA00564,LACK,Sofa,4651,Durable furniture with practical storage space.,Henrik Preutz,77,154,158,"Black, Oak, Beige",True,3.9,193
+IKEA00565,TROFAST,Dining Furniture,45930,Simple design with clean Scandinavian lines.,IKEA Design Team,44,147,52,"Black, Oak, Green",True,4.9,44
+IKEA00566,BILLY,Table,18583,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,83,68,82,"White, Brown, Oak",True,3.9,220
+IKEA00567,EKET,Dining Furniture,1906,Durable furniture with practical storage space.,Jon Karlsson,28,35,89,"Beige, Oak, Grey",True,4.3,407
+IKEA00568,BESTA,Storage,39385,Space-saving furniture with easy assembly.,Ola Wihlborg,90,143,147,"Grey, Green, Black",True,3.3,138
+IKEA00569,HEMNES,Storage,24871,Durable furniture with practical storage space.,IKEA Design Team,38,120,102,"Green, Black, Grey",True,4.4,151
+IKEA00570,MALM,Table,46905,Space-saving furniture with easy assembly.,Jon Karlsson,40,90,59,"White, Brown, Grey",True,3.9,194
+IKEA00571,MALM,Desk,37362,Space-saving furniture with easy assembly.,IKEA Design Team,60,118,67,"Beige, Oak, Grey",True,4.1,67
+IKEA00572,KALLAX,Bookshelf,33228,Simple design with clean Scandinavian lines.,Jon Karlsson,78,111,69,"White, Beige, Grey",True,4.3,156
+IKEA00573,EKET,Bed,49923,Affordable and stylish furniture for everyday use.,Jon Karlsson,92,216,143,"Beige, Green, White",False,4.8,76
+IKEA00574,ALEX,Cabinet,8158,Durable furniture with practical storage space.,IKEA Design Team,71,188,86,"Green, Brown, White",True,3.1,333
+IKEA00575,HEMNES,TV Unit,34999,Compact furniture suitable for small apartments.,Henrik Preutz,45,35,51,"Green, Beige, Blue",True,5.0,206
+IKEA00576,HEMNES,Storage,21323,Affordable and stylish furniture for everyday use.,Ola Wihlborg,85,44,200,"Beige, Oak, Black",False,3.7,195
+IKEA00577,KALLAX,Bed,23103,Durable furniture with practical storage space.,Henrik Preutz,77,173,52,"Oak, Beige, Green",False,4.6,152
+IKEA00578,MALM,Bookshelf,48248,Minimalist design suitable for modern homes.,Jon Karlsson,95,183,52,"Brown, Black, Green",False,5.0,273
+IKEA00579,BESTA,Chair,39209,Simple design with clean Scandinavian lines.,Monika Mulder,31,31,134,"Grey, Oak, Black",False,4.4,391
+IKEA00580,MALM,Desk,12689,Simple design with clean Scandinavian lines.,Monika Mulder,57,171,155,"White, Blue, Brown",True,4.0,383
+IKEA00581,EKET,Desk,2257,Simple design with clean Scandinavian lines.,IKEA Design Team,39,97,106,"Green, White, Beige",True,3.8,256
+IKEA00582,BRIMNES,Dining Furniture,16538,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,55,156,47,"Beige, Grey, Oak",False,4.7,326
+IKEA00583,ALEX,Storage,45997,Simple design with clean Scandinavian lines.,IKEA Design Team,67,161,177,"White, Blue, Brown",True,4.2,79
+IKEA00584,BESTA,Storage,45933,Compact furniture suitable for small apartments.,Henrik Preutz,40,43,99,"Beige, Oak, Green",True,3.1,154
+IKEA00585,MICKE,Dining Furniture,5533,Affordable and stylish furniture for everyday use.,Jon Karlsson,100,76,54,"Brown, Grey, Green",True,4.7,355
+IKEA00586,TROFAST,Bed,18289,Space-saving furniture with easy assembly.,Henrik Preutz,32,166,178,"Beige, Blue, Black",True,3.3,149
+IKEA00587,BESTA,Storage,27499,Durable furniture with practical storage space.,Jon Karlsson,33,85,69,"Oak, Blue, Black",True,3.8,474
+IKEA00588,BILLY,Chair,9099,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,64,109,122,"Brown, Blue, Oak",True,3.3,160
+IKEA00589,KALLAX,Chair,15071,Compact furniture suitable for small apartments.,Jon Karlsson,49,108,62,"Oak, Black, White",False,4.4,406
+IKEA00590,BILLY,Chair,1731,Simple design with clean Scandinavian lines.,Monika Mulder,75,40,80,"Black, White, Beige",True,3.9,470
+IKEA00591,LACK,Sofa,4840,Durable furniture with practical storage space.,IKEA Design Team,32,61,184,"Oak, Grey, Black",True,4.3,19
+IKEA00592,BILLY,Table,49401,Durable furniture with practical storage space.,Ola Wihlborg,64,120,71,"Oak, Grey, Blue",True,3.2,301
+IKEA00593,TROFAST,Sofa,35156,Compact furniture suitable for small apartments.,Jon Karlsson,56,73,167,"White, Beige, Green",True,4.8,440
+IKEA00594,BRIMNES,Storage,24515,Space-saving furniture with easy assembly.,Ola Wihlborg,43,142,57,"Brown, Blue, Green",False,3.8,268
+IKEA00595,HEMNES,Bookshelf,7894,Simple design with clean Scandinavian lines.,Henrik Preutz,35,149,58,"Brown, Oak, Green",True,4.1,25
+IKEA00596,BILLY,Wardrobe,32854,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,56,146,183,"Grey, Beige, Oak",True,4.1,153
+IKEA00597,IVAR,Bookshelf,12871,Simple design with clean Scandinavian lines.,IKEA Design Team,80,203,124,"Brown, White, Beige",False,4.3,207
+IKEA00598,EKET,Cabinet,43657,Space-saving furniture with easy assembly.,IKEA Design Team,35,66,131,"Blue, Beige, Grey",True,4.5,461
+IKEA00599,MALM,Chair,24335,Compact furniture suitable for small apartments.,Henrik Preutz,45,182,133,"Black, Green, Oak",False,3.6,370
+IKEA00600,TROFAST,TV Unit,39404,Durable furniture with practical storage space.,Monika Mulder,65,151,200,"Blue, Oak, Grey",True,3.3,237
+IKEA00601,BILLY,Chair,16928,Minimalist design suitable for modern homes.,Monika Mulder,49,190,64,"White, Green, Beige",True,4.7,260
+IKEA00602,ALEX,Sofa,12236,Minimalist design suitable for modern homes.,Ola Wihlborg,61,69,107,"Black, Blue, White",False,4.6,108
+IKEA00603,LACK,Dining Furniture,33129,Minimalist design suitable for modern homes.,Ola Wihlborg,53,168,117,"White, Blue, Green",False,4.8,65
+IKEA00604,PAX,Storage,21113,Simple design with clean Scandinavian lines.,Monika Mulder,76,147,39,"White, Black, Grey",True,4.8,89
+IKEA00605,EKET,Bookshelf,9312,Durable furniture with practical storage space.,Monika Mulder,82,58,175,"Green, Beige, Grey",False,4.0,442
+IKEA00606,MALM,Cabinet,4151,Minimalist design suitable for modern homes.,Henrik Preutz,83,181,126,"Beige, Blue, Brown",True,3.1,307
+IKEA00607,KALLAX,Table,24512,Durable furniture with practical storage space.,Ola Wihlborg,23,190,117,"Blue, White, Oak",True,5.0,215
+IKEA00608,BESTA,Sofa,43834,Compact furniture suitable for small apartments.,Jon Karlsson,50,195,109,"Black, Beige, White",True,3.2,91
+IKEA00609,KALLAX,Cabinet,21871,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,74,175,161,"Blue, Brown, White",False,4.2,167
+IKEA00610,PAX,TV Unit,26077,Durable furniture with practical storage space.,Ola Wihlborg,32,155,55,"Oak, Brown, Green",True,3.3,158
+IKEA00611,BESTA,Bookshelf,13721,Minimalist design suitable for modern homes.,IKEA Design Team,88,84,103,"Grey, White, Brown",False,4.6,324
+IKEA00612,BRIMNES,Chair,47534,Simple design with clean Scandinavian lines.,Ola Wihlborg,32,181,116,"Grey, White, Green",False,3.9,182
+IKEA00613,TROFAST,Chair,43198,Simple design with clean Scandinavian lines.,Henrik Preutz,84,106,140,"Beige, Black, Oak",False,3.5,268
+IKEA00614,EKET,Dining Furniture,36384,Compact furniture suitable for small apartments.,IKEA Design Team,100,210,162,"Brown, Grey, Oak",True,4.3,426
+IKEA00615,BRIMNES,Storage,18058,Space-saving furniture with easy assembly.,Ola Wihlborg,98,141,174,"White, Grey, Black",True,3.9,128
+IKEA00616,MALM,Dining Furniture,20177,Simple design with clean Scandinavian lines.,Monika Mulder,72,111,46,"Oak, Blue, Green",True,4.6,335
+IKEA00617,MALM,Bed,45512,Affordable and stylish furniture for everyday use.,Jon Karlsson,71,91,59,"Brown, Black, White",True,4.6,163
+IKEA00618,EKET,Storage,37187,Minimalist design suitable for modern homes.,Monika Mulder,24,81,70,"Grey, Black, White",True,4.6,147
+IKEA00619,ALEX,Cabinet,12032,Space-saving furniture with easy assembly.,IKEA Design Team,82,35,44,"Black, Brown, Grey",True,4.7,466
+IKEA00620,PAX,Wardrobe,44517,Space-saving furniture with easy assembly.,IKEA Design Team,70,215,65,"Oak, White, Grey",True,4.0,429
+IKEA00621,POANG,Cabinet,17001,Minimalist design suitable for modern homes.,IKEA Design Team,50,183,61,"Beige, Brown, Grey",False,4.6,385
+IKEA00622,HEMNES,Bookshelf,14786,Compact furniture suitable for small apartments.,IKEA Design Team,42,84,100,"Green, Oak, Brown",True,4.0,196
+IKEA00623,BRIMNES,Chair,21240,Affordable and stylish furniture for everyday use.,Monika Mulder,80,204,93,"Grey, Blue, Black",True,4.0,193
+IKEA00624,IVAR,Bed,1880,Space-saving furniture with easy assembly.,Ola Wihlborg,24,219,199,"White, Beige, Blue",True,3.5,201
+IKEA00625,LACK,Dining Furniture,46414,Durable furniture with practical storage space.,IKEA Design Team,88,90,143,"Blue, White, Oak",True,3.6,484
+IKEA00626,IVAR,Desk,19990,Compact furniture suitable for small apartments.,Jon Karlsson,76,191,111,"Blue, Green, White",True,4.7,426
+IKEA00627,TROFAST,Storage,31372,Space-saving furniture with easy assembly.,Monika Mulder,62,213,138,"Black, Blue, Green",True,4.0,185
+IKEA00628,PAX,TV Unit,48289,Simple design with clean Scandinavian lines.,Ola Wihlborg,61,146,37,"White, Beige, Blue",True,4.3,410
+IKEA00629,ALEX,Table,700,Minimalist design suitable for modern homes.,Jon Karlsson,100,108,110,"Black, White, Green",True,4.0,398
+IKEA00630,IVAR,Dining Furniture,9024,Simple design with clean Scandinavian lines.,Ola Wihlborg,72,111,145,"Green, Blue, Beige",True,3.5,356
+IKEA00631,POANG,Wardrobe,18966,Compact furniture suitable for small apartments.,IKEA Design Team,73,124,76,"Blue, Oak, Grey",True,3.0,16
+IKEA00632,MICKE,Dining Furniture,40607,Space-saving furniture with easy assembly.,Jon Karlsson,31,148,80,"Grey, Beige, Black",True,3.8,224
+IKEA00633,POANG,Bed,10280,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,41,175,60,"White, Beige, Grey",False,4.5,480
+IKEA00634,EKET,Dining Furniture,32883,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,46,78,98,"Grey, Beige, Oak",False,3.3,443
+IKEA00635,HEMNES,TV Unit,14626,Simple design with clean Scandinavian lines.,Henrik Preutz,44,137,76,"Blue, Green, Black",True,3.6,139
+IKEA00636,HEMNES,TV Unit,30054,Compact furniture suitable for small apartments.,Henrik Preutz,94,205,195,"Green, White, Blue",False,3.3,170
+IKEA00637,BRIMNES,Bookshelf,45512,Compact furniture suitable for small apartments.,Monika Mulder,74,218,182,"Grey, White, Blue",True,3.1,481
+IKEA00638,HEMNES,Storage,23718,Affordable and stylish furniture for everyday use.,Ola Wihlborg,25,31,94,"Blue, Brown, Oak",True,3.3,461
+IKEA00639,MICKE,Sofa,38541,Compact furniture suitable for small apartments.,Henrik Preutz,41,158,156,"Beige, Oak, Black",True,3.6,276
+IKEA00640,PAX,Table,17564,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,25,62,157,"Grey, Beige, Brown",False,3.6,453
+IKEA00641,LACK,TV Unit,17784,Affordable and stylish furniture for everyday use.,Henrik Preutz,75,72,110,"Green, Blue, Black",False,3.1,81
+IKEA00642,KALLAX,Desk,12501,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,53,71,149,"Blue, White, Oak",True,3.9,368
+IKEA00643,MICKE,Storage,30498,Minimalist design suitable for modern homes.,IKEA Design Team,38,61,119,"Black, Green, Brown",True,4.7,388
+IKEA00644,MICKE,Bed,37411,Space-saving furniture with easy assembly.,Ola Wihlborg,47,179,31,"Brown, Oak, White",True,4.5,351
+IKEA00645,BILLY,Wardrobe,2200,Durable furniture with practical storage space.,IKEA Design Team,70,125,181,"Black, Blue, Brown",True,3.1,240
+IKEA00646,IVAR,Dining Furniture,31946,Minimalist design suitable for modern homes.,Henrik Preutz,96,198,31,"Beige, White, Green",False,3.6,379
+IKEA00647,BRIMNES,TV Unit,8974,Compact furniture suitable for small apartments.,IKEA Design Team,56,112,44,"Black, Grey, Blue",False,3.2,135
+IKEA00648,MALM,Desk,26642,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,46,71,129,"Blue, Brown, Beige",True,3.2,256
+IKEA00649,TROFAST,Bookshelf,48726,Simple design with clean Scandinavian lines.,Henrik Preutz,97,63,121,"Black, Blue, Brown",True,4.0,458
+IKEA00650,PAX,Storage,18094,Affordable and stylish furniture for everyday use.,Ola Wihlborg,74,53,138,"Beige, Grey, Black",False,4.3,52
+IKEA00651,KALLAX,Cabinet,22895,Minimalist design suitable for modern homes.,Jon Karlsson,39,156,164,"Black, Brown, Oak",False,3.2,415
+IKEA00652,EKET,Bed,10238,Compact furniture suitable for small apartments.,Henrik Preutz,51,163,139,"Grey, Green, White",True,4.8,267
+IKEA00653,BILLY,Cabinet,28346,Minimalist design suitable for modern homes.,IKEA Design Team,79,199,175,"Grey, Brown, Blue",True,4.5,13
+IKEA00654,BILLY,Dining Furniture,30834,Compact furniture suitable for small apartments.,Jon Karlsson,70,41,51,"Blue, Beige, Brown",True,4.2,237
+IKEA00655,TROFAST,Dining Furniture,29986,Affordable and stylish furniture for everyday use.,Henrik Preutz,63,77,84,"Brown, White, Beige",True,4.7,59
+IKEA00656,PAX,Cabinet,1673,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,34,33,73,"Green, Oak, Beige",False,4.7,499
+IKEA00657,BRIMNES,TV Unit,48072,Minimalist design suitable for modern homes.,Henrik Preutz,99,187,122,"Blue, Green, Brown",True,3.3,12
+IKEA00658,HEMNES,Chair,1540,Space-saving furniture with easy assembly.,Jon Karlsson,23,83,153,"Brown, Beige, Black",False,4.7,444
+IKEA00659,TROFAST,Cabinet,13010,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,79,67,151,"Blue, White, Green",True,4.8,383
+IKEA00660,BRIMNES,Storage,32287,Minimalist design suitable for modern homes.,IKEA Design Team,77,179,92,"Oak, Brown, Grey",False,3.1,9
+IKEA00661,BILLY,Dining Furniture,47232,Minimalist design suitable for modern homes.,Monika Mulder,83,218,178,"Grey, White, Oak",False,4.0,307
+IKEA00662,BRIMNES,TV Unit,44976,Simple design with clean Scandinavian lines.,Monika Mulder,49,212,45,"White, Oak, Grey",True,4.1,142
+IKEA00663,ALEX,Bookshelf,31519,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,99,195,118,"Green, Beige, Oak",True,3.3,376
+IKEA00664,HEMNES,Storage,23033,Minimalist design suitable for modern homes.,Jon Karlsson,84,86,180,"Beige, Grey, Green",False,3.3,155
+IKEA00665,BRIMNES,Bookshelf,27818,Simple design with clean Scandinavian lines.,Henrik Preutz,80,71,189,"Oak, Brown, Beige",True,4.3,71
+IKEA00666,MALM,Desk,10743,Affordable and stylish furniture for everyday use.,Monika Mulder,32,136,156,"Grey, Black, Blue",True,5.0,188
+IKEA00667,LACK,Wardrobe,44862,Compact furniture suitable for small apartments.,Jon Karlsson,84,38,46,"Beige, Oak, White",True,3.2,119
+IKEA00668,EKET,Bed,22802,Simple design with clean Scandinavian lines.,Henrik Preutz,25,172,98,"Brown, Blue, Beige",True,4.4,479
+IKEA00669,EKET,Storage,7768,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,98,56,173,"White, Grey, Green",True,4.3,450
+IKEA00670,HEMNES,Wardrobe,10790,Space-saving furniture with easy assembly.,Henrik Preutz,76,159,157,"Black, Green, Beige",True,3.7,75
+IKEA00671,BILLY,Desk,29276,Minimalist design suitable for modern homes.,IKEA Design Team,51,151,117,"Grey, Green, Black",True,3.5,371
+IKEA00672,TROFAST,Bookshelf,24134,Space-saving furniture with easy assembly.,Jon Karlsson,39,165,137,"Oak, Black, Green",False,4.8,464
+IKEA00673,EKET,Cabinet,45207,Durable furniture with practical storage space.,IKEA Design Team,76,67,32,"Black, White, Brown",True,3.8,400
+IKEA00674,MALM,Bookshelf,4527,Minimalist design suitable for modern homes.,IKEA Design Team,39,177,44,"Grey, Oak, Blue",True,4.4,165
+IKEA00675,BESTA,Sofa,18834,Affordable and stylish furniture for everyday use.,Ola Wihlborg,38,209,133,"Green, Beige, Black",False,4.4,459
+IKEA00676,TROFAST,Dining Furniture,27008,Simple design with clean Scandinavian lines.,Jon Karlsson,58,51,39,"Beige, Oak, Green",True,4.0,281
+IKEA00677,LACK,Desk,6582,Affordable and stylish furniture for everyday use.,Ola Wihlborg,59,163,117,"Brown, White, Blue",True,3.5,401
+IKEA00678,LACK,Bookshelf,33612,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,67,96,190,"Beige, White, Blue",True,3.9,298
+IKEA00679,BRIMNES,Sofa,30196,Durable furniture with practical storage space.,Jon Karlsson,94,174,190,"Oak, Brown, Blue",True,4.3,422
+IKEA00680,BRIMNES,TV Unit,44567,Compact furniture suitable for small apartments.,Monika Mulder,86,218,93,"Black, Brown, Grey",True,4.6,189
+IKEA00681,EKET,Chair,10103,Space-saving furniture with easy assembly.,Monika Mulder,72,50,53,"White, Oak, Black",False,3.4,44
+IKEA00682,BESTA,Dining Furniture,34987,Minimalist design suitable for modern homes.,Ola Wihlborg,91,162,131,"Grey, Green, Oak",False,5.0,357
+IKEA00683,EKET,Bookshelf,11171,Compact furniture suitable for small apartments.,Ola Wihlborg,36,154,147,"Brown, Beige, Grey",True,4.4,238
+IKEA00684,EKET,Sofa,49421,Compact furniture suitable for small apartments.,Ola Wihlborg,67,60,184,"Blue, White, Green",True,4.1,25
+IKEA00685,MICKE,Table,8215,Durable furniture with practical storage space.,Henrik Preutz,67,107,105,"Green, White, Black",True,4.6,220
+IKEA00686,KALLAX,Bed,19077,Compact furniture suitable for small apartments.,Jon Karlsson,82,30,61,"Beige, White, Blue",False,4.0,163
+IKEA00687,POANG,Storage,22638,Simple design with clean Scandinavian lines.,Monika Mulder,80,214,185,"Brown, Blue, Black",False,4.5,346
+IKEA00688,EKET,Table,48200,Durable furniture with practical storage space.,IKEA Design Team,99,200,189,"Blue, Oak, Black",False,3.7,28
+IKEA00689,ALEX,Storage,48727,Durable furniture with practical storage space.,IKEA Design Team,41,211,36,"Grey, Green, Beige",True,4.3,48
+IKEA00690,HEMNES,TV Unit,36008,Affordable and stylish furniture for everyday use.,IKEA Design Team,92,163,78,"Green, Grey, White",True,4.3,277
+IKEA00691,MALM,Sofa,18518,Simple design with clean Scandinavian lines.,Jon Karlsson,51,210,178,"Green, White, Grey",True,3.8,28
+IKEA00692,EKET,Sofa,22778,Minimalist design suitable for modern homes.,Jon Karlsson,73,36,165,"Beige, Oak, Brown",True,3.2,55
+IKEA00693,MICKE,Table,19199,Compact furniture suitable for small apartments.,Jon Karlsson,52,52,69,"Grey, Oak, Beige",True,3.1,497
+IKEA00694,BESTA,Table,2279,Space-saving furniture with easy assembly.,IKEA Design Team,58,129,55,"Beige, Black, Oak",True,3.5,487
+IKEA00695,IVAR,Chair,3898,Compact furniture suitable for small apartments.,Jon Karlsson,96,180,90,"Green, Grey, Blue",False,4.9,142
+IKEA00696,KALLAX,Wardrobe,30961,Affordable and stylish furniture for everyday use.,Monika Mulder,28,153,37,"Blue, Beige, Black",True,3.5,498
+IKEA00697,POANG,Dining Furniture,7151,Compact furniture suitable for small apartments.,Ola Wihlborg,36,107,175,"Blue, Oak, White",True,4.6,77
+IKEA00698,BESTA,Cabinet,11521,Simple design with clean Scandinavian lines.,Jon Karlsson,88,138,172,"Green, White, Blue",False,4.9,322
+IKEA00699,LACK,Dining Furniture,11468,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,81,99,183,"Grey, Blue, Beige",False,5.0,436
+IKEA00700,ALEX,Desk,38847,Simple design with clean Scandinavian lines.,Ola Wihlborg,56,41,71,"Black, Brown, White",False,4.4,430
+IKEA00701,MALM,Cabinet,18813,Minimalist design suitable for modern homes.,Jon Karlsson,98,159,111,"Beige, Green, Brown",False,3.5,344
+IKEA00702,BESTA,Wardrobe,14302,Minimalist design suitable for modern homes.,Ola Wihlborg,62,34,64,"White, Grey, Oak",True,4.8,349
+IKEA00703,MALM,Bookshelf,36923,Space-saving furniture with easy assembly.,Monika Mulder,70,167,50,"Black, Grey, White",False,4.3,185
+IKEA00704,IVAR,Bookshelf,39906,Durable furniture with practical storage space.,Monika Mulder,42,208,32,"Black, Oak, Brown",True,3.9,118
+IKEA00705,BRIMNES,Sofa,18923,Space-saving furniture with easy assembly.,Henrik Preutz,44,53,187,"Grey, Blue, Beige",True,3.5,257
+IKEA00706,BESTA,Sofa,18898,Minimalist design suitable for modern homes.,Ola Wihlborg,46,31,80,"Blue, White, Brown",False,3.3,104
+IKEA00707,ALEX,TV Unit,44550,Space-saving furniture with easy assembly.,Ola Wihlborg,92,74,46,"Brown, Beige, White",True,3.5,296
+IKEA00708,IVAR,Desk,34779,Space-saving furniture with easy assembly.,Henrik Preutz,44,203,35,"Grey, Beige, Green",False,3.0,223
+IKEA00709,ALEX,Dining Furniture,43099,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,75,134,100,"Black, Beige, Grey",False,4.0,269
+IKEA00710,TROFAST,Sofa,47764,Compact furniture suitable for small apartments.,IKEA Design Team,55,137,166,"Green, Brown, White",False,3.4,46
+IKEA00711,POANG,Sofa,48828,Compact furniture suitable for small apartments.,Monika Mulder,29,93,80,"Brown, Green, Blue",True,4.3,54
+IKEA00712,KALLAX,Storage,28807,Simple design with clean Scandinavian lines.,IKEA Design Team,95,190,115,"Grey, Black, White",False,3.5,179
+IKEA00713,IVAR,Sofa,22361,Affordable and stylish furniture for everyday use.,Jon Karlsson,29,183,188,"Green, Blue, White",False,4.2,48
+IKEA00714,KALLAX,Sofa,25231,Durable furniture with practical storage space.,IKEA Design Team,36,45,143,"White, Brown, Grey",False,3.1,351
+IKEA00715,KALLAX,Cabinet,3920,Durable furniture with practical storage space.,Monika Mulder,71,54,188,"Blue, Black, Grey",True,3.9,242
+IKEA00716,TROFAST,Bookshelf,41145,Affordable and stylish furniture for everyday use.,IKEA Design Team,63,196,36,"Green, Grey, Brown",True,3.2,11
+IKEA00717,POANG,Chair,39354,Simple design with clean Scandinavian lines.,Jon Karlsson,93,62,193,"Grey, Brown, Oak",False,4.4,232
+IKEA00718,MALM,Desk,9521,Simple design with clean Scandinavian lines.,IKEA Design Team,27,62,109,"Blue, Grey, Beige",True,3.6,458
+IKEA00719,MICKE,Table,10159,Minimalist design suitable for modern homes.,Henrik Preutz,97,117,104,"Beige, White, Grey",True,3.1,264
+IKEA00720,IVAR,Cabinet,4077,Minimalist design suitable for modern homes.,Henrik Preutz,45,81,193,"Oak, Blue, White",True,3.4,248
+IKEA00721,BRIMNES,Storage,39805,Space-saving furniture with easy assembly.,Henrik Preutz,94,174,115,"Grey, Oak, Brown",True,3.2,453
+IKEA00722,TROFAST,Sofa,33000,Compact furniture suitable for small apartments.,IKEA Design Team,48,207,88,"Green, Grey, Black",True,4.0,398
+IKEA00723,IVAR,Wardrobe,49000,Minimalist design suitable for modern homes.,Jon Karlsson,71,77,31,"Beige, White, Blue",True,3.1,63
+IKEA00724,MALM,Bed,29361,Compact furniture suitable for small apartments.,Ola Wihlborg,66,41,37,"Oak, Black, Brown",True,3.4,139
+IKEA00725,BRIMNES,Table,22769,Simple design with clean Scandinavian lines.,Ola Wihlborg,51,75,80,"White, Black, Brown",True,3.0,351
+IKEA00726,MALM,Bookshelf,43416,Simple design with clean Scandinavian lines.,IKEA Design Team,63,83,108,"Green, Black, Brown",True,4.3,486
+IKEA00727,MICKE,TV Unit,28923,Space-saving furniture with easy assembly.,IKEA Design Team,35,66,63,"Oak, Black, Grey",False,4.4,167
+IKEA00728,POANG,Bookshelf,42189,Compact furniture suitable for small apartments.,IKEA Design Team,98,180,78,"Grey, Blue, Black",True,3.5,327
+IKEA00729,TROFAST,Bed,8786,Simple design with clean Scandinavian lines.,Ola Wihlborg,94,155,83,"Black, Blue, Oak",True,3.3,203
+IKEA00730,TROFAST,Dining Furniture,49725,Affordable and stylish furniture for everyday use.,Henrik Preutz,83,162,148,"Brown, Green, Beige",True,4.1,252
+IKEA00731,BRIMNES,Storage,31547,Durable furniture with practical storage space.,Ola Wihlborg,71,193,179,"White, Black, Blue",True,3.9,125
+IKEA00732,PAX,Desk,20552,Minimalist design suitable for modern homes.,Monika Mulder,93,70,125,"Grey, Green, White",True,4.5,156
+IKEA00733,EKET,Cabinet,23539,Compact furniture suitable for small apartments.,Ola Wihlborg,25,149,161,"Beige, Oak, Blue",False,3.9,193
+IKEA00734,TROFAST,Storage,21275,Durable furniture with practical storage space.,Monika Mulder,23,75,143,"Oak, Brown, Beige",True,3.7,47
+IKEA00735,LACK,Cabinet,34105,Affordable and stylish furniture for everyday use.,IKEA Design Team,55,88,55,"Black, White, Brown",True,4.1,175
+IKEA00736,HEMNES,Dining Furniture,22076,Durable furniture with practical storage space.,Henrik Preutz,55,78,184,"Brown, Blue, Beige",True,3.0,158
+IKEA00737,LACK,Wardrobe,26963,Minimalist design suitable for modern homes.,Ola Wihlborg,21,150,197,"Brown, Blue, Oak",True,3.5,388
+IKEA00738,HEMNES,Storage,15816,Affordable and stylish furniture for everyday use.,Ola Wihlborg,90,149,148,"Beige, Blue, White",True,4.7,224
+IKEA00739,TROFAST,Bookshelf,14234,Minimalist design suitable for modern homes.,Monika Mulder,91,37,125,"Brown, Grey, Black",True,4.9,9
+IKEA00740,EKET,Dining Furniture,23742,Durable furniture with practical storage space.,Jon Karlsson,73,138,133,"Grey, Brown, Green",True,4.1,21
+IKEA00741,MALM,Table,22142,Affordable and stylish furniture for everyday use.,Ola Wihlborg,97,176,130,"Blue, Black, Oak",True,4.1,101
+IKEA00742,EKET,Chair,22049,Affordable and stylish furniture for everyday use.,Monika Mulder,58,53,73,"Black, Beige, Grey",True,3.1,357
+IKEA00743,POANG,Storage,2257,Compact furniture suitable for small apartments.,Jon Karlsson,28,128,102,"Oak, Black, Brown",True,3.9,193
+IKEA00744,MICKE,Sofa,11759,Durable furniture with practical storage space.,Monika Mulder,70,70,58,"Brown, Grey, Oak",False,4.5,204
+IKEA00745,IVAR,Desk,9014,Simple design with clean Scandinavian lines.,Jon Karlsson,59,140,200,"Green, Black, Grey",True,4.2,262
+IKEA00746,BRIMNES,Dining Furniture,30577,Durable furniture with practical storage space.,Jon Karlsson,20,66,144,"Black, Blue, Oak",True,4.1,471
+IKEA00747,POANG,Storage,30658,Minimalist design suitable for modern homes.,Ola Wihlborg,25,218,53,"Grey, Beige, Oak",True,4.4,369
+IKEA00748,TROFAST,Bed,26129,Affordable and stylish furniture for everyday use.,Jon Karlsson,73,93,75,"Blue, Oak, Green",True,4.4,53
+IKEA00749,PAX,Sofa,16207,Simple design with clean Scandinavian lines.,Jon Karlsson,55,190,167,"Grey, Beige, White",True,4.8,215
+IKEA00750,TROFAST,Cabinet,8443,Durable furniture with practical storage space.,IKEA Design Team,33,159,113,"Blue, Oak, Black",True,3.4,27
+IKEA00751,EKET,Sofa,5295,Space-saving furniture with easy assembly.,Monika Mulder,68,117,132,"Oak, Green, White",True,3.5,368
+IKEA00752,MALM,Wardrobe,44427,Space-saving furniture with easy assembly.,Monika Mulder,82,148,47,"Black, Grey, Beige",True,4.4,229
+IKEA00753,MALM,Storage,18792,Simple design with clean Scandinavian lines.,Jon Karlsson,41,34,185,"Black, Green, Brown",True,4.1,205
+IKEA00754,MALM,Chair,44499,Simple design with clean Scandinavian lines.,IKEA Design Team,54,69,142,"Beige, Black, Blue",True,4.8,277
+IKEA00755,HEMNES,Storage,46160,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,33,129,108,"Green, White, Grey",True,3.1,198
+IKEA00756,TROFAST,Desk,16863,Durable furniture with practical storage space.,Jon Karlsson,45,53,34,"Blue, White, Green",True,4.6,353
+IKEA00757,ALEX,Chair,14954,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,41,41,136,"Black, Blue, Brown",True,4.1,102
+IKEA00758,POANG,Desk,36000,Minimalist design suitable for modern homes.,Monika Mulder,35,89,84,"Black, Brown, Blue",True,3.0,339
+IKEA00759,BESTA,Sofa,26004,Compact furniture suitable for small apartments.,Monika Mulder,48,46,198,"Grey, Beige, Green",True,3.1,458
+IKEA00760,HEMNES,Bookshelf,20260,Simple design with clean Scandinavian lines.,Ola Wihlborg,83,56,167,"Brown, Green, White",True,5.0,361
+IKEA00761,PAX,Dining Furniture,45962,Compact furniture suitable for small apartments.,Henrik Preutz,42,192,111,"Green, White, Brown",True,4.2,304
+IKEA00762,EKET,Bookshelf,33989,Space-saving furniture with easy assembly.,Jon Karlsson,84,180,33,"Oak, White, Grey",True,3.6,382
+IKEA00763,PAX,Desk,41115,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,37,125,157,"Grey, Black, Blue",False,3.4,24
+IKEA00764,HEMNES,TV Unit,29579,Space-saving furniture with easy assembly.,Henrik Preutz,37,101,111,"White, Grey, Oak",True,4.5,122
+IKEA00765,IVAR,Wardrobe,22960,Compact furniture suitable for small apartments.,Jon Karlsson,89,43,200,"Oak, Blue, Beige",True,4.2,200
+IKEA00766,MICKE,Wardrobe,12527,Minimalist design suitable for modern homes.,IKEA Design Team,28,155,47,"Oak, White, Beige",True,4.9,69
+IKEA00767,BILLY,Table,39337,Affordable and stylish furniture for everyday use.,Jon Karlsson,50,159,50,"Blue, Beige, Oak",True,3.3,106
+IKEA00768,HEMNES,Bookshelf,12061,Affordable and stylish furniture for everyday use.,Jon Karlsson,58,103,177,"Green, Beige, Black",True,4.7,251
+IKEA00769,BILLY,Wardrobe,26598,Minimalist design suitable for modern homes.,Jon Karlsson,80,142,138,"Blue, Green, Black",False,3.0,200
+IKEA00770,PAX,Chair,20174,Affordable and stylish furniture for everyday use.,Ola Wihlborg,39,171,74,"Grey, Oak, Blue",True,3.9,197
+IKEA00771,MICKE,TV Unit,32011,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,37,213,150,"Oak, Black, Blue",True,3.0,261
+IKEA00772,BRIMNES,Wardrobe,32706,Minimalist design suitable for modern homes.,Monika Mulder,70,220,125,"Blue, Oak, Brown",True,3.8,24
+IKEA00773,BILLY,Bookshelf,37566,Compact furniture suitable for small apartments.,Jon Karlsson,75,95,119,"Green, Beige, Blue",True,4.4,338
+IKEA00774,PAX,Bookshelf,48711,Compact furniture suitable for small apartments.,Jon Karlsson,81,38,122,"White, Beige, Blue",True,3.5,238
+IKEA00775,ALEX,Table,17164,Compact furniture suitable for small apartments.,Ola Wihlborg,94,199,71,"White, Green, Blue",False,3.8,305
+IKEA00776,BILLY,Cabinet,12873,Minimalist design suitable for modern homes.,Jon Karlsson,74,94,107,"Blue, Grey, Brown",False,4.5,478
+IKEA00777,BRIMNES,Chair,7660,Space-saving furniture with easy assembly.,Ola Wihlborg,64,66,98,"Oak, Beige, Green",True,3.0,91
+IKEA00778,IVAR,Storage,602,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,73,164,136,"Grey, Beige, Oak",True,3.4,100
+IKEA00779,BRIMNES,Table,13476,Minimalist design suitable for modern homes.,Jon Karlsson,84,58,145,"Oak, Black, Blue",True,4.5,419
+IKEA00780,TROFAST,Desk,17495,Simple design with clean Scandinavian lines.,Monika Mulder,76,190,189,"Black, Blue, Beige",True,3.2,48
+IKEA00781,PAX,Chair,18636,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,23,179,90,"Green, Oak, Beige",True,3.0,141
+IKEA00782,TROFAST,Sofa,44101,Affordable and stylish furniture for everyday use.,IKEA Design Team,32,84,163,"White, Oak, Grey",True,4.9,247
+IKEA00783,TROFAST,Wardrobe,40107,Minimalist design suitable for modern homes.,Henrik Preutz,67,204,117,"Beige, Blue, Black",True,4.3,198
+IKEA00784,POANG,Sofa,23831,Simple design with clean Scandinavian lines.,Henrik Preutz,32,30,146,"Blue, Beige, Black",True,4.2,449
+IKEA00785,MICKE,Bed,46326,Simple design with clean Scandinavian lines.,Jon Karlsson,67,145,188,"Green, Grey, Oak",True,3.0,331
+IKEA00786,IVAR,Wardrobe,1588,Space-saving furniture with easy assembly.,Henrik Preutz,25,218,113,"Green, Black, Grey",False,3.8,318
+IKEA00787,TROFAST,Chair,23327,Minimalist design suitable for modern homes.,Monika Mulder,32,217,128,"Grey, Green, Black",True,4.7,453
+IKEA00788,POANG,Cabinet,2579,Compact furniture suitable for small apartments.,Monika Mulder,31,107,170,"Green, Black, Oak",True,4.0,281
+IKEA00789,HEMNES,Desk,14369,Compact furniture suitable for small apartments.,IKEA Design Team,33,141,37,"Brown, Green, Oak",True,3.4,136
+IKEA00790,ALEX,Storage,44447,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,88,192,155,"Black, Blue, Beige",True,4.7,482
+IKEA00791,POANG,TV Unit,4737,Space-saving furniture with easy assembly.,Henrik Preutz,68,213,127,"Blue, Green, Black",True,3.5,153
+IKEA00792,BILLY,Chair,6340,Durable furniture with practical storage space.,Ola Wihlborg,44,220,59,"Beige, Black, Brown",False,4.2,5
+IKEA00793,LACK,Sofa,39169,Affordable and stylish furniture for everyday use.,Jon Karlsson,69,138,111,"Beige, Blue, Green",True,4.0,313
+IKEA00794,POANG,Desk,7484,Minimalist design suitable for modern homes.,IKEA Design Team,88,147,110,"Brown, Blue, Green",True,4.0,238
+IKEA00795,MALM,TV Unit,19071,Compact furniture suitable for small apartments.,IKEA Design Team,96,111,109,"Black, Brown, Beige",False,4.3,115
+IKEA00796,EKET,Bed,46645,Minimalist design suitable for modern homes.,IKEA Design Team,62,69,83,"Oak, Beige, Blue",True,4.8,402
+IKEA00797,MALM,Storage,48169,Minimalist design suitable for modern homes.,Henrik Preutz,40,35,170,"Blue, Brown, Oak",False,5.0,392
+IKEA00798,PAX,Bookshelf,5206,Affordable and stylish furniture for everyday use.,Henrik Preutz,56,208,79,"Blue, White, Black",True,4.5,302
+IKEA00799,IVAR,Sofa,47002,Durable furniture with practical storage space.,Monika Mulder,40,177,65,"Green, Beige, Oak",True,4.8,112
+IKEA00800,HEMNES,Desk,48688,Space-saving furniture with easy assembly.,IKEA Design Team,66,215,177,"Black, Beige, Green",False,4.9,223
+IKEA00801,ALEX,Table,4190,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,80,75,43,"Black, Grey, Beige",True,4.2,81
+IKEA00802,ALEX,Bookshelf,16555,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,50,131,155,"Grey, Beige, Green",True,4.3,197
+IKEA00803,TROFAST,Dining Furniture,43655,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,68,100,191,"Green, Brown, White",True,3.2,67
+IKEA00804,EKET,Dining Furniture,44328,Affordable and stylish furniture for everyday use.,Jon Karlsson,22,180,176,"Green, Brown, Beige",True,4.6,97
+IKEA00805,PAX,Storage,42743,Space-saving furniture with easy assembly.,Monika Mulder,58,176,62,"Black, Brown, White",True,3.8,363
+IKEA00806,KALLAX,Bookshelf,36940,Simple design with clean Scandinavian lines.,Ola Wihlborg,87,155,46,"Black, Blue, Green",True,3.4,311
+IKEA00807,BRIMNES,Table,847,Affordable and stylish furniture for everyday use.,Monika Mulder,60,61,40,"Brown, Grey, Black",True,3.2,136
+IKEA00808,IVAR,Sofa,6044,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,58,123,169,"Brown, Oak, Beige",True,3.5,28
+IKEA00809,MICKE,Bed,43697,Affordable and stylish furniture for everyday use.,Monika Mulder,37,177,155,"Beige, Grey, Brown",True,4.4,344
+IKEA00810,IVAR,Sofa,16037,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,38,106,85,"Brown, Grey, Blue",True,4.2,147
+IKEA00811,MALM,TV Unit,28156,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,52,96,127,"Brown, Oak, Blue",True,4.9,351
+IKEA00812,PAX,Table,35620,Compact furniture suitable for small apartments.,IKEA Design Team,100,217,98,"Oak, Beige, Brown",True,3.8,83
+IKEA00813,BESTA,Bookshelf,25333,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,51,49,99,"Black, Grey, White",False,3.1,332
+IKEA00814,BILLY,Wardrobe,22356,Simple design with clean Scandinavian lines.,Henrik Preutz,38,87,100,"White, Green, Oak",True,3.8,58
+IKEA00815,TROFAST,Chair,12015,Affordable and stylish furniture for everyday use.,Henrik Preutz,95,155,54,"Beige, Green, Grey",True,4.1,316
+IKEA00816,BILLY,Sofa,11689,Durable furniture with practical storage space.,Monika Mulder,43,118,166,"Blue, Oak, Grey",True,3.5,356
+IKEA00817,MICKE,Table,43593,Compact furniture suitable for small apartments.,Jon Karlsson,68,175,98,"White, Beige, Blue",True,4.4,132
+IKEA00818,ALEX,TV Unit,27909,Space-saving furniture with easy assembly.,Monika Mulder,43,142,120,"Green, Grey, Brown",True,4.9,271
+IKEA00819,BRIMNES,Desk,20499,Space-saving furniture with easy assembly.,IKEA Design Team,59,134,110,"Black, Beige, White",True,4.5,488
+IKEA00820,BILLY,Table,38202,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,56,171,156,"White, Oak, Beige",True,4.0,268
+IKEA00821,ALEX,Dining Furniture,35390,Space-saving furniture with easy assembly.,IKEA Design Team,71,33,187,"Oak, Blue, Beige",True,4.4,364
+IKEA00822,MICKE,Wardrobe,16504,Space-saving furniture with easy assembly.,Ola Wihlborg,97,40,185,"Green, Black, Beige",True,3.3,192
+IKEA00823,IVAR,Table,34163,Durable furniture with practical storage space.,IKEA Design Team,74,156,127,"Brown, Green, White",True,4.8,132
+IKEA00824,IVAR,Cabinet,8223,Durable furniture with practical storage space.,Henrik Preutz,81,105,97,"Oak, White, Beige",False,3.4,161
+IKEA00825,ALEX,Cabinet,2820,Minimalist design suitable for modern homes.,Ola Wihlborg,82,44,121,"White, Grey, Oak",True,3.6,59
+IKEA00826,KALLAX,Wardrobe,47844,Compact furniture suitable for small apartments.,Monika Mulder,65,32,55,"Blue, Oak, Black",True,4.1,465
+IKEA00827,MALM,Bookshelf,8615,Minimalist design suitable for modern homes.,IKEA Design Team,39,198,94,"Oak, Green, Blue",True,3.6,224
+IKEA00828,MALM,Cabinet,18159,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,76,71,65,"Beige, Green, Oak",True,3.7,450
+IKEA00829,BRIMNES,Desk,7751,Compact furniture suitable for small apartments.,Henrik Preutz,25,64,131,"Blue, Beige, Brown",True,3.3,106
+IKEA00830,EKET,Dining Furniture,17918,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,82,170,156,"Brown, Green, Oak",False,3.3,495
+IKEA00831,BILLY,Sofa,8764,Compact furniture suitable for small apartments.,Henrik Preutz,84,33,90,"White, Beige, Brown",False,5.0,382
+IKEA00832,KALLAX,Bookshelf,31968,Durable furniture with practical storage space.,Henrik Preutz,82,51,139,"Oak, Grey, Black",True,3.5,397
+IKEA00833,BILLY,Bed,46436,Compact furniture suitable for small apartments.,Monika Mulder,45,151,56,"Brown, Black, Grey",True,3.5,72
+IKEA00834,PAX,Sofa,18446,Compact furniture suitable for small apartments.,Jon Karlsson,74,34,187,"Oak, White, Blue",False,3.8,161
+IKEA00835,BRIMNES,Dining Furniture,15665,Compact furniture suitable for small apartments.,Henrik Preutz,74,152,45,"Blue, Beige, White",True,3.2,191
+IKEA00836,LACK,Wardrobe,47133,Minimalist design suitable for modern homes.,Jon Karlsson,60,42,76,"White, Green, Blue",True,3.4,246
+IKEA00837,LACK,TV Unit,7102,Minimalist design suitable for modern homes.,Jon Karlsson,52,155,123,"Beige, Brown, White",True,4.3,354
+IKEA00838,MICKE,Table,22205,Durable furniture with practical storage space.,Henrik Preutz,95,165,184,"Beige, Black, Green",True,3.4,201
+IKEA00839,BILLY,Chair,9050,Space-saving furniture with easy assembly.,Ola Wihlborg,35,40,180,"Oak, Black, Beige",False,4.9,43
+IKEA00840,MICKE,TV Unit,22971,Durable furniture with practical storage space.,Monika Mulder,45,166,69,"White, Black, Blue",False,4.1,134
+IKEA00841,TROFAST,Cabinet,23262,Durable furniture with practical storage space.,Monika Mulder,100,213,60,"Blue, White, Oak",False,4.0,492
+IKEA00842,MICKE,Sofa,11439,Affordable and stylish furniture for everyday use.,Henrik Preutz,36,104,41,"White, Blue, Beige",True,4.5,208
+IKEA00843,EKET,Dining Furniture,35394,Simple design with clean Scandinavian lines.,Ola Wihlborg,29,72,142,"Blue, Grey, Oak",False,4.2,110
+IKEA00844,MALM,Sofa,10984,Affordable and stylish furniture for everyday use.,Jon Karlsson,95,208,32,"Green, Grey, Beige",True,3.6,117
+IKEA00845,LACK,Bed,36684,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,48,41,166,"Oak, Brown, White",True,4.9,147
+IKEA00846,MALM,Bed,3875,Space-saving furniture with easy assembly.,Jon Karlsson,46,166,59,"White, Beige, Brown",True,3.6,489
+IKEA00847,BRIMNES,Cabinet,17803,Space-saving furniture with easy assembly.,Jon Karlsson,72,186,105,"Beige, White, Green",True,4.6,117
+IKEA00848,BRIMNES,Bed,12081,Durable furniture with practical storage space.,IKEA Design Team,88,198,179,"Black, Beige, Blue",False,4.9,136
+IKEA00849,IVAR,Dining Furniture,42068,Affordable and stylish furniture for everyday use.,Ola Wihlborg,46,143,86,"Beige, Brown, Black",False,3.3,123
+IKEA00850,BRIMNES,Bookshelf,24658,Compact furniture suitable for small apartments.,Monika Mulder,31,156,76,"Green, Black, Blue",True,4.1,487
+IKEA00851,BRIMNES,Table,42937,Durable furniture with practical storage space.,IKEA Design Team,59,71,75,"Blue, Beige, Grey",True,3.1,41
+IKEA00852,PAX,Desk,30319,Space-saving furniture with easy assembly.,Monika Mulder,32,215,164,"Brown, Beige, White",True,3.8,15
+IKEA00853,BILLY,Sofa,42735,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,51,51,98,"Brown, Beige, Grey",True,4.6,9
+IKEA00854,TROFAST,Chair,36043,Space-saving furniture with easy assembly.,Henrik Preutz,30,81,65,"Green, Blue, Grey",False,4.6,162
+IKEA00855,BESTA,Storage,10625,Compact furniture suitable for small apartments.,IKEA Design Team,89,207,98,"Black, White, Blue",True,4.1,57
+IKEA00856,MICKE,Bookshelf,9794,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,23,88,139,"Blue, Black, Brown",True,3.5,455
+IKEA00857,ALEX,Bookshelf,45506,Space-saving furniture with easy assembly.,IKEA Design Team,82,73,58,"Oak, White, Brown",True,3.2,175
+IKEA00858,BILLY,Wardrobe,6056,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,39,75,139,"Beige, Grey, Black",False,3.3,346
+IKEA00859,ALEX,Bed,41443,Simple design with clean Scandinavian lines.,Henrik Preutz,64,56,99,"Green, Beige, Brown",True,4.6,369
+IKEA00860,TROFAST,Chair,641,Simple design with clean Scandinavian lines.,Jon Karlsson,38,111,67,"Blue, Oak, Beige",False,4.6,62
+IKEA00861,POANG,Bookshelf,48124,Durable furniture with practical storage space.,Jon Karlsson,31,112,62,"Brown, Blue, Oak",True,3.6,222
+IKEA00862,EKET,Bookshelf,39934,Simple design with clean Scandinavian lines.,Henrik Preutz,37,197,92,"Blue, Oak, Grey",False,4.1,257
+IKEA00863,MICKE,Cabinet,15579,Minimalist design suitable for modern homes.,IKEA Design Team,94,213,137,"Oak, Beige, White",True,3.7,109
+IKEA00864,IVAR,Sofa,24249,Affordable and stylish furniture for everyday use.,Monika Mulder,37,58,45,"Beige, Brown, Black",True,3.9,432
+IKEA00865,IVAR,Cabinet,28094,Compact furniture suitable for small apartments.,Jon Karlsson,48,44,65,"Black, Beige, Blue",True,3.8,18
+IKEA00866,BRIMNES,Bookshelf,24857,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,94,48,152,"Brown, White, Black",True,3.3,130
+IKEA00867,BILLY,Sofa,37800,Simple design with clean Scandinavian lines.,Monika Mulder,39,76,150,"Brown, Beige, Grey",True,3.9,374
+IKEA00868,BESTA,Storage,42759,Space-saving furniture with easy assembly.,IKEA Design Team,56,58,69,"White, Beige, Green",True,4.0,10
+IKEA00869,PAX,Bookshelf,45057,Minimalist design suitable for modern homes.,Ola Wihlborg,53,176,158,"Grey, Beige, Black",False,4.9,144
+IKEA00870,BILLY,Cabinet,25242,Compact furniture suitable for small apartments.,Jon Karlsson,71,188,44,"Oak, Green, Black",True,4.6,244
+IKEA00871,EKET,Wardrobe,43274,Space-saving furniture with easy assembly.,Monika Mulder,68,72,43,"Beige, Green, Oak",True,3.5,58
+IKEA00872,BILLY,Wardrobe,40029,Simple design with clean Scandinavian lines.,Henrik Preutz,23,91,102,"Brown, Grey, White",True,3.4,10
+IKEA00873,TROFAST,Bed,12802,Affordable and stylish furniture for everyday use.,Jon Karlsson,24,91,98,"Black, Grey, Blue",True,4.1,409
+IKEA00874,EKET,Sofa,3647,Durable furniture with practical storage space.,IKEA Design Team,59,32,121,"Grey, Oak, Green",True,3.6,205
+IKEA00875,BRIMNES,Wardrobe,8987,Space-saving furniture with easy assembly.,IKEA Design Team,62,134,158,"Black, Grey, Green",True,4.2,200
+IKEA00876,EKET,TV Unit,2950,Durable furniture with practical storage space.,Jon Karlsson,39,204,148,"Black, Beige, White",True,4.8,418
+IKEA00877,ALEX,Dining Furniture,9730,Simple design with clean Scandinavian lines.,Jon Karlsson,84,162,185,"Beige, Oak, Black",True,3.6,324
+IKEA00878,IVAR,Bookshelf,3121,Space-saving furniture with easy assembly.,Monika Mulder,50,83,186,"Black, Green, Grey",False,3.2,12
+IKEA00879,MALM,Bed,36356,Simple design with clean Scandinavian lines.,IKEA Design Team,83,54,146,"Beige, Black, Brown",True,3.1,300
+IKEA00880,BESTA,Wardrobe,6346,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,78,96,151,"Grey, Blue, Oak",True,4.9,296
+IKEA00881,EKET,Sofa,24319,Simple design with clean Scandinavian lines.,Henrik Preutz,71,134,188,"Brown, Oak, Green",True,3.7,354
+IKEA00882,PAX,Cabinet,29996,Durable furniture with practical storage space.,IKEA Design Team,99,194,44,"Oak, Beige, Grey",True,3.3,58
+IKEA00883,LACK,Bookshelf,10867,Affordable and stylish furniture for everyday use.,Monika Mulder,29,87,129,"Green, Beige, White",True,3.9,333
+IKEA00884,MICKE,Storage,7650,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,33,131,140,"Oak, Green, Brown",True,3.6,314
+IKEA00885,EKET,Desk,46524,Space-saving furniture with easy assembly.,Monika Mulder,34,101,146,"White, Grey, Black",False,3.3,114
+IKEA00886,BESTA,TV Unit,2551,Affordable and stylish furniture for everyday use.,Monika Mulder,27,122,140,"Green, Black, White",True,4.7,492
+IKEA00887,TROFAST,Dining Furniture,28215,Durable furniture with practical storage space.,Henrik Preutz,42,51,66,"Black, Brown, Oak",True,3.6,369
+IKEA00888,EKET,Bookshelf,34890,Compact furniture suitable for small apartments.,Henrik Preutz,43,43,53,"Blue, Brown, Green",True,3.4,487
+IKEA00889,PAX,Storage,31661,Affordable and stylish furniture for everyday use.,Jon Karlsson,75,120,176,"Blue, Green, White",True,3.2,346
+IKEA00890,POANG,TV Unit,9976,Durable furniture with practical storage space.,Henrik Preutz,21,68,147,"Brown, Oak, Green",True,4.6,350
+IKEA00891,PAX,Bed,34623,Space-saving furniture with easy assembly.,IKEA Design Team,77,62,192,"Green, Beige, Grey",True,3.1,386
+IKEA00892,HEMNES,Bookshelf,46141,Affordable and stylish furniture for everyday use.,Jon Karlsson,96,126,85,"Beige, Black, Blue",True,3.7,191
+IKEA00893,KALLAX,Bed,20616,Affordable and stylish furniture for everyday use.,IKEA Design Team,83,196,146,"Blue, Oak, Brown",True,4.7,223
+IKEA00894,MICKE,Wardrobe,7929,Compact furniture suitable for small apartments.,Monika Mulder,74,125,75,"Brown, Grey, Oak",False,3.6,342
+IKEA00895,BRIMNES,Dining Furniture,29170,Space-saving furniture with easy assembly.,Henrik Preutz,99,55,52,"Black, White, Beige",True,4.2,215
+IKEA00896,BILLY,Storage,49647,Simple design with clean Scandinavian lines.,Ola Wihlborg,89,55,192,"Green, Grey, Blue",True,4.3,441
+IKEA00897,PAX,Desk,15105,Simple design with clean Scandinavian lines.,Monika Mulder,90,127,59,"Oak, Blue, Green",True,3.7,411
+IKEA00898,EKET,Bookshelf,42760,Space-saving furniture with easy assembly.,Monika Mulder,20,125,87,"Grey, Brown, Beige",True,3.6,467
+IKEA00899,TROFAST,Bookshelf,44624,Compact furniture suitable for small apartments.,IKEA Design Team,73,38,33,"White, Black, Brown",True,3.7,496
+IKEA00900,POANG,Bookshelf,16347,Affordable and stylish furniture for everyday use.,Monika Mulder,44,187,194,"Blue, Green, White",False,3.3,330
+IKEA00901,PAX,Table,26917,Durable furniture with practical storage space.,Ola Wihlborg,40,141,89,"Black, Beige, Green",True,4.3,406
+IKEA00902,PAX,Dining Furniture,17553,Simple design with clean Scandinavian lines.,Ola Wihlborg,40,112,82,"Black, White, Blue",False,3.0,399
+IKEA00903,POANG,Table,2322,Affordable and stylish furniture for everyday use.,Ola Wihlborg,30,176,127,"White, Beige, Blue",True,5.0,329
+IKEA00904,ALEX,Wardrobe,12725,Compact furniture suitable for small apartments.,Jon Karlsson,58,79,167,"Oak, Beige, Green",True,4.3,145
+IKEA00905,BILLY,Table,41618,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,33,58,147,"Black, White, Green",True,3.5,97
+IKEA00906,BILLY,Chair,32889,Simple design with clean Scandinavian lines.,Henrik Preutz,46,130,55,"Green, Blue, White",False,3.1,496
+IKEA00907,ALEX,Chair,14280,Space-saving furniture with easy assembly.,Monika Mulder,68,110,192,"Green, Blue, Black",True,3.6,467
+IKEA00908,MALM,Dining Furniture,37677,Space-saving furniture with easy assembly.,Ola Wihlborg,24,60,117,"Beige, Oak, Grey",True,3.3,384
+IKEA00909,LACK,Chair,13137,Affordable and stylish furniture for everyday use.,IKEA Design Team,88,35,162,"Brown, Black, Green",True,4.8,20
+IKEA00910,BESTA,Table,14901,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,54,100,153,"Oak, White, Brown",True,3.9,419
+IKEA00911,EKET,Bookshelf,34096,Minimalist design suitable for modern homes.,Jon Karlsson,52,74,80,"Grey, Oak, White",True,3.3,110
+IKEA00912,BRIMNES,Storage,28906,Minimalist design suitable for modern homes.,Monika Mulder,96,99,111,"Black, Grey, Oak",False,3.4,185
+IKEA00913,BESTA,Dining Furniture,4710,Minimalist design suitable for modern homes.,Jon Karlsson,24,160,94,"Blue, Brown, Grey",True,3.8,63
+IKEA00914,MALM,Wardrobe,28639,Simple design with clean Scandinavian lines.,Jon Karlsson,65,92,48,"Oak, Beige, Brown",True,3.3,165
+IKEA00915,BILLY,Sofa,21378,Space-saving furniture with easy assembly.,IKEA Design Team,62,84,149,"Beige, Black, Grey",True,3.8,313
+IKEA00916,HEMNES,Cabinet,14750,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,55,213,185,"Black, Grey, Beige",False,4.4,227
+IKEA00917,BESTA,Wardrobe,13484,Compact furniture suitable for small apartments.,IKEA Design Team,83,157,41,"Grey, Oak, White",True,3.9,312
+IKEA00918,BESTA,TV Unit,25589,Compact furniture suitable for small apartments.,Ola Wihlborg,22,102,34,"White, Oak, Brown",True,4.7,211
+IKEA00919,KALLAX,Cabinet,35070,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,22,47,150,"Black, Blue, Oak",True,3.5,390
+IKEA00920,BESTA,Bookshelf,5726,Affordable and stylish furniture for everyday use.,Henrik Preutz,83,186,42,"Blue, Brown, Beige",False,4.0,333
+IKEA00921,BILLY,Wardrobe,40998,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,48,42,32,"Brown, White, Green",False,3.5,50
+IKEA00922,HEMNES,Wardrobe,35728,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,53,41,58,"White, Brown, Green",True,3.7,318
+IKEA00923,TROFAST,Bookshelf,18187,Space-saving furniture with easy assembly.,Jon Karlsson,37,179,147,"Black, Green, Brown",True,4.5,459
+IKEA00924,IVAR,Bookshelf,42239,Minimalist design suitable for modern homes.,IKEA Design Team,86,165,91,"Green, Beige, Oak",True,3.6,379
+IKEA00925,EKET,Desk,6515,Durable furniture with practical storage space.,Henrik Preutz,30,120,172,"Oak, Beige, Blue",True,4.4,43
+IKEA00926,EKET,Sofa,14423,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,79,128,78,"Green, White, Brown",True,4.6,394
+IKEA00927,MICKE,Cabinet,21035,Simple design with clean Scandinavian lines.,Henrik Preutz,78,197,69,"Black, Green, Blue",True,3.8,236
+IKEA00928,IVAR,TV Unit,34149,Compact furniture suitable for small apartments.,Monika Mulder,44,47,101,"Blue, Black, Beige",True,4.9,300
+IKEA00929,ALEX,Chair,10151,Minimalist design suitable for modern homes.,IKEA Design Team,34,91,34,"Green, Black, Brown",True,4.0,276
+IKEA00930,EKET,Wardrobe,17903,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,30,120,140,"Oak, Black, Green",False,4.0,32
+IKEA00931,EKET,Bed,24732,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,68,217,138,"Oak, Brown, Black",False,3.4,146
+IKEA00932,MICKE,TV Unit,32848,Affordable and stylish furniture for everyday use.,Monika Mulder,33,204,42,"Oak, White, Black",True,3.1,23
+IKEA00933,POANG,Bed,16146,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,32,100,87,"Blue, Oak, Green",True,3.4,426
+IKEA00934,BRIMNES,Bed,32950,Compact furniture suitable for small apartments.,Jon Karlsson,46,118,193,"Grey, Beige, Green",True,4.5,53
+IKEA00935,MALM,Cabinet,46405,Affordable and stylish furniture for everyday use.,Monika Mulder,59,206,91,"Brown, Green, Beige",True,3.3,175
+IKEA00936,EKET,Table,1333,Space-saving furniture with easy assembly.,Monika Mulder,74,115,35,"Brown, Green, White",True,4.4,441
+IKEA00937,KALLAX,TV Unit,23577,Minimalist design suitable for modern homes.,Ola Wihlborg,20,155,93,"Green, White, Blue",True,4.1,153
+IKEA00938,IVAR,Desk,34923,Affordable and stylish furniture for everyday use.,Jon Karlsson,38,54,55,"Grey, Blue, Beige",True,3.9,381
+IKEA00939,BESTA,Cabinet,17364,Space-saving furniture with easy assembly.,Monika Mulder,52,123,147,"White, Blue, Brown",True,4.4,461
+IKEA00940,MICKE,Dining Furniture,39541,Minimalist design suitable for modern homes.,IKEA Design Team,54,205,162,"White, Black, Oak",True,4.3,77
+IKEA00941,BESTA,Storage,2524,Compact furniture suitable for small apartments.,Ola Wihlborg,75,122,82,"Black, Green, Oak",True,4.9,454
+IKEA00942,ALEX,Dining Furniture,36210,Minimalist design suitable for modern homes.,Ola Wihlborg,42,97,119,"Beige, Oak, Grey",False,4.9,146
+IKEA00943,LACK,Desk,3192,Affordable and stylish furniture for everyday use.,Ola Wihlborg,63,186,61,"Blue, Green, Oak",True,3.6,9
+IKEA00944,EKET,Dining Furniture,10141,Minimalist design suitable for modern homes.,Jon Karlsson,86,104,189,"Brown, Green, Oak",True,3.1,155
+IKEA00945,KALLAX,Storage,3182,Compact furniture suitable for small apartments.,Henrik Preutz,95,61,43,"Green, Brown, White",False,3.7,432
+IKEA00946,KALLAX,Sofa,16976,Compact furniture suitable for small apartments.,Henrik Preutz,56,158,200,"Brown, White, Beige",True,3.3,380
+IKEA00947,HEMNES,Bookshelf,38852,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,48,38,151,"Beige, Black, Green",False,3.8,500
+IKEA00948,BILLY,Bed,20292,Affordable and stylish furniture for everyday use.,Henrik Preutz,42,174,141,"Beige, Blue, Grey",True,4.4,107
+IKEA00949,LACK,Table,27782,Affordable and stylish furniture for everyday use.,Jon Karlsson,58,108,51,"Grey, Green, Beige",False,4.1,197
+IKEA00950,TROFAST,Bookshelf,6793,Compact furniture suitable for small apartments.,Ola Wihlborg,76,207,110,"Beige, Oak, Brown",False,3.9,497
+IKEA00951,PAX,Storage,2312,Affordable and stylish furniture for everyday use.,IKEA Design Team,73,52,65,"Grey, Blue, Black",True,3.3,283
+IKEA00952,POANG,Bed,4007,Simple design with clean Scandinavian lines.,Monika Mulder,36,133,31,"Green, Blue, Grey",False,4.7,48
+IKEA00953,KALLAX,Bed,43089,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,96,54,104,"Green, Beige, Brown",True,3.2,304
+IKEA00954,ALEX,Cabinet,48953,Space-saving furniture with easy assembly.,IKEA Design Team,46,162,66,"Green, Black, Blue",True,3.6,164
+IKEA00955,BRIMNES,Sofa,32281,Affordable and stylish furniture for everyday use.,Jon Karlsson,34,47,30,"Brown, Grey, White",True,3.5,58
+IKEA00956,EKET,Sofa,33647,Minimalist design suitable for modern homes.,Monika Mulder,27,61,106,"Blue, Oak, Black",True,4.7,284
+IKEA00957,LACK,TV Unit,45150,Minimalist design suitable for modern homes.,Ola Wihlborg,35,140,67,"White, Black, Blue",True,3.3,384
+IKEA00958,BRIMNES,Cabinet,13629,Minimalist design suitable for modern homes.,Monika Mulder,57,104,200,"Black, Grey, Oak",True,4.3,205
+IKEA00959,PAX,Chair,30905,Minimalist design suitable for modern homes.,Monika Mulder,38,37,102,"Green, White, Grey",False,3.0,160
+IKEA00960,KALLAX,Dining Furniture,43125,Space-saving furniture with easy assembly.,Ola Wihlborg,76,40,120,"Brown, Oak, Beige",False,3.6,86
+IKEA00961,BESTA,Cabinet,33477,Compact furniture suitable for small apartments.,Henrik Preutz,87,129,161,"Black, Green, Beige",True,3.7,373
+IKEA00962,POANG,Wardrobe,30611,Space-saving furniture with easy assembly.,Jon Karlsson,55,198,107,"Blue, White, Beige",False,3.8,246
+IKEA00963,POANG,Dining Furniture,12320,Affordable and stylish furniture for everyday use.,Ola Wihlborg,87,96,63,"Beige, Grey, Blue",True,4.2,429
+IKEA00964,PAX,Chair,3443,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,49,54,200,"Black, Oak, Beige",False,3.6,123
+IKEA00965,TROFAST,Desk,7408,Compact furniture suitable for small apartments.,Monika Mulder,73,46,45,"Grey, White, Blue",True,3.9,196
+IKEA00966,POANG,Dining Furniture,2429,Compact furniture suitable for small apartments.,Henrik Preutz,33,208,145,"Blue, Black, Beige",True,3.4,256
+IKEA00967,EKET,Dining Furniture,19248,Compact furniture suitable for small apartments.,Jon Karlsson,40,141,165,"Oak, White, Grey",True,4.3,347
+IKEA00968,BILLY,Desk,2677,Simple design with clean Scandinavian lines.,Jon Karlsson,20,122,134,"Black, Brown, Green",False,3.4,111
+IKEA00969,POANG,Storage,33322,Durable furniture with practical storage space.,Henrik Preutz,99,173,65,"Black, Oak, Blue",False,4.7,296
+IKEA00970,BILLY,Table,34397,Durable furniture with practical storage space.,IKEA Design Team,35,157,89,"White, Grey, Blue",True,3.0,425
+IKEA00971,LACK,Bed,26085,Space-saving furniture with easy assembly.,Henrik Preutz,28,70,103,"Black, Grey, Blue",True,4.7,482
+IKEA00972,POANG,Cabinet,20961,Minimalist design suitable for modern homes.,Ola Wihlborg,27,169,58,"Green, Brown, Beige",True,3.1,220
+IKEA00973,LACK,Desk,22423,Simple design with clean Scandinavian lines.,IKEA Design Team,37,82,170,"Beige, Blue, Green",True,3.5,42
+IKEA00974,TROFAST,TV Unit,40476,Space-saving furniture with easy assembly.,IKEA Design Team,64,48,136,"Black, Grey, Oak",True,3.5,26
+IKEA00975,BILLY,Sofa,33043,Affordable and stylish furniture for everyday use.,Jon Karlsson,64,140,152,"Grey, Blue, Black",True,4.9,18
+IKEA00976,TROFAST,Desk,35507,Affordable and stylish furniture for everyday use.,Monika Mulder,22,171,153,"White, Oak, Blue",True,3.9,223
+IKEA00977,MICKE,Table,8073,Minimalist design suitable for modern homes.,IKEA Design Team,98,124,120,"Oak, Brown, Green",True,3.5,52
+IKEA00978,POANG,Sofa,15383,Minimalist design suitable for modern homes.,Ola Wihlborg,92,41,33,"Oak, Blue, White",True,3.1,229
+IKEA00979,MALM,Bed,3364,Durable furniture with practical storage space.,Henrik Preutz,97,197,92,"Grey, Black, Green",False,4.0,67
+IKEA00980,ALEX,Chair,5504,Durable furniture with practical storage space.,Ola Wihlborg,46,156,121,"Oak, Green, Beige",True,4.9,404
+IKEA00981,MICKE,Bed,43336,Compact furniture suitable for small apartments.,Ola Wihlborg,54,111,168,"Black, White, Brown",False,4.4,323
+IKEA00982,EKET,Bed,5640,Compact furniture suitable for small apartments.,Jon Karlsson,86,89,108,"Oak, White, Brown",True,3.1,125
+IKEA00983,BRIMNES,Storage,43091,Simple design with clean Scandinavian lines.,Monika Mulder,34,35,157,"White, Brown, Blue",False,3.6,499
+IKEA00984,BILLY,Sofa,18789,Simple design with clean Scandinavian lines.,Ola Wihlborg,69,156,34,"Blue, Oak, Green",True,3.4,199
+IKEA00985,MALM,Dining Furniture,28750,Affordable and stylish furniture for everyday use.,IKEA Design Team,59,38,168,"Beige, White, Grey",True,4.8,469
+IKEA00986,LACK,TV Unit,14690,Simple design with clean Scandinavian lines.,IKEA Design Team,63,215,189,"Blue, Green, Oak",True,4.6,288
+IKEA00987,PAX,Dining Furniture,19335,Simple design with clean Scandinavian lines.,Ola Wihlborg,79,138,176,"Grey, Black, Oak",False,4.5,478
+IKEA00988,HEMNES,Table,1494,Durable furniture with practical storage space.,Henrik Preutz,30,93,168,"Grey, Brown, Green",False,3.1,145
+IKEA00989,BESTA,Bed,43702,Durable furniture with practical storage space.,Ola Wihlborg,21,61,108,"Beige, Blue, Brown",True,3.9,13
+IKEA00990,EKET,Sofa,31067,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,81,193,172,"Oak, Green, White",True,3.6,317
+IKEA00991,MICKE,Wardrobe,4696,Minimalist design suitable for modern homes.,Jon Karlsson,53,100,96,"Green, Black, Blue",True,3.3,321
+IKEA00992,ALEX,Sofa,15747,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,43,205,159,"Green, Grey, Brown",True,4.1,121
+IKEA00993,KALLAX,Bed,17370,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,89,213,41,"Oak, Brown, White",True,4.0,62
+IKEA00994,MICKE,Chair,16029,Compact furniture suitable for small apartments.,Henrik Preutz,93,125,136,"Black, Beige, Oak",True,3.3,172
+IKEA00995,POANG,Wardrobe,22452,Minimalist design suitable for modern homes.,Henrik Preutz,80,105,189,"White, Black, Brown",True,3.6,81
+IKEA00996,POANG,Sofa,7461,Affordable and stylish furniture for everyday use.,Jon Karlsson,60,160,160,"Beige, Black, Oak",True,4.3,81
+IKEA00997,PAX,Dining Furniture,5639,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,92,158,177,"Blue, Grey, Beige",True,4.7,275
+IKEA00998,TROFAST,Sofa,40286,Minimalist design suitable for modern homes.,Ola Wihlborg,86,142,111,"Grey, Black, Green",True,4.8,173
+IKEA00999,HEMNES,Wardrobe,15630,Minimalist design suitable for modern homes.,Henrik Preutz,34,207,91,"Green, Beige, Oak",True,3.2,291
+IKEA01000,MICKE,Chair,24242,Space-saving furniture with easy assembly.,Monika Mulder,97,88,144,"Blue, Black, Grey",True,4.9,130
+IKEA01001,TROFAST,Bookshelf,44677,Affordable and stylish furniture for everyday use.,Jon Karlsson,97,96,103,"Beige, Brown, White",True,3.8,263
+IKEA01002,MALM,TV Unit,32886,Space-saving furniture with easy assembly.,Jon Karlsson,43,146,33,"Brown, White, Oak",True,4.5,369
+IKEA01003,EKET,Chair,8782,Simple design with clean Scandinavian lines.,IKEA Design Team,75,36,72,"Black, Green, Grey",False,4.8,186
+IKEA01004,MALM,Bookshelf,46172,Affordable and stylish furniture for everyday use.,Jon Karlsson,57,60,116,"Beige, Grey, Blue",True,5.0,28
+IKEA01005,BILLY,Wardrobe,29917,Minimalist design suitable for modern homes.,Monika Mulder,75,104,152,"Brown, Beige, Black",True,3.3,8
+IKEA01006,POANG,TV Unit,24739,Space-saving furniture with easy assembly.,Monika Mulder,68,112,142,"Brown, Grey, Beige",True,4.9,54
+IKEA01007,HEMNES,Bed,32827,Durable furniture with practical storage space.,IKEA Design Team,92,162,164,"Blue, Brown, Green",False,3.6,96
+IKEA01008,MALM,Sofa,48643,Space-saving furniture with easy assembly.,Jon Karlsson,75,162,101,"Beige, White, Brown",True,3.3,152
+IKEA01009,LACK,Storage,29263,Compact furniture suitable for small apartments.,Jon Karlsson,56,96,185,"Black, Green, Beige",True,3.3,110
+IKEA01010,MICKE,Cabinet,49969,Compact furniture suitable for small apartments.,IKEA Design Team,96,40,168,"Oak, White, Green",True,3.7,149
+IKEA01011,POANG,Bookshelf,48477,Minimalist design suitable for modern homes.,Ola Wihlborg,36,146,105,"Black, Beige, Blue",True,3.9,226
+IKEA01012,EKET,Bed,6191,Simple design with clean Scandinavian lines.,Jon Karlsson,55,217,59,"Beige, Blue, White",True,4.5,172
+IKEA01013,MALM,Cabinet,22475,Durable furniture with practical storage space.,Monika Mulder,100,218,161,"Black, Beige, Blue",True,4.8,24
+IKEA01014,PAX,Chair,46708,Simple design with clean Scandinavian lines.,Ola Wihlborg,60,78,172,"White, Beige, Blue",True,3.5,305
+IKEA01015,PAX,Desk,44627,Compact furniture suitable for small apartments.,Henrik Preutz,80,68,154,"Brown, Beige, Oak",True,3.3,330
+IKEA01016,BILLY,Cabinet,47900,Space-saving furniture with easy assembly.,Jon Karlsson,20,141,47,"Green, Grey, Blue",True,4.4,24
+IKEA01017,PAX,Bed,40697,Minimalist design suitable for modern homes.,Ola Wihlborg,50,193,119,"Green, Grey, Beige",True,4.8,435
+IKEA01018,HEMNES,Bed,44275,Minimalist design suitable for modern homes.,Monika Mulder,100,130,183,"Beige, Grey, Oak",True,3.2,62
+IKEA01019,TROFAST,Bed,27997,Minimalist design suitable for modern homes.,Henrik Preutz,51,199,138,"Black, Green, Oak",True,4.3,182
+IKEA01020,BRIMNES,Bookshelf,46690,Compact furniture suitable for small apartments.,Monika Mulder,82,183,135,"Oak, White, Brown",True,4.0,460
+IKEA01021,IVAR,Bookshelf,4483,Affordable and stylish furniture for everyday use.,Henrik Preutz,53,202,111,"Blue, Oak, Green",False,3.8,472
+IKEA01022,KALLAX,Bed,32317,Space-saving furniture with easy assembly.,Jon Karlsson,63,192,41,"Grey, Oak, Blue",True,4.1,90
+IKEA01023,MICKE,Desk,41477,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,98,114,63,"White, Beige, Green",False,3.2,365
+IKEA01024,BESTA,Wardrobe,36733,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,86,83,122,"Oak, Black, Grey",False,4.7,122
+IKEA01025,LACK,Table,25001,Durable furniture with practical storage space.,Monika Mulder,47,171,93,"White, Green, Blue",True,4.0,410
+IKEA01026,EKET,Sofa,10784,Durable furniture with practical storage space.,Henrik Preutz,23,88,191,"Oak, White, Brown",True,4.6,198
+IKEA01027,ALEX,Bookshelf,9096,Simple design with clean Scandinavian lines.,Henrik Preutz,30,49,48,"Blue, White, Green",True,3.2,306
+IKEA01028,TROFAST,Bookshelf,13231,Simple design with clean Scandinavian lines.,Ola Wihlborg,59,112,138,"White, Brown, Blue",False,3.4,140
+IKEA01029,ALEX,TV Unit,31392,Minimalist design suitable for modern homes.,Henrik Preutz,74,53,86,"Blue, Grey, Brown",False,3.6,364
+IKEA01030,MICKE,Cabinet,16530,Minimalist design suitable for modern homes.,IKEA Design Team,83,216,130,"Beige, Blue, Grey",True,3.9,300
+IKEA01031,KALLAX,Bookshelf,15710,Minimalist design suitable for modern homes.,Henrik Preutz,81,174,57,"Grey, Brown, Black",True,3.2,91
+IKEA01032,HEMNES,Storage,39388,Compact furniture suitable for small apartments.,IKEA Design Team,38,133,187,"Green, Grey, Beige",True,3.1,257
+IKEA01033,LACK,Bookshelf,20910,Space-saving furniture with easy assembly.,Henrik Preutz,39,39,112,"Blue, Green, White",True,4.4,391
+IKEA01034,MICKE,Storage,36254,Minimalist design suitable for modern homes.,Henrik Preutz,50,112,148,"Green, Grey, Blue",True,4.8,222
+IKEA01035,BRIMNES,Chair,25119,Compact furniture suitable for small apartments.,IKEA Design Team,40,163,61,"Brown, Black, Oak",True,3.1,222
+IKEA01036,EKET,Table,41535,Simple design with clean Scandinavian lines.,Ola Wihlborg,82,65,170,"Blue, Oak, White",True,3.2,155
+IKEA01037,BRIMNES,Dining Furniture,18266,Affordable and stylish furniture for everyday use.,Henrik Preutz,98,125,174,"Brown, Black, Green",True,4.6,492
+IKEA01038,BRIMNES,Wardrobe,34537,Affordable and stylish furniture for everyday use.,Henrik Preutz,80,148,83,"Beige, Green, Blue",True,3.3,371
+IKEA01039,IVAR,Storage,1142,Durable furniture with practical storage space.,Monika Mulder,42,68,150,"Black, White, Brown",True,3.4,53
+IKEA01040,MICKE,Storage,22193,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,99,149,182,"Brown, White, Green",True,3.7,12
+IKEA01041,HEMNES,Bed,19123,Simple design with clean Scandinavian lines.,Monika Mulder,94,216,108,"Beige, Grey, Oak",True,4.1,333
+IKEA01042,ALEX,Desk,5576,Affordable and stylish furniture for everyday use.,Jon Karlsson,33,217,85,"Grey, Black, Brown",True,3.3,272
+IKEA01043,POANG,Dining Furniture,25595,Durable furniture with practical storage space.,Ola Wihlborg,95,184,100,"Green, Black, Blue",True,4.6,115
+IKEA01044,BILLY,TV Unit,10099,Compact furniture suitable for small apartments.,Jon Karlsson,80,30,112,"Black, White, Green",False,3.9,246
+IKEA01045,BESTA,Bed,33291,Simple design with clean Scandinavian lines.,IKEA Design Team,50,173,130,"Blue, Green, Oak",False,3.7,434
+IKEA01046,MICKE,Wardrobe,35278,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,47,72,192,"Grey, Beige, Black",False,4.1,255
+IKEA01047,BRIMNES,Bed,45415,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,75,196,119,"Brown, White, Green",False,4.5,182
+IKEA01048,BRIMNES,Bookshelf,14509,Affordable and stylish furniture for everyday use.,Ola Wihlborg,44,127,125,"Brown, Beige, White",True,3.9,274
+IKEA01049,HEMNES,Sofa,38915,Durable furniture with practical storage space.,Henrik Preutz,32,124,94,"White, Grey, Brown",True,4.3,333
+IKEA01050,EKET,Bookshelf,3377,Space-saving furniture with easy assembly.,Henrik Preutz,55,190,44,"White, Blue, Beige",False,5.0,328
+IKEA01051,EKET,Storage,11887,Minimalist design suitable for modern homes.,Ola Wihlborg,33,39,124,"White, Grey, Beige",True,4.4,95
+IKEA01052,IVAR,Table,5926,Minimalist design suitable for modern homes.,IKEA Design Team,27,143,193,"White, Brown, Green",True,5.0,104
+IKEA01053,ALEX,TV Unit,48828,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,60,211,73,"Beige, Grey, White",False,3.8,346
+IKEA01054,ALEX,Sofa,4755,Compact furniture suitable for small apartments.,Ola Wihlborg,38,216,98,"Black, Green, Oak",True,3.6,106
+IKEA01055,BRIMNES,Cabinet,27319,Compact furniture suitable for small apartments.,IKEA Design Team,59,100,173,"Beige, White, Brown",False,4.1,361
+IKEA01056,BILLY,TV Unit,30842,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,31,76,52,"Brown, Green, Grey",True,4.5,408
+IKEA01057,KALLAX,Desk,42307,Durable furniture with practical storage space.,Monika Mulder,30,215,93,"Grey, Blue, Beige",True,4.5,382
+IKEA01058,MALM,Bed,3994,Minimalist design suitable for modern homes.,Henrik Preutz,42,101,65,"Beige, Oak, Black",True,3.5,107
+IKEA01059,MALM,Bed,17496,Space-saving furniture with easy assembly.,Monika Mulder,53,53,155,"Beige, Grey, Brown",True,4.5,272
+IKEA01060,EKET,Dining Furniture,45524,Simple design with clean Scandinavian lines.,Jon Karlsson,24,179,128,"Brown, Grey, Blue",True,5.0,227
+IKEA01061,BESTA,Dining Furniture,45195,Simple design with clean Scandinavian lines.,Henrik Preutz,46,117,158,"Grey, White, Green",True,3.5,244
+IKEA01062,LACK,Sofa,8055,Affordable and stylish furniture for everyday use.,Jon Karlsson,80,65,149,"Beige, Brown, Grey",False,4.3,466
+IKEA01063,KALLAX,Wardrobe,46458,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,21,70,137,"Green, Brown, Blue",True,3.4,188
+IKEA01064,LACK,Table,31093,Affordable and stylish furniture for everyday use.,Jon Karlsson,22,142,187,"Green, Grey, Blue",False,4.5,247
+IKEA01065,IVAR,Desk,17051,Space-saving furniture with easy assembly.,Henrik Preutz,96,116,153,"Blue, Brown, White",True,4.5,466
+IKEA01066,MICKE,Chair,28088,Minimalist design suitable for modern homes.,Henrik Preutz,93,132,181,"White, Black, Grey",True,4.8,458
+IKEA01067,POANG,Cabinet,13505,Affordable and stylish furniture for everyday use.,Jon Karlsson,36,199,115,"White, Green, Brown",True,4.6,239
+IKEA01068,PAX,Table,30684,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,45,74,107,"Grey, White, Black",True,4.7,228
+IKEA01069,BILLY,Desk,10600,Space-saving furniture with easy assembly.,Ola Wihlborg,67,31,152,"Brown, Green, White",False,4.1,206
+IKEA01070,BRIMNES,Desk,31452,Space-saving furniture with easy assembly.,Monika Mulder,79,210,92,"Black, Oak, Green",True,4.5,73
+IKEA01071,PAX,Wardrobe,19058,Simple design with clean Scandinavian lines.,Monika Mulder,96,130,166,"Black, Brown, Oak",True,3.4,316
+IKEA01072,MALM,Desk,24690,Durable furniture with practical storage space.,Henrik Preutz,84,30,186,"Blue, White, Beige",True,3.3,101
+IKEA01073,KALLAX,Desk,20286,Minimalist design suitable for modern homes.,IKEA Design Team,63,128,197,"Brown, Oak, Black",True,3.6,350
+IKEA01074,IVAR,Storage,2781,Durable furniture with practical storage space.,Monika Mulder,42,71,131,"Black, Oak, White",True,4.4,56
+IKEA01075,ALEX,Bookshelf,1300,Compact furniture suitable for small apartments.,Henrik Preutz,36,177,159,"Blue, Beige, Oak",True,4.0,496
+IKEA01076,ALEX,Bookshelf,28185,Simple design with clean Scandinavian lines.,IKEA Design Team,58,138,96,"Black, Grey, Oak",True,4.6,369
+IKEA01077,BESTA,Cabinet,24410,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,74,166,128,"Black, Green, White",True,4.9,367
+IKEA01078,POANG,Bed,13449,Affordable and stylish furniture for everyday use.,Ola Wihlborg,78,141,42,"Green, Brown, White",True,4.7,240
+IKEA01079,BESTA,Sofa,39776,Space-saving furniture with easy assembly.,Henrik Preutz,52,138,116,"Grey, Blue, White",True,3.4,187
+IKEA01080,PAX,Sofa,29778,Durable furniture with practical storage space.,Henrik Preutz,24,182,58,"Beige, Green, White",False,3.5,48
+IKEA01081,MICKE,Chair,8760,Space-saving furniture with easy assembly.,Jon Karlsson,83,140,100,"Beige, Oak, Green",True,4.8,467
+IKEA01082,IVAR,Cabinet,37793,Minimalist design suitable for modern homes.,IKEA Design Team,29,113,125,"White, Black, Grey",True,3.8,376
+IKEA01083,BILLY,Wardrobe,42228,Space-saving furniture with easy assembly.,Henrik Preutz,74,132,35,"Brown, Beige, Green",True,4.7,226
+IKEA01084,BILLY,Desk,37913,Durable furniture with practical storage space.,Henrik Preutz,98,161,168,"Oak, Beige, White",True,4.1,115
+IKEA01085,TROFAST,Bookshelf,18507,Space-saving furniture with easy assembly.,Jon Karlsson,55,158,41,"Blue, Black, Beige",True,3.5,213
+IKEA01086,HEMNES,Sofa,27652,Space-saving furniture with easy assembly.,Jon Karlsson,55,98,148,"Beige, White, Black",True,3.0,171
+IKEA01087,HEMNES,Chair,40566,Durable furniture with practical storage space.,Ola Wihlborg,78,180,137,"Beige, Grey, Oak",False,4.9,11
+IKEA01088,BESTA,Wardrobe,21447,Durable furniture with practical storage space.,Monika Mulder,39,148,157,"Oak, Grey, Beige",True,4.3,135
+IKEA01089,PAX,Sofa,43798,Simple design with clean Scandinavian lines.,Ola Wihlborg,30,191,154,"Beige, White, Black",True,3.6,389
+IKEA01090,BESTA,Storage,44703,Minimalist design suitable for modern homes.,IKEA Design Team,39,189,179,"Brown, Grey, Green",False,3.8,396
+IKEA01091,KALLAX,Bed,36965,Space-saving furniture with easy assembly.,Monika Mulder,50,126,167,"Brown, Oak, Grey",True,3.2,116
+IKEA01092,HEMNES,Chair,37903,Durable furniture with practical storage space.,Jon Karlsson,40,218,132,"Blue, Brown, Black",False,4.8,147
+IKEA01093,BESTA,Wardrobe,41804,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,84,167,166,"Blue, Black, Oak",False,4.5,151
+IKEA01094,IVAR,Storage,10786,Simple design with clean Scandinavian lines.,Jon Karlsson,71,103,30,"Beige, Blue, Oak",True,4.4,55
+IKEA01095,PAX,TV Unit,43300,Minimalist design suitable for modern homes.,Monika Mulder,72,78,192,"White, Grey, Black",True,4.2,262
+IKEA01096,BILLY,TV Unit,37892,Space-saving furniture with easy assembly.,Monika Mulder,22,113,186,"Oak, Black, Grey",False,4.4,492
+IKEA01097,BESTA,Sofa,49189,Affordable and stylish furniture for everyday use.,Monika Mulder,90,160,79,"Brown, Oak, Green",True,3.4,484
+IKEA01098,BRIMNES,Desk,21649,Compact furniture suitable for small apartments.,Henrik Preutz,28,37,82,"Green, Oak, Black",False,5.0,412
+IKEA01099,MALM,Storage,33281,Space-saving furniture with easy assembly.,IKEA Design Team,97,114,70,"Oak, Green, Beige",True,3.0,21
+IKEA01100,ALEX,Dining Furniture,27129,Simple design with clean Scandinavian lines.,Ola Wihlborg,80,128,48,"Blue, Brown, Beige",True,4.4,315
+IKEA01101,ALEX,Cabinet,47341,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,81,215,45,"Grey, Blue, Oak",True,3.7,371
+IKEA01102,MICKE,Dining Furniture,43073,Minimalist design suitable for modern homes.,Monika Mulder,35,56,67,"Grey, Blue, Green",True,4.4,192
+IKEA01103,PAX,Dining Furniture,22770,Compact furniture suitable for small apartments.,Jon Karlsson,81,83,97,"Black, Brown, Beige",True,3.9,368
+IKEA01104,EKET,Desk,17538,Durable furniture with practical storage space.,Henrik Preutz,76,114,145,"Grey, Green, Brown",True,4.5,80
+IKEA01105,MICKE,Bed,2199,Compact furniture suitable for small apartments.,Henrik Preutz,92,122,104,"Grey, Beige, Black",True,4.0,230
+IKEA01106,ALEX,Bed,10620,Space-saving furniture with easy assembly.,Jon Karlsson,38,185,104,"Blue, Brown, Beige",True,3.1,113
+IKEA01107,POANG,Bed,10222,Affordable and stylish furniture for everyday use.,IKEA Design Team,53,123,160,"Blue, Oak, Grey",True,4.9,334
+IKEA01108,MALM,TV Unit,33338,Durable furniture with practical storage space.,Ola Wihlborg,67,126,154,"Brown, Blue, Grey",False,3.4,464
+IKEA01109,PAX,Sofa,44325,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,48,109,82,"Oak, Black, Brown",True,4.3,187
+IKEA01110,EKET,Storage,37815,Space-saving furniture with easy assembly.,IKEA Design Team,87,88,81,"Beige, Green, White",False,4.3,492
+IKEA01111,BESTA,Cabinet,4902,Durable furniture with practical storage space.,Ola Wihlborg,88,219,167,"Black, Blue, White",False,4.1,131
+IKEA01112,HEMNES,Bed,48958,Compact furniture suitable for small apartments.,Jon Karlsson,49,206,146,"Brown, White, Grey",True,4.1,51
+IKEA01113,BRIMNES,Desk,48558,Simple design with clean Scandinavian lines.,IKEA Design Team,36,163,107,"White, Black, Blue",True,4.2,302
+IKEA01114,EKET,Storage,6939,Affordable and stylish furniture for everyday use.,IKEA Design Team,60,192,48,"Oak, Green, White",False,3.2,106
+IKEA01115,BILLY,Cabinet,39124,Compact furniture suitable for small apartments.,Ola Wihlborg,82,106,175,"White, Grey, Oak",True,4.4,231
+IKEA01116,TROFAST,Dining Furniture,13265,Affordable and stylish furniture for everyday use.,Ola Wihlborg,78,30,94,"Blue, Grey, Brown",False,4.3,173
+IKEA01117,MICKE,Storage,34197,Durable furniture with practical storage space.,Henrik Preutz,53,166,93,"Beige, Brown, Green",True,4.3,62
+IKEA01118,TROFAST,Table,32453,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,85,150,156,"Brown, Black, White",False,4.3,53
+IKEA01119,IVAR,Storage,22940,Space-saving furniture with easy assembly.,Ola Wihlborg,43,79,57,"Oak, Black, Brown",True,3.6,276
+IKEA01120,EKET,Chair,45374,Durable furniture with practical storage space.,Ola Wihlborg,46,176,69,"Beige, Black, Blue",False,4.6,441
+IKEA01121,MALM,TV Unit,43922,Compact furniture suitable for small apartments.,Henrik Preutz,86,151,197,"Blue, Green, Beige",True,3.5,139
+IKEA01122,EKET,Bed,24799,Compact furniture suitable for small apartments.,Henrik Preutz,62,216,120,"Beige, Oak, Brown",False,4.1,395
+IKEA01123,PAX,Sofa,26980,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,65,195,65,"Green, Blue, Brown",True,4.6,108
+IKEA01124,HEMNES,Dining Furniture,47466,Durable furniture with practical storage space.,Henrik Preutz,67,36,112,"Blue, Green, Oak",True,4.1,383
+IKEA01125,HEMNES,Desk,40971,Affordable and stylish furniture for everyday use.,Monika Mulder,55,57,49,"Oak, Black, Brown",False,4.9,308
+IKEA01126,EKET,Sofa,43714,Minimalist design suitable for modern homes.,Monika Mulder,51,101,185,"Blue, White, Green",True,4.3,146
+IKEA01127,MICKE,Wardrobe,29211,Durable furniture with practical storage space.,IKEA Design Team,80,64,48,"Beige, Blue, Green",False,4.6,452
+IKEA01128,MALM,TV Unit,20084,Affordable and stylish furniture for everyday use.,Jon Karlsson,91,52,142,"Oak, Brown, Grey",True,4.1,423
+IKEA01129,LACK,Sofa,9704,Simple design with clean Scandinavian lines.,IKEA Design Team,60,122,144,"Oak, Black, Brown",False,3.5,190
+IKEA01130,BESTA,Desk,44910,Space-saving furniture with easy assembly.,Henrik Preutz,52,184,35,"Brown, White, Beige",False,3.9,417
+IKEA01131,EKET,Sofa,35128,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,67,34,174,"Blue, White, Grey",True,4.6,256
+IKEA01132,LACK,TV Unit,22371,Space-saving furniture with easy assembly.,IKEA Design Team,29,174,53,"Black, Grey, Green",True,4.1,244
+IKEA01133,POANG,Dining Furniture,13009,Simple design with clean Scandinavian lines.,IKEA Design Team,75,100,149,"Green, Beige, Black",True,3.1,336
+IKEA01134,POANG,Wardrobe,30255,Affordable and stylish furniture for everyday use.,Monika Mulder,22,132,177,"Grey, White, Green",False,3.0,120
+IKEA01135,BESTA,Bookshelf,10361,Durable furniture with practical storage space.,Jon Karlsson,94,202,113,"Green, Beige, Blue",True,4.5,299
+IKEA01136,BESTA,TV Unit,10500,Compact furniture suitable for small apartments.,Jon Karlsson,46,108,76,"Black, White, Grey",True,4.6,281
+IKEA01137,BESTA,Chair,21959,Simple design with clean Scandinavian lines.,Henrik Preutz,49,198,83,"Oak, Brown, Black",False,5.0,124
+IKEA01138,HEMNES,Wardrobe,2287,Compact furniture suitable for small apartments.,Monika Mulder,35,126,36,"Green, Blue, Beige",True,3.8,233
+IKEA01139,EKET,Bookshelf,13516,Compact furniture suitable for small apartments.,Monika Mulder,95,61,53,"Brown, Grey, Blue",True,3.3,112
+IKEA01140,BILLY,Storage,49037,Affordable and stylish furniture for everyday use.,Henrik Preutz,60,136,78,"Oak, White, Grey",True,4.0,265
+IKEA01141,BILLY,Storage,1557,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,73,132,55,"Beige, Brown, Blue",True,3.9,439
+IKEA01142,ALEX,Bed,15530,Space-saving furniture with easy assembly.,IKEA Design Team,69,150,34,"Grey, Beige, Blue",True,3.1,438
+IKEA01143,HEMNES,Table,37499,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,86,69,65,"Green, Blue, White",True,4.2,112
+IKEA01144,IVAR,Dining Furniture,19706,Durable furniture with practical storage space.,Ola Wihlborg,73,70,137,"Brown, Black, Grey",True,4.5,419
+IKEA01145,ALEX,Table,24424,Modern Scandinavian furniture with a simple and functional design.,Jon Karlsson,23,157,82,"Grey, Oak, Beige",True,4.8,140
+IKEA01146,POANG,Wardrobe,2365,Simple design with clean Scandinavian lines.,IKEA Design Team,62,37,150,"White, Beige, Black",False,3.1,198
+IKEA01147,TROFAST,TV Unit,47850,Affordable and stylish furniture for everyday use.,Jon Karlsson,40,55,33,"Beige, Black, White",False,5.0,62
+IKEA01148,EKET,Storage,27701,Simple design with clean Scandinavian lines.,Ola Wihlborg,76,64,184,"White, Brown, Oak",False,4.8,136
+IKEA01149,MALM,Wardrobe,43515,Affordable and stylish furniture for everyday use.,Henrik Preutz,98,201,54,"Green, Oak, Beige",True,3.3,268
+IKEA01150,MALM,Table,15280,Space-saving furniture with easy assembly.,IKEA Design Team,32,213,133,"Grey, Green, White",True,3.5,99
+IKEA01151,BRIMNES,Dining Furniture,20232,Durable furniture with practical storage space.,Monika Mulder,95,163,162,"Grey, Blue, Black",True,3.8,343
+IKEA01152,MALM,TV Unit,48760,Simple design with clean Scandinavian lines.,IKEA Design Team,69,191,42,"Oak, Black, White",True,4.3,432
+IKEA01153,TROFAST,Desk,11108,Minimalist design suitable for modern homes.,Henrik Preutz,21,176,153,"Green, Blue, Brown",True,4.3,423
+IKEA01154,POANG,Bookshelf,30128,Compact furniture suitable for small apartments.,Monika Mulder,99,97,169,"Green, White, Beige",True,4.3,268
+IKEA01155,BESTA,Wardrobe,12709,Durable furniture with practical storage space.,Henrik Preutz,82,170,146,"Black, Beige, Brown",True,3.1,192
+IKEA01156,PAX,Dining Furniture,2164,Affordable and stylish furniture for everyday use.,Jon Karlsson,32,88,147,"Black, White, Grey",True,3.3,182
+IKEA01157,LACK,Storage,29083,Affordable and stylish furniture for everyday use.,IKEA Design Team,84,76,131,"Oak, Black, Beige",True,4.6,106
+IKEA01158,BRIMNES,Wardrobe,34943,Affordable and stylish furniture for everyday use.,Jon Karlsson,92,165,164,"White, Blue, Grey",True,4.1,360
+IKEA01159,MICKE,Table,25040,Compact furniture suitable for small apartments.,IKEA Design Team,41,192,192,"Oak, Blue, Beige",True,4.1,494
+IKEA01160,POANG,Bookshelf,13750,Durable furniture with practical storage space.,IKEA Design Team,71,105,129,"Blue, Oak, Green",True,3.3,485
+IKEA01161,LACK,Sofa,5405,Durable furniture with practical storage space.,Ola Wihlborg,59,83,186,"Black, White, Oak",True,3.3,426
+IKEA01162,MALM,Desk,26139,Simple design with clean Scandinavian lines.,Jon Karlsson,73,130,181,"Oak, Black, Brown",True,3.5,490
+IKEA01163,LACK,Table,26807,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,39,82,143,"Brown, Beige, Green",True,3.0,65
+IKEA01164,MICKE,Bed,34855,Modern Scandinavian furniture with a simple and functional design.,Ola Wihlborg,80,89,199,"Green, Brown, White",False,3.3,455
+IKEA01165,TROFAST,Wardrobe,18331,Modern Scandinavian furniture with a simple and functional design.,Monika Mulder,52,58,190,"Green, Oak, Grey",True,4.8,359
+IKEA01166,IVAR,Storage,19576,Compact furniture suitable for small apartments.,Ola Wihlborg,33,52,184,"Beige, Black, Green",False,4.7,498
+IKEA01167,PAX,Bookshelf,4211,Space-saving furniture with easy assembly.,IKEA Design Team,55,215,100,"Grey, Beige, Green",True,3.8,433
+IKEA01168,LACK,Wardrobe,5944,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,82,92,179,"Green, Black, Grey",False,4.3,58
+IKEA01169,TROFAST,Storage,37243,Affordable and stylish furniture for everyday use.,Ola Wihlborg,68,185,162,"Blue, White, Grey",True,4.2,411
+IKEA01170,ALEX,Chair,38223,Modern Scandinavian furniture with a simple and functional design.,IKEA Design Team,50,122,178,"Blue, Green, Oak",True,3.7,408
+IKEA01171,EKET,Storage,38073,Simple design with clean Scandinavian lines.,Ola Wihlborg,24,132,190,"Blue, Beige, White",True,4.1,17
+IKEA01172,ALEX,Wardrobe,6974,Durable furniture with practical storage space.,Monika Mulder,23,216,146,"Grey, Brown, Beige",True,3.7,499
+IKEA01173,HEMNES,Bed,29728,Simple design with clean Scandinavian lines.,IKEA Design Team,61,147,192,"Grey, Blue, Black",True,4.1,447
+IKEA01174,MICKE,Dining Furniture,21593,Space-saving furniture with easy assembly.,Monika Mulder,64,74,157,"Black, Brown, Blue",True,3.6,161
+IKEA01175,BILLY,Chair,42406,Minimalist design suitable for modern homes.,Henrik Preutz,99,157,193,"Brown, Blue, Oak",True,3.5,367
+IKEA01176,EKET,Wardrobe,22584,Simple design with clean Scandinavian lines.,Monika Mulder,66,70,73,"Beige, White, Blue",True,4.2,470
+IKEA01177,MICKE,Dining Furniture,37230,Durable furniture with practical storage space.,Ola Wihlborg,88,75,131,"Black, Green, White",True,4.4,473
+IKEA01178,ALEX,Bookshelf,17759,Compact furniture suitable for small apartments.,Henrik Preutz,88,120,131,"Brown, Oak, White",True,4.2,47
+IKEA01179,BESTA,Desk,29501,Simple design with clean Scandinavian lines.,IKEA Design Team,51,170,69,"Grey, White, Oak",True,4.7,117
+IKEA01180,HEMNES,Desk,29358,Space-saving furniture with easy assembly.,Jon Karlsson,38,33,105,"Oak, White, Grey",False,4.7,217
+IKEA01181,MICKE,Cabinet,37729,Compact furniture suitable for small apartments.,Monika Mulder,43,162,178,"Blue, Beige, Grey",False,4.5,366
+IKEA01182,TROFAST,Wardrobe,17771,Minimalist design suitable for modern homes.,Henrik Preutz,66,90,111,"Beige, White, Green",True,3.6,428
+IKEA01183,BRIMNES,Desk,35775,Affordable and stylish furniture for everyday use.,Jon Karlsson,32,159,151,"Beige, White, Grey",True,4.4,372
+IKEA01184,BRIMNES,Dining Furniture,36810,Simple design with clean Scandinavian lines.,Jon Karlsson,79,98,177,"White, Oak, Grey",False,4.0,228
+IKEA01185,BILLY,Table,1948,Affordable and stylish furniture for everyday use.,Monika Mulder,91,196,44,"Beige, Oak, Green",True,3.1,186
+IKEA01186,BILLY,Bed,37838,Durable furniture with practical storage space.,IKEA Design Team,96,155,140,"Brown, Oak, Black",False,3.6,361
+IKEA01187,ALEX,Bed,22160,Compact furniture suitable for small apartments.,Ola Wihlborg,85,134,66,"Beige, Blue, White",True,4.4,188
+IKEA01188,POANG,Chair,5152,Affordable and stylish furniture for everyday use.,IKEA Design Team,87,135,71,"Oak, Black, Grey",True,4.7,20
+IKEA01189,ALEX,Storage,48252,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,31,54,133,"Blue, Green, Oak",False,4.4,75
+IKEA01190,IVAR,Wardrobe,12491,Modern Scandinavian furniture with a simple and functional design.,Henrik Preutz,65,75,140,"Grey, Oak, White",True,3.5,107
+IKEA01191,HEMNES,Wardrobe,42915,Space-saving furniture with easy assembly.,IKEA Design Team,63,145,54,"Grey, White, Green",True,5.0,35
+IKEA01192,ALEX,Wardrobe,6757,Compact furniture suitable for small apartments.,IKEA Design Team,87,33,31,"Beige, Oak, Brown",True,4.6,295
+IKEA01193,POANG,Wardrobe,5046,Compact furniture suitable for small apartments.,Jon Karlsson,99,157,76,"Oak, Brown, White",True,4.2,298
+IKEA01194,MALM,Storage,46791,Simple design with clean Scandinavian lines.,Jon Karlsson,84,68,143,"White, Grey, Green",True,4.6,164
+IKEA01195,LACK,Chair,23374,Space-saving furniture with easy assembly.,Jon Karlsson,95,162,72,"Black, Oak, Green",True,5.0,476
+IKEA01196,BESTA,Storage,43653,Affordable and stylish furniture for everyday use.,Monika Mulder,77,59,171,"Black, Brown, Green",True,3.3,496
+IKEA01197,IVAR,Storage,12842,Simple design with clean Scandinavian lines.,Monika Mulder,25,121,45,"Green, Blue, Beige",True,4.7,51
+IKEA01198,ALEX,Dining Furniture,21506,Affordable and stylish furniture for everyday use.,Ola Wihlborg,93,209,166,"Blue, Green, Grey",True,3.6,74
+IKEA01199,EKET,Desk,19698,Space-saving furniture with easy assembly.,Monika Mulder,71,141,126,"Black, Oak, White",False,3.2,292
+IKEA01200,EKET,TV Unit,25979,Durable furniture with practical storage space.,Monika Mulder,56,205,44,"White, Black, Green",True,4.8,387

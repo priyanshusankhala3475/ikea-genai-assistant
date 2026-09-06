@@ -1,0 +1,1501 @@
+review_id,item_id,product_name,rating,review,sentiment
+REV00001,IKEA01170,ALEX,5,Good quality and durable.,Positive
+REV00002,IKEA00643,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00003,IKEA00058,POANG,2,Some parts were difficult to assemble.,Negative
+REV00004,IKEA00789,HEMNES,4,Beautiful Scandinavian design.,Positive
+REV00005,IKEA00108,HEMNES,5,Good quality and durable.,Positive
+REV00006,IKEA00889,PAX,5,Beautiful Scandinavian design.,Positive
+REV00007,IKEA00366,MICKE,5,Good quality and durable.,Positive
+REV00008,IKEA00092,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV00009,IKEA00937,KALLAX,5,Excellent product for the price.,Positive
+REV00010,IKEA00656,PAX,3,Decent quality for the price.,Positive
+REV00011,IKEA01015,PAX,4,Good quality and durable.,Positive
+REV00012,IKEA00032,MALM,2,Not completely satisfied.,Negative
+REV00013,IKEA00422,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV00014,IKEA00595,HEMNES,1,Quality was average.,Negative
+REV00015,IKEA00678,LACK,5,Very useful and practical furniture.,Positive
+REV00016,IKEA00468,TROFAST,4,Perfect for a small apartment.,Positive
+REV00017,IKEA00824,IVAR,2,Quality was average.,Negative
+REV00018,IKEA00505,BILLY,5,Looks great in my room.,Positive
+REV00019,IKEA00866,BRIMNES,5,Good quality and durable.,Positive
+REV00020,IKEA00635,HEMNES,4,Good quality and durable.,Positive
+REV00021,IKEA00559,BILLY,4,Very good quality and easy to assemble.,Positive
+REV00022,IKEA00852,PAX,5,Very useful and practical furniture.,Positive
+REV00023,IKEA00570,MALM,5,Excellent product for the price.,Positive
+REV00024,IKEA01000,MICKE,4,Very good quality and easy to assemble.,Positive
+REV00025,IKEA00810,IVAR,2,Not completely satisfied.,Negative
+REV00026,IKEA00264,PAX,5,Excellent product for the price.,Positive
+REV00027,IKEA00145,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00028,IKEA00326,BILLY,5,Very useful and practical furniture.,Positive
+REV00029,IKEA00137,HEMNES,4,Looks great in my room.,Positive
+REV00030,IKEA00343,TROFAST,5,Looks great in my room.,Positive
+REV00031,IKEA00816,BILLY,4,Looks great in my room.,Positive
+REV00032,IKEA00584,BESTA,5,Looks great in my room.,Positive
+REV00033,IKEA00223,TROFAST,5,Very useful and practical furniture.,Positive
+REV00034,IKEA00414,BILLY,5,Beautiful Scandinavian design.,Positive
+REV00035,IKEA01020,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00036,IKEA00074,PAX,5,Very good quality and easy to assemble.,Positive
+REV00037,IKEA00229,BILLY,4,Perfect for a small apartment.,Positive
+REV00038,IKEA00795,MALM,4,Perfect for a small apartment.,Positive
+REV00039,IKEA00139,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00040,IKEA00760,HEMNES,4,Excellent product for the price.,Positive
+REV00041,IKEA00906,BILLY,5,Very good quality and easy to assemble.,Positive
+REV00042,IKEA01032,HEMNES,5,Excellent product for the price.,Positive
+REV00043,IKEA00431,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV00044,IKEA01165,TROFAST,1,Quality was average.,Negative
+REV00045,IKEA00700,ALEX,5,Looks great in my room.,Positive
+REV00046,IKEA00360,BESTA,4,Excellent product for the price.,Positive
+REV00047,IKEA00116,ALEX,4,Excellent product for the price.,Positive
+REV00048,IKEA00598,EKET,5,Excellent product for the price.,Positive
+REV00049,IKEA00377,BESTA,5,Looks great in my room.,Positive
+REV00050,IKEA00899,TROFAST,2,Not completely satisfied.,Negative
+REV00051,IKEA00143,EKET,5,Beautiful Scandinavian design.,Positive
+REV00052,IKEA01083,BILLY,4,Excellent product for the price.,Positive
+REV00053,IKEA00294,MICKE,5,Looks great in my room.,Positive
+REV00054,IKEA00117,BILLY,3,Overall good product.,Positive
+REV00055,IKEA00840,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00056,IKEA00348,ALEX,5,Looks great in my room.,Positive
+REV00057,IKEA00759,BESTA,2,Assembly instructions could be better.,Positive
+REV00058,IKEA00479,EKET,1,Assembly instructions could be better.,Positive
+REV00059,IKEA01153,TROFAST,3,The product is good.,Positive
+REV00060,IKEA01162,MALM,3,Decent quality for the price.,Positive
+REV00061,IKEA00073,PAX,5,Very good quality and easy to assemble.,Positive
+REV00062,IKEA00041,EKET,5,Very useful and practical furniture.,Positive
+REV00063,IKEA01171,EKET,5,Looks great in my room.,Positive
+REV00064,IKEA00793,LACK,4,Good quality and durable.,Positive
+REV00065,IKEA00487,EKET,5,Beautiful Scandinavian design.,Positive
+REV00066,IKEA00513,MALM,4,Good quality and durable.,Positive
+REV00067,IKEA00932,MICKE,5,Excellent product for the price.,Positive
+REV00068,IKEA00931,EKET,5,Looks great in my room.,Positive
+REV00069,IKEA00459,KALLAX,3,Decent quality for the price.,Positive
+REV00070,IKEA00796,EKET,5,Excellent product for the price.,Positive
+REV00071,IKEA00754,MALM,5,Very useful and practical furniture.,Positive
+REV00072,IKEA00615,BRIMNES,3,The product is good.,Positive
+REV00073,IKEA00841,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00074,IKEA00465,POANG,5,Excellent product for the price.,Positive
+REV00075,IKEA00723,IVAR,4,Very useful and practical furniture.,Positive
+REV00076,IKEA00863,MICKE,5,Very useful and practical furniture.,Positive
+REV00077,IKEA00927,MICKE,4,Very useful and practical furniture.,Positive
+REV00078,IKEA00950,TROFAST,4,Looks great in my room.,Positive
+REV00079,IKEA00817,MICKE,3,Size was as expected.,Neutral
+REV00080,IKEA00422,KALLAX,4,Good quality and durable.,Positive
+REV00081,IKEA00392,POANG,5,Perfect for a small apartment.,Positive
+REV00082,IKEA00745,IVAR,5,Beautiful Scandinavian design.,Positive
+REV00083,IKEA00837,LACK,4,Looks great in my room.,Positive
+REV00084,IKEA00438,IVAR,4,Very useful and practical furniture.,Positive
+REV00085,IKEA00223,TROFAST,5,Very useful and practical furniture.,Positive
+REV00086,IKEA00616,MALM,5,Perfect for a small apartment.,Positive
+REV00087,IKEA00845,LACK,3,Decent quality for the price.,Positive
+REV00088,IKEA00692,EKET,5,Excellent product for the price.,Positive
+REV00089,IKEA00788,POANG,5,Very useful and practical furniture.,Positive
+REV00090,IKEA00370,EKET,5,Very good quality and easy to assemble.,Positive
+REV00091,IKEA00423,TROFAST,4,Good quality and durable.,Positive
+REV00092,IKEA00353,BRIMNES,4,Good quality and durable.,Positive
+REV00093,IKEA01154,POANG,5,Good quality and durable.,Positive
+REV00094,IKEA00824,IVAR,5,Perfect for a small apartment.,Positive
+REV00095,IKEA00406,KALLAX,4,Looks great in my room.,Positive
+REV00096,IKEA00960,KALLAX,4,Good quality and durable.,Positive
+REV00097,IKEA00268,BRIMNES,5,Very useful and practical furniture.,Positive
+REV00098,IKEA00648,MALM,5,Perfect for a small apartment.,Positive
+REV00099,IKEA01087,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00100,IKEA00199,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00101,IKEA00044,IVAR,1,Assembly instructions could be better.,Positive
+REV00102,IKEA00679,BRIMNES,5,Looks great in my room.,Positive
+REV00103,IKEA00731,BRIMNES,4,Excellent product for the price.,Positive
+REV00104,IKEA00437,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00105,IKEA00744,MICKE,5,Looks great in my room.,Positive
+REV00106,IKEA01195,LACK,5,Very useful and practical furniture.,Positive
+REV00107,IKEA00973,LACK,4,Excellent product for the price.,Positive
+REV00108,IKEA00594,BRIMNES,4,Perfect for a small apartment.,Positive
+REV00109,IKEA01151,BRIMNES,4,Excellent product for the price.,Positive
+REV00110,IKEA00335,LACK,4,Beautiful Scandinavian design.,Positive
+REV00111,IKEA00840,MICKE,4,Beautiful Scandinavian design.,Positive
+REV00112,IKEA00962,POANG,5,Looks great in my room.,Positive
+REV00113,IKEA00511,MICKE,5,Good quality and durable.,Positive
+REV00114,IKEA00301,LACK,5,Very good quality and easy to assemble.,Positive
+REV00115,IKEA00081,BESTA,3,The product is good.,Positive
+REV00116,IKEA00969,POANG,4,Excellent product for the price.,Positive
+REV00117,IKEA00041,EKET,5,Perfect for a small apartment.,Positive
+REV00118,IKEA00743,POANG,5,Beautiful Scandinavian design.,Positive
+REV00119,IKEA01172,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00120,IKEA01008,MALM,5,Beautiful Scandinavian design.,Positive
+REV00121,IKEA00705,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00122,IKEA00758,POANG,3,Decent quality for the price.,Positive
+REV00123,IKEA00615,BRIMNES,5,Excellent product for the price.,Positive
+REV00124,IKEA00228,EKET,5,Perfect for a small apartment.,Positive
+REV00125,IKEA00404,BILLY,5,Looks great in my room.,Positive
+REV00126,IKEA00599,MALM,5,Perfect for a small apartment.,Positive
+REV00127,IKEA00171,HEMNES,4,Perfect for a small apartment.,Positive
+REV00128,IKEA01014,PAX,1,Product was smaller than expected.,Neutral
+REV00129,IKEA00856,MICKE,5,Looks great in my room.,Positive
+REV00130,IKEA00518,BRIMNES,4,Looks great in my room.,Positive
+REV00131,IKEA01066,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00132,IKEA01003,EKET,4,Excellent product for the price.,Positive
+REV00133,IKEA00107,TROFAST,5,Good quality and durable.,Positive
+REV00134,IKEA00628,PAX,4,Very useful and practical furniture.,Positive
+REV00135,IKEA00692,EKET,2,Not completely satisfied.,Negative
+REV00136,IKEA00165,EKET,4,Very good quality and easy to assemble.,Positive
+REV00137,IKEA00268,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00138,IKEA00022,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00139,IKEA00620,PAX,4,Very useful and practical furniture.,Positive
+REV00140,IKEA00779,BRIMNES,4,Good quality and durable.,Positive
+REV00141,IKEA00554,POANG,5,Looks great in my room.,Positive
+REV00142,IKEA00752,MALM,5,Perfect for a small apartment.,Positive
+REV00143,IKEA00870,BILLY,4,Looks great in my room.,Positive
+REV00144,IKEA00272,LACK,5,Good quality and durable.,Positive
+REV00145,IKEA00536,IVAR,5,Very useful and practical furniture.,Positive
+REV00146,IKEA00577,KALLAX,4,Very useful and practical furniture.,Positive
+REV00147,IKEA00174,BRIMNES,5,Looks great in my room.,Positive
+REV00148,IKEA01043,POANG,5,Very good quality and easy to assemble.,Positive
+REV00149,IKEA00264,PAX,5,Very good quality and easy to assemble.,Positive
+REV00150,IKEA00498,BESTA,3,Assembly takes some time.,Neutral
+REV00151,IKEA00134,BESTA,4,Perfect for a small apartment.,Positive
+REV00152,IKEA00486,POANG,5,Perfect for a small apartment.,Positive
+REV00153,IKEA00155,POANG,1,Assembly instructions could be better.,Positive
+REV00154,IKEA00699,LACK,5,Beautiful Scandinavian design.,Positive
+REV00155,IKEA00145,BRIMNES,4,Good quality and durable.,Positive
+REV00156,IKEA00944,EKET,5,Looks great in my room.,Positive
+REV00157,IKEA00217,BESTA,5,Very good quality and easy to assemble.,Positive
+REV00158,IKEA00285,BRIMNES,4,Good quality and durable.,Positive
+REV00159,IKEA00167,LACK,4,Good quality and durable.,Positive
+REV00160,IKEA00188,KALLAX,1,Quality was average.,Negative
+REV00161,IKEA00431,KALLAX,2,Assembly instructions could be better.,Positive
+REV00162,IKEA00793,LACK,4,Beautiful Scandinavian design.,Positive
+REV00163,IKEA00395,LACK,5,Excellent product for the price.,Positive
+REV00164,IKEA01015,PAX,5,Excellent product for the price.,Positive
+REV00165,IKEA00961,BESTA,4,Good quality and durable.,Positive
+REV00166,IKEA00126,ALEX,4,Beautiful Scandinavian design.,Positive
+REV00167,IKEA00013,MALM,3,Decent quality for the price.,Positive
+REV00168,IKEA00540,BRIMNES,3,Size was as expected.,Neutral
+REV00169,IKEA01179,BESTA,5,Good quality and durable.,Positive
+REV00170,IKEA00254,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV00171,IKEA00386,BILLY,4,Looks great in my room.,Positive
+REV00172,IKEA00467,MALM,4,Good quality and durable.,Positive
+REV00173,IKEA00608,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00174,IKEA00585,MICKE,4,Looks great in my room.,Positive
+REV00175,IKEA00707,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00176,IKEA00015,POANG,5,Good quality and durable.,Positive
+REV00177,IKEA00516,KALLAX,4,Excellent product for the price.,Positive
+REV00178,IKEA00133,HEMNES,3,The product is good.,Positive
+REV00179,IKEA00705,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00180,IKEA00881,EKET,3,The product is good.,Positive
+REV00181,IKEA00025,EKET,5,Good quality and durable.,Positive
+REV00182,IKEA00181,TROFAST,4,Perfect for a small apartment.,Positive
+REV00183,IKEA00741,MALM,5,Beautiful Scandinavian design.,Positive
+REV00184,IKEA00135,EKET,5,Good quality and durable.,Positive
+REV00185,IKEA00654,BILLY,5,Good quality and durable.,Positive
+REV00186,IKEA00984,BILLY,4,Looks great in my room.,Positive
+REV00187,IKEA01002,MALM,4,Good quality and durable.,Positive
+REV00188,IKEA00390,TROFAST,4,Excellent product for the price.,Positive
+REV00189,IKEA00088,LACK,5,Very useful and practical furniture.,Positive
+REV00190,IKEA00953,KALLAX,5,Looks great in my room.,Positive
+REV00191,IKEA00826,KALLAX,5,Very useful and practical furniture.,Positive
+REV00192,IKEA00927,MICKE,4,Good quality and durable.,Positive
+REV00193,IKEA00790,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00194,IKEA00286,EKET,5,Very useful and practical furniture.,Positive
+REV00195,IKEA00306,MICKE,4,Very good quality and easy to assemble.,Positive
+REV00196,IKEA00890,POANG,5,Good quality and durable.,Positive
+REV00197,IKEA00354,ALEX,4,Excellent product for the price.,Positive
+REV00198,IKEA00445,POANG,3,The product is good.,Positive
+REV00199,IKEA00968,BILLY,3,Assembly takes some time.,Neutral
+REV00200,IKEA00406,KALLAX,2,Not completely satisfied.,Negative
+REV00201,IKEA00325,LACK,4,Perfect for a small apartment.,Positive
+REV00202,IKEA01126,EKET,4,Excellent product for the price.,Positive
+REV00203,IKEA00997,PAX,5,Very useful and practical furniture.,Positive
+REV00204,IKEA00887,TROFAST,4,Perfect for a small apartment.,Positive
+REV00205,IKEA00328,HEMNES,5,Good quality and durable.,Positive
+REV00206,IKEA00123,MICKE,4,Very good quality and easy to assemble.,Positive
+REV00207,IKEA00138,BILLY,5,Good quality and durable.,Positive
+REV00208,IKEA00977,MICKE,5,Excellent product for the price.,Positive
+REV00209,IKEA00482,MALM,5,Very useful and practical furniture.,Positive
+REV00210,IKEA00444,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00211,IKEA00631,POANG,5,Looks great in my room.,Positive
+REV00212,IKEA00637,BRIMNES,5,Very useful and practical furniture.,Positive
+REV00213,IKEA00250,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00214,IKEA00578,MALM,4,Looks great in my room.,Positive
+REV00215,IKEA00263,KALLAX,4,Very useful and practical furniture.,Positive
+REV00216,IKEA00130,LACK,1,Some parts were difficult to assemble.,Negative
+REV00217,IKEA00855,BESTA,4,Looks great in my room.,Positive
+REV00218,IKEA00479,EKET,5,Looks great in my room.,Positive
+REV00219,IKEA00976,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00220,IKEA00698,BESTA,5,Looks great in my room.,Positive
+REV00221,IKEA00399,MICKE,5,Looks great in my room.,Positive
+REV00222,IKEA01173,HEMNES,5,Excellent product for the price.,Positive
+REV00223,IKEA00486,POANG,5,Excellent product for the price.,Positive
+REV00224,IKEA01001,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV00225,IKEA00642,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV00226,IKEA00787,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00227,IKEA00659,TROFAST,3,The product is good.,Positive
+REV00228,IKEA00948,BILLY,5,Good quality and durable.,Positive
+REV00229,IKEA00545,IVAR,3,The product is good.,Positive
+REV00230,IKEA00396,POANG,5,Looks great in my room.,Positive
+REV00231,IKEA00294,MICKE,4,Perfect for a small apartment.,Positive
+REV00232,IKEA00121,LACK,5,Excellent product for the price.,Positive
+REV00233,IKEA00007,MALM,4,Perfect for a small apartment.,Positive
+REV00234,IKEA00989,BESTA,5,Perfect for a small apartment.,Positive
+REV00235,IKEA00559,BILLY,5,Very useful and practical furniture.,Positive
+REV00236,IKEA00644,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00237,IKEA00410,BRIMNES,5,Good quality and durable.,Positive
+REV00238,IKEA00386,BILLY,5,Beautiful Scandinavian design.,Positive
+REV00239,IKEA00247,IVAR,4,Very good quality and easy to assemble.,Positive
+REV00240,IKEA00400,PAX,5,Beautiful Scandinavian design.,Positive
+REV00241,IKEA00579,BESTA,4,Very useful and practical furniture.,Positive
+REV00242,IKEA00867,BILLY,5,Perfect for a small apartment.,Positive
+REV00243,IKEA00023,BILLY,4,Excellent product for the price.,Positive
+REV00244,IKEA00296,PAX,4,Very good quality and easy to assemble.,Positive
+REV00245,IKEA00864,IVAR,3,The product is good.,Positive
+REV00246,IKEA00303,KALLAX,4,Very useful and practical furniture.,Positive
+REV00247,IKEA01138,HEMNES,4,Very useful and practical furniture.,Positive
+REV00248,IKEA00644,MICKE,3,Assembly takes some time.,Neutral
+REV00249,IKEA00934,BRIMNES,4,Good quality and durable.,Positive
+REV00250,IKEA00929,ALEX,4,Beautiful Scandinavian design.,Positive
+REV00251,IKEA00264,PAX,4,Very good quality and easy to assemble.,Positive
+REV00252,IKEA00254,KALLAX,3,Assembly takes some time.,Neutral
+REV00253,IKEA01132,LACK,5,Excellent product for the price.,Positive
+REV00254,IKEA00646,IVAR,5,Very useful and practical furniture.,Positive
+REV00255,IKEA01127,MICKE,2,Not completely satisfied.,Negative
+REV00256,IKEA00664,HEMNES,4,Looks great in my room.,Positive
+REV00257,IKEA00071,BILLY,5,Looks great in my room.,Positive
+REV00258,IKEA01159,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00259,IKEA01048,BRIMNES,3,Decent quality for the price.,Positive
+REV00260,IKEA01018,HEMNES,3,Overall good product.,Positive
+REV00261,IKEA00287,KALLAX,4,Beautiful Scandinavian design.,Positive
+REV00262,IKEA00335,LACK,5,Excellent product for the price.,Positive
+REV00263,IKEA00189,PAX,5,Looks great in my room.,Positive
+REV00264,IKEA00693,MICKE,3,Assembly takes some time.,Neutral
+REV00265,IKEA00143,EKET,5,Beautiful Scandinavian design.,Positive
+REV00266,IKEA00128,EKET,5,Good quality and durable.,Positive
+REV00267,IKEA00811,MALM,5,Beautiful Scandinavian design.,Positive
+REV00268,IKEA00184,TROFAST,5,Very useful and practical furniture.,Positive
+REV00269,IKEA00326,BILLY,3,Assembly takes some time.,Neutral
+REV00270,IKEA00466,MICKE,4,Good quality and durable.,Positive
+REV00271,IKEA01143,HEMNES,2,Quality was average.,Negative
+REV00272,IKEA00981,MICKE,2,Quality was average.,Negative
+REV00273,IKEA00477,EKET,5,Perfect for a small apartment.,Positive
+REV00274,IKEA00282,BRIMNES,5,Looks great in my room.,Positive
+REV00275,IKEA00794,POANG,5,Good quality and durable.,Positive
+REV00276,IKEA00811,MALM,1,Some parts were difficult to assemble.,Negative
+REV00277,IKEA01009,LACK,2,Not completely satisfied.,Negative
+REV00278,IKEA01127,MICKE,3,Decent quality for the price.,Positive
+REV00279,IKEA00074,PAX,4,Beautiful Scandinavian design.,Positive
+REV00280,IKEA01007,HEMNES,1,Assembly instructions could be better.,Positive
+REV00281,IKEA01192,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00282,IKEA00337,IVAR,4,Excellent product for the price.,Positive
+REV00283,IKEA01099,MALM,1,Product was smaller than expected.,Neutral
+REV00284,IKEA00577,KALLAX,4,Looks great in my room.,Positive
+REV00285,IKEA01047,BRIMNES,4,Perfect for a small apartment.,Positive
+REV00286,IKEA00413,POANG,5,Looks great in my room.,Positive
+REV00287,IKEA00686,KALLAX,4,Looks great in my room.,Positive
+REV00288,IKEA00805,PAX,3,Assembly takes some time.,Neutral
+REV00289,IKEA00925,EKET,2,Product was smaller than expected.,Neutral
+REV00290,IKEA01049,HEMNES,5,Excellent product for the price.,Positive
+REV00291,IKEA00379,MICKE,3,The product is good.,Positive
+REV00292,IKEA00219,BESTA,5,Perfect for a small apartment.,Positive
+REV00293,IKEA00422,KALLAX,4,Beautiful Scandinavian design.,Positive
+REV00294,IKEA00612,BRIMNES,5,Good quality and durable.,Positive
+REV00295,IKEA00439,ALEX,5,Perfect for a small apartment.,Positive
+REV00296,IKEA00622,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV00297,IKEA00471,EKET,5,Perfect for a small apartment.,Positive
+REV00298,IKEA00517,POANG,4,Very good quality and easy to assemble.,Positive
+REV00299,IKEA00635,HEMNES,1,Quality was average.,Negative
+REV00300,IKEA00684,EKET,4,Good quality and durable.,Positive
+REV00301,IKEA00796,EKET,5,Very useful and practical furniture.,Positive
+REV00302,IKEA00801,ALEX,5,Excellent product for the price.,Positive
+REV00303,IKEA01007,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV00304,IKEA00585,MICKE,5,Good quality and durable.,Positive
+REV00305,IKEA00509,MALM,3,Overall good product.,Positive
+REV00306,IKEA00001,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00307,IKEA00103,EKET,5,Looks great in my room.,Positive
+REV00308,IKEA00001,ALEX,4,Very useful and practical furniture.,Positive
+REV00309,IKEA01164,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00310,IKEA00110,ALEX,4,Good quality and durable.,Positive
+REV00311,IKEA00391,LACK,5,Good quality and durable.,Positive
+REV00312,IKEA00764,HEMNES,3,The product is good.,Positive
+REV00313,IKEA00046,BESTA,4,Very good quality and easy to assemble.,Positive
+REV00314,IKEA00246,LACK,4,Looks great in my room.,Positive
+REV00315,IKEA00936,EKET,5,Perfect for a small apartment.,Positive
+REV00316,IKEA00420,MICKE,3,Overall good product.,Positive
+REV00317,IKEA00976,TROFAST,4,Very good quality and easy to assemble.,Positive
+REV00318,IKEA00177,IVAR,5,Very useful and practical furniture.,Positive
+REV00319,IKEA01188,POANG,5,Looks great in my room.,Positive
+REV00320,IKEA00554,POANG,2,Product was smaller than expected.,Neutral
+REV00321,IKEA00983,BRIMNES,3,Decent quality for the price.,Positive
+REV00322,IKEA00442,BRIMNES,3,The product is good.,Positive
+REV00323,IKEA00062,HEMNES,2,Not completely satisfied.,Negative
+REV00324,IKEA00954,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00325,IKEA01182,TROFAST,5,Good quality and durable.,Positive
+REV00326,IKEA00130,LACK,5,Looks great in my room.,Positive
+REV00327,IKEA00577,KALLAX,5,Excellent product for the price.,Positive
+REV00328,IKEA00548,BILLY,2,Some parts were difficult to assemble.,Negative
+REV00329,IKEA00386,BILLY,4,Very useful and practical furniture.,Positive
+REV00330,IKEA00004,BESTA,5,Very good quality and easy to assemble.,Positive
+REV00331,IKEA01154,POANG,5,Very useful and practical furniture.,Positive
+REV00332,IKEA01145,ALEX,5,Very useful and practical furniture.,Positive
+REV00333,IKEA00475,BILLY,5,Good quality and durable.,Positive
+REV00334,IKEA00097,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV00335,IKEA00753,MALM,5,Very useful and practical furniture.,Positive
+REV00336,IKEA01116,TROFAST,4,Good quality and durable.,Positive
+REV00337,IKEA00761,PAX,5,Beautiful Scandinavian design.,Positive
+REV00338,IKEA00299,MICKE,4,Good quality and durable.,Positive
+REV00339,IKEA00711,POANG,4,Beautiful Scandinavian design.,Positive
+REV00340,IKEA00823,IVAR,4,Looks great in my room.,Positive
+REV00341,IKEA00599,MALM,3,The product is good.,Positive
+REV00342,IKEA01111,BESTA,4,Very useful and practical furniture.,Positive
+REV00343,IKEA00178,MICKE,5,Excellent product for the price.,Positive
+REV00344,IKEA00682,BESTA,5,Good quality and durable.,Positive
+REV00345,IKEA00956,EKET,5,Beautiful Scandinavian design.,Positive
+REV00346,IKEA00337,IVAR,5,Looks great in my room.,Positive
+REV00347,IKEA01038,BRIMNES,5,Good quality and durable.,Positive
+REV00348,IKEA00298,PAX,5,Beautiful Scandinavian design.,Positive
+REV00349,IKEA00327,POANG,5,Beautiful Scandinavian design.,Positive
+REV00350,IKEA00286,EKET,5,Perfect for a small apartment.,Positive
+REV00351,IKEA00422,KALLAX,5,Very useful and practical furniture.,Positive
+REV00352,IKEA00168,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00353,IKEA01027,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00354,IKEA00213,POANG,5,Looks great in my room.,Positive
+REV00355,IKEA01128,MALM,5,Excellent product for the price.,Positive
+REV00356,IKEA00465,POANG,5,Perfect for a small apartment.,Positive
+REV00357,IKEA00686,KALLAX,5,Looks great in my room.,Positive
+REV00358,IKEA00765,IVAR,5,Very useful and practical furniture.,Positive
+REV00359,IKEA01072,MALM,5,Very useful and practical furniture.,Positive
+REV00360,IKEA00449,HEMNES,5,Good quality and durable.,Positive
+REV00361,IKEA00836,LACK,5,Very good quality and easy to assemble.,Positive
+REV00362,IKEA00463,LACK,5,Very useful and practical furniture.,Positive
+REV00363,IKEA00319,EKET,5,Perfect for a small apartment.,Positive
+REV00364,IKEA00386,BILLY,5,Perfect for a small apartment.,Positive
+REV00365,IKEA01034,MICKE,5,Very useful and practical furniture.,Positive
+REV00366,IKEA00296,PAX,5,Good quality and durable.,Positive
+REV00367,IKEA00628,PAX,4,Very useful and practical furniture.,Positive
+REV00368,IKEA00621,POANG,5,Beautiful Scandinavian design.,Positive
+REV00369,IKEA00198,KALLAX,5,Excellent product for the price.,Positive
+REV00370,IKEA00049,MALM,1,Some parts were difficult to assemble.,Negative
+REV00371,IKEA00248,BILLY,4,Perfect for a small apartment.,Positive
+REV00372,IKEA00147,POANG,3,The product is good.,Positive
+REV00373,IKEA00244,TROFAST,4,Looks great in my room.,Positive
+REV00374,IKEA00826,KALLAX,1,Product was smaller than expected.,Neutral
+REV00375,IKEA00615,BRIMNES,4,Looks great in my room.,Positive
+REV00376,IKEA00427,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00377,IKEA00980,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00378,IKEA00086,EKET,5,Very good quality and easy to assemble.,Positive
+REV00379,IKEA01024,BESTA,4,Very good quality and easy to assemble.,Positive
+REV00380,IKEA00524,IVAR,5,Perfect for a small apartment.,Positive
+REV00381,IKEA00786,IVAR,5,Perfect for a small apartment.,Positive
+REV00382,IKEA00201,HEMNES,4,Beautiful Scandinavian design.,Positive
+REV00383,IKEA00719,MICKE,5,Good quality and durable.,Positive
+REV00384,IKEA01005,BILLY,5,Very useful and practical furniture.,Positive
+REV00385,IKEA00080,IVAR,5,Perfect for a small apartment.,Positive
+REV00386,IKEA00178,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00387,IKEA00189,PAX,3,Overall good product.,Positive
+REV00388,IKEA00932,MICKE,4,Looks great in my room.,Positive
+REV00389,IKEA00495,MICKE,5,Very useful and practical furniture.,Positive
+REV00390,IKEA00071,BILLY,4,Beautiful Scandinavian design.,Positive
+REV00391,IKEA00925,EKET,4,Very useful and practical furniture.,Positive
+REV00392,IKEA00195,ALEX,1,Quality was average.,Negative
+REV00393,IKEA00058,POANG,5,Very useful and practical furniture.,Positive
+REV00394,IKEA00142,TROFAST,5,Very useful and practical furniture.,Positive
+REV00395,IKEA00563,HEMNES,5,Very useful and practical furniture.,Positive
+REV00396,IKEA01098,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00397,IKEA00519,EKET,5,Good quality and durable.,Positive
+REV00398,IKEA01059,MALM,5,Very useful and practical furniture.,Positive
+REV00399,IKEA00601,BILLY,5,Very good quality and easy to assemble.,Positive
+REV00400,IKEA00595,HEMNES,5,Very useful and practical furniture.,Positive
+REV00401,IKEA00225,ALEX,5,Perfect for a small apartment.,Positive
+REV00402,IKEA00158,EKET,4,Very useful and practical furniture.,Positive
+REV00403,IKEA00511,MICKE,1,Quality was average.,Negative
+REV00404,IKEA00772,BRIMNES,2,Quality was average.,Negative
+REV00405,IKEA00458,KALLAX,4,Good quality and durable.,Positive
+REV00406,IKEA01196,BESTA,5,Excellent product for the price.,Positive
+REV00407,IKEA00911,EKET,5,Very good quality and easy to assemble.,Positive
+REV00408,IKEA00208,ALEX,4,Excellent product for the price.,Positive
+REV00409,IKEA01153,TROFAST,2,Not completely satisfied.,Negative
+REV00410,IKEA00751,EKET,5,Very useful and practical furniture.,Positive
+REV00411,IKEA00043,ALEX,5,Good quality and durable.,Positive
+REV00412,IKEA00755,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00413,IKEA00858,BILLY,5,Looks great in my room.,Positive
+REV00414,IKEA00894,MICKE,5,Very useful and practical furniture.,Positive
+REV00415,IKEA00138,BILLY,3,Assembly takes some time.,Neutral
+REV00416,IKEA00733,EKET,5,Beautiful Scandinavian design.,Positive
+REV00417,IKEA00499,MICKE,5,Excellent product for the price.,Positive
+REV00418,IKEA00248,BILLY,2,Assembly instructions could be better.,Positive
+REV00419,IKEA01169,TROFAST,4,Excellent product for the price.,Positive
+REV00420,IKEA00914,MALM,5,Beautiful Scandinavian design.,Positive
+REV00421,IKEA00765,IVAR,5,Very useful and practical furniture.,Positive
+REV00422,IKEA00137,HEMNES,5,Good quality and durable.,Positive
+REV00423,IKEA00380,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00424,IKEA01147,TROFAST,2,Quality was average.,Negative
+REV00425,IKEA00302,POANG,4,Good quality and durable.,Positive
+REV00426,IKEA00801,ALEX,1,Assembly instructions could be better.,Positive
+REV00427,IKEA01045,BESTA,5,Very good quality and easy to assemble.,Positive
+REV00428,IKEA01075,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00429,IKEA01087,HEMNES,1,Quality was average.,Negative
+REV00430,IKEA00655,TROFAST,5,Perfect for a small apartment.,Positive
+REV00431,IKEA00984,BILLY,5,Excellent product for the price.,Positive
+REV00432,IKEA00973,LACK,5,Excellent product for the price.,Positive
+REV00433,IKEA00203,TROFAST,4,Beautiful Scandinavian design.,Positive
+REV00434,IKEA01109,PAX,5,Very good quality and easy to assemble.,Positive
+REV00435,IKEA00300,ALEX,5,Perfect for a small apartment.,Positive
+REV00436,IKEA01045,BESTA,3,Overall good product.,Positive
+REV00437,IKEA00979,MALM,5,Very good quality and easy to assemble.,Positive
+REV00438,IKEA01160,POANG,4,Good quality and durable.,Positive
+REV00439,IKEA00847,BRIMNES,5,Looks great in my room.,Positive
+REV00440,IKEA00462,MICKE,5,Very useful and practical furniture.,Positive
+REV00441,IKEA00123,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00442,IKEA00657,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00443,IKEA00395,LACK,5,Looks great in my room.,Positive
+REV00444,IKEA00801,ALEX,4,Perfect for a small apartment.,Positive
+REV00445,IKEA00461,MICKE,5,Excellent product for the price.,Positive
+REV00446,IKEA00982,EKET,5,Perfect for a small apartment.,Positive
+REV00447,IKEA01044,BILLY,5,Good quality and durable.,Positive
+REV00448,IKEA00323,EKET,4,Beautiful Scandinavian design.,Positive
+REV00449,IKEA00590,BILLY,5,Very good quality and easy to assemble.,Positive
+REV00450,IKEA00887,TROFAST,5,Very useful and practical furniture.,Positive
+REV00451,IKEA00136,HEMNES,5,Good quality and durable.,Positive
+REV00452,IKEA00299,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00453,IKEA00757,ALEX,4,Looks great in my room.,Positive
+REV00454,IKEA00952,POANG,5,Looks great in my room.,Positive
+REV00455,IKEA00622,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV00456,IKEA00670,HEMNES,5,Perfect for a small apartment.,Positive
+REV00457,IKEA00963,POANG,5,Very useful and practical furniture.,Positive
+REV00458,IKEA01148,EKET,5,Beautiful Scandinavian design.,Positive
+REV00459,IKEA01176,EKET,3,Assembly takes some time.,Neutral
+REV00460,IKEA00187,TROFAST,5,Looks great in my room.,Positive
+REV00461,IKEA01092,HEMNES,5,Good quality and durable.,Positive
+REV00462,IKEA00129,MALM,4,Looks great in my room.,Positive
+REV00463,IKEA00556,POANG,5,Beautiful Scandinavian design.,Positive
+REV00464,IKEA01052,IVAR,4,Looks great in my room.,Positive
+REV00465,IKEA00491,EKET,5,Looks great in my room.,Positive
+REV00466,IKEA00628,PAX,4,Looks great in my room.,Positive
+REV00467,IKEA01061,BESTA,5,Looks great in my room.,Positive
+REV00468,IKEA00541,BRIMNES,5,Good quality and durable.,Positive
+REV00469,IKEA00386,BILLY,5,Perfect for a small apartment.,Positive
+REV00470,IKEA00286,EKET,5,Good quality and durable.,Positive
+REV00471,IKEA00605,EKET,4,Good quality and durable.,Positive
+REV00472,IKEA00741,MALM,5,Beautiful Scandinavian design.,Positive
+REV00473,IKEA00658,HEMNES,4,Very useful and practical furniture.,Positive
+REV00474,IKEA01192,ALEX,5,Very good quality and easy to assemble.,Positive
+REV00475,IKEA00597,IVAR,5,Excellent product for the price.,Positive
+REV00476,IKEA00691,MALM,4,Good quality and durable.,Positive
+REV00477,IKEA01018,HEMNES,4,Very useful and practical furniture.,Positive
+REV00478,IKEA00992,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00479,IKEA00941,BESTA,5,Excellent product for the price.,Positive
+REV00480,IKEA00522,MALM,5,Looks great in my room.,Positive
+REV00481,IKEA00255,HEMNES,5,Perfect for a small apartment.,Positive
+REV00482,IKEA01128,MALM,5,Very good quality and easy to assemble.,Positive
+REV00483,IKEA00137,HEMNES,4,Looks great in my room.,Positive
+REV00484,IKEA01014,PAX,5,Beautiful Scandinavian design.,Positive
+REV00485,IKEA01196,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00486,IKEA01163,LACK,4,Looks great in my room.,Positive
+REV00487,IKEA00105,EKET,5,Good quality and durable.,Positive
+REV00488,IKEA01003,EKET,5,Very useful and practical furniture.,Positive
+REV00489,IKEA00896,BILLY,4,Very good quality and easy to assemble.,Positive
+REV00490,IKEA00287,KALLAX,4,Looks great in my room.,Positive
+REV00491,IKEA00112,EKET,2,Assembly instructions could be better.,Positive
+REV00492,IKEA00569,HEMNES,3,Size was as expected.,Neutral
+REV00493,IKEA00550,LACK,3,Overall good product.,Positive
+REV00494,IKEA00867,BILLY,4,Good quality and durable.,Positive
+REV00495,IKEA01161,LACK,3,Overall good product.,Positive
+REV00496,IKEA00692,EKET,5,Good quality and durable.,Positive
+REV00497,IKEA00568,BESTA,4,Excellent product for the price.,Positive
+REV00498,IKEA00473,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00499,IKEA01169,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00500,IKEA00725,BRIMNES,5,Excellent product for the price.,Positive
+REV00501,IKEA00048,PAX,5,Looks great in my room.,Positive
+REV00502,IKEA00451,PAX,4,Perfect for a small apartment.,Positive
+REV00503,IKEA00785,MICKE,4,Beautiful Scandinavian design.,Positive
+REV00504,IKEA00036,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00505,IKEA01170,ALEX,5,Looks great in my room.,Positive
+REV00506,IKEA00996,POANG,3,Decent quality for the price.,Positive
+REV00507,IKEA00833,BILLY,4,Very useful and practical furniture.,Positive
+REV00508,IKEA00340,HEMNES,5,Excellent product for the price.,Positive
+REV00509,IKEA00573,EKET,3,Decent quality for the price.,Positive
+REV00510,IKEA00632,MICKE,4,Perfect for a small apartment.,Positive
+REV00511,IKEA00792,BILLY,4,Excellent product for the price.,Positive
+REV00512,IKEA00206,KALLAX,5,Very useful and practical furniture.,Positive
+REV00513,IKEA00910,BESTA,4,Good quality and durable.,Positive
+REV00514,IKEA00788,POANG,5,Perfect for a small apartment.,Positive
+REV00515,IKEA00779,BRIMNES,2,Some parts were difficult to assemble.,Negative
+REV00516,IKEA00421,MICKE,5,Very useful and practical furniture.,Positive
+REV00517,IKEA00895,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00518,IKEA00702,BESTA,4,Very useful and practical furniture.,Positive
+REV00519,IKEA01040,MICKE,5,Perfect for a small apartment.,Positive
+REV00520,IKEA00906,BILLY,5,Looks great in my room.,Positive
+REV00521,IKEA00296,PAX,5,Beautiful Scandinavian design.,Positive
+REV00522,IKEA00774,PAX,4,Very useful and practical furniture.,Positive
+REV00523,IKEA00425,MICKE,4,Looks great in my room.,Positive
+REV00524,IKEA00830,EKET,4,Good quality and durable.,Positive
+REV00525,IKEA00596,BILLY,5,Very useful and practical furniture.,Positive
+REV00526,IKEA00962,POANG,5,Good quality and durable.,Positive
+REV00527,IKEA01154,POANG,4,Good quality and durable.,Positive
+REV00528,IKEA00133,HEMNES,5,Perfect for a small apartment.,Positive
+REV00529,IKEA00045,LACK,4,Looks great in my room.,Positive
+REV00530,IKEA00737,LACK,4,Very useful and practical furniture.,Positive
+REV00531,IKEA00894,MICKE,5,Very useful and practical furniture.,Positive
+REV00532,IKEA00184,TROFAST,4,Looks great in my room.,Positive
+REV00533,IKEA00469,TROFAST,4,Looks great in my room.,Positive
+REV00534,IKEA00981,MICKE,4,Excellent product for the price.,Positive
+REV00535,IKEA01200,EKET,5,Beautiful Scandinavian design.,Positive
+REV00536,IKEA01088,BESTA,5,Perfect for a small apartment.,Positive
+REV00537,IKEA00075,KALLAX,5,Looks great in my room.,Positive
+REV00538,IKEA00099,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00539,IKEA00326,BILLY,3,Size was as expected.,Neutral
+REV00540,IKEA00103,EKET,4,Beautiful Scandinavian design.,Positive
+REV00541,IKEA00523,MALM,5,Looks great in my room.,Positive
+REV00542,IKEA00291,LACK,5,Looks great in my room.,Positive
+REV00543,IKEA00381,BILLY,4,Looks great in my room.,Positive
+REV00544,IKEA00342,MALM,5,Excellent product for the price.,Positive
+REV00545,IKEA00189,PAX,5,Beautiful Scandinavian design.,Positive
+REV00546,IKEA00361,IVAR,4,Very useful and practical furniture.,Positive
+REV00547,IKEA00867,BILLY,5,Excellent product for the price.,Positive
+REV00548,IKEA00036,HEMNES,5,Excellent product for the price.,Positive
+REV00549,IKEA00158,EKET,3,Overall good product.,Positive
+REV00550,IKEA00552,BRIMNES,5,Excellent product for the price.,Positive
+REV00551,IKEA01094,IVAR,3,The product is good.,Positive
+REV00552,IKEA01134,POANG,5,Good quality and durable.,Positive
+REV00553,IKEA00367,BRIMNES,4,Excellent product for the price.,Positive
+REV00554,IKEA00504,EKET,5,Looks great in my room.,Positive
+REV00555,IKEA00352,PAX,5,Beautiful Scandinavian design.,Positive
+REV00556,IKEA00043,ALEX,5,Very good quality and easy to assemble.,Positive
+REV00557,IKEA00807,BRIMNES,3,Overall good product.,Positive
+REV00558,IKEA00961,BESTA,4,Excellent product for the price.,Positive
+REV00559,IKEA00496,EKET,5,Perfect for a small apartment.,Positive
+REV00560,IKEA00753,MALM,5,Looks great in my room.,Positive
+REV00561,IKEA00948,BILLY,4,Excellent product for the price.,Positive
+REV00562,IKEA00226,LACK,5,Excellent product for the price.,Positive
+REV00563,IKEA00087,ALEX,3,The product is good.,Positive
+REV00564,IKEA00279,EKET,1,Not completely satisfied.,Negative
+REV00565,IKEA01084,BILLY,5,Good quality and durable.,Positive
+REV00566,IKEA00809,MICKE,5,Good quality and durable.,Positive
+REV00567,IKEA00828,MALM,5,Very useful and practical furniture.,Positive
+REV00568,IKEA01065,IVAR,4,Beautiful Scandinavian design.,Positive
+REV00569,IKEA01183,BRIMNES,5,Good quality and durable.,Positive
+REV00570,IKEA00830,EKET,5,Beautiful Scandinavian design.,Positive
+REV00571,IKEA00835,BRIMNES,4,Perfect for a small apartment.,Positive
+REV00572,IKEA01024,BESTA,3,Overall good product.,Positive
+REV00573,IKEA00424,BRIMNES,3,Assembly takes some time.,Neutral
+REV00574,IKEA00612,BRIMNES,3,The product is good.,Positive
+REV00575,IKEA00784,POANG,4,Looks great in my room.,Positive
+REV00576,IKEA00049,MALM,4,Excellent product for the price.,Positive
+REV00577,IKEA00033,EKET,4,Perfect for a small apartment.,Positive
+REV00578,IKEA00302,POANG,4,Beautiful Scandinavian design.,Positive
+REV00579,IKEA00287,KALLAX,5,Looks great in my room.,Positive
+REV00580,IKEA00812,PAX,4,Very good quality and easy to assemble.,Positive
+REV00581,IKEA00466,MICKE,5,Looks great in my room.,Positive
+REV00582,IKEA00997,PAX,4,Good quality and durable.,Positive
+REV00583,IKEA00953,KALLAX,4,Excellent product for the price.,Positive
+REV00584,IKEA00949,LACK,3,Overall good product.,Positive
+REV00585,IKEA00503,HEMNES,5,Good quality and durable.,Positive
+REV00586,IKEA00208,ALEX,4,Very good quality and easy to assemble.,Positive
+REV00587,IKEA00718,MALM,5,Very useful and practical furniture.,Positive
+REV00588,IKEA00888,EKET,3,Assembly takes some time.,Neutral
+REV00589,IKEA00727,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00590,IKEA00978,POANG,2,Not completely satisfied.,Negative
+REV00591,IKEA00139,BRIMNES,4,Excellent product for the price.,Positive
+REV00592,IKEA00636,HEMNES,5,Excellent product for the price.,Positive
+REV00593,IKEA00023,BILLY,5,Excellent product for the price.,Positive
+REV00594,IKEA01151,BRIMNES,4,Very good quality and easy to assemble.,Positive
+REV00595,IKEA01044,BILLY,4,Beautiful Scandinavian design.,Positive
+REV00596,IKEA00761,PAX,2,Not completely satisfied.,Negative
+REV00597,IKEA00685,MICKE,5,Very useful and practical furniture.,Positive
+REV00598,IKEA00711,POANG,5,Looks great in my room.,Positive
+REV00599,IKEA00754,MALM,3,Size was as expected.,Neutral
+REV00600,IKEA01200,EKET,3,The product is good.,Positive
+REV00601,IKEA00999,HEMNES,4,Beautiful Scandinavian design.,Positive
+REV00602,IKEA00075,KALLAX,5,Beautiful Scandinavian design.,Positive
+REV00603,IKEA01160,POANG,5,Excellent product for the price.,Positive
+REV00604,IKEA00774,PAX,4,Good quality and durable.,Positive
+REV00605,IKEA00901,PAX,5,Good quality and durable.,Positive
+REV00606,IKEA00548,BILLY,3,Decent quality for the price.,Positive
+REV00607,IKEA00191,LACK,5,Looks great in my room.,Positive
+REV00608,IKEA00808,IVAR,4,Very good quality and easy to assemble.,Positive
+REV00609,IKEA00621,POANG,1,Quality was average.,Negative
+REV00610,IKEA00399,MICKE,4,Excellent product for the price.,Positive
+REV00611,IKEA00856,MICKE,5,Excellent product for the price.,Positive
+REV00612,IKEA00875,BRIMNES,5,Looks great in my room.,Positive
+REV00613,IKEA00432,KALLAX,1,Assembly instructions could be better.,Positive
+REV00614,IKEA00335,LACK,5,Looks great in my room.,Positive
+REV00615,IKEA00989,BESTA,5,Excellent product for the price.,Positive
+REV00616,IKEA00960,KALLAX,5,Excellent product for the price.,Positive
+REV00617,IKEA01011,POANG,3,The product is good.,Positive
+REV00618,IKEA00702,BESTA,5,Looks great in my room.,Positive
+REV00619,IKEA00961,BESTA,5,Looks great in my room.,Positive
+REV00620,IKEA01182,TROFAST,5,Perfect for a small apartment.,Positive
+REV00621,IKEA00678,LACK,5,Looks great in my room.,Positive
+REV00622,IKEA01079,BESTA,4,Good quality and durable.,Positive
+REV00623,IKEA01066,MICKE,5,Perfect for a small apartment.,Positive
+REV00624,IKEA00503,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV00625,IKEA00889,PAX,5,Looks great in my room.,Positive
+REV00626,IKEA01043,POANG,4,Good quality and durable.,Positive
+REV00627,IKEA00829,BRIMNES,3,Size was as expected.,Neutral
+REV00628,IKEA00616,MALM,5,Looks great in my room.,Positive
+REV00629,IKEA00219,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00630,IKEA00458,KALLAX,5,Excellent product for the price.,Positive
+REV00631,IKEA00510,HEMNES,5,Excellent product for the price.,Positive
+REV00632,IKEA00202,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00633,IKEA00744,MICKE,4,Very useful and practical furniture.,Positive
+REV00634,IKEA00859,ALEX,5,Looks great in my room.,Positive
+REV00635,IKEA00167,LACK,4,Beautiful Scandinavian design.,Positive
+REV00636,IKEA00986,LACK,5,Good quality and durable.,Positive
+REV00637,IKEA00136,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00638,IKEA00893,KALLAX,4,Very useful and practical furniture.,Positive
+REV00639,IKEA00316,MALM,4,Very good quality and easy to assemble.,Positive
+REV00640,IKEA00684,EKET,5,Very good quality and easy to assemble.,Positive
+REV00641,IKEA00631,POANG,4,Very useful and practical furniture.,Positive
+REV00642,IKEA00812,PAX,5,Very useful and practical furniture.,Positive
+REV00643,IKEA00881,EKET,5,Looks great in my room.,Positive
+REV00644,IKEA00499,MICKE,5,Excellent product for the price.,Positive
+REV00645,IKEA00689,ALEX,4,Looks great in my room.,Positive
+REV00646,IKEA00772,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00647,IKEA00169,BRIMNES,3,Overall good product.,Positive
+REV00648,IKEA00308,BILLY,5,Very useful and practical furniture.,Positive
+REV00649,IKEA00190,HEMNES,5,Perfect for a small apartment.,Positive
+REV00650,IKEA00312,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00651,IKEA00966,POANG,4,Excellent product for the price.,Positive
+REV00652,IKEA00597,IVAR,5,Looks great in my room.,Positive
+REV00653,IKEA00732,PAX,5,Very good quality and easy to assemble.,Positive
+REV00654,IKEA00083,POANG,4,Looks great in my room.,Positive
+REV00655,IKEA00677,LACK,3,Size was as expected.,Neutral
+REV00656,IKEA00169,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00657,IKEA00001,ALEX,5,Excellent product for the price.,Positive
+REV00658,IKEA00349,TROFAST,5,Perfect for a small apartment.,Positive
+REV00659,IKEA01005,BILLY,3,Size was as expected.,Neutral
+REV00660,IKEA00597,IVAR,5,Beautiful Scandinavian design.,Positive
+REV00661,IKEA00147,POANG,5,Looks great in my room.,Positive
+REV00662,IKEA00284,TROFAST,3,Size was as expected.,Neutral
+REV00663,IKEA00533,TROFAST,4,Perfect for a small apartment.,Positive
+REV00664,IKEA01055,BRIMNES,3,Size was as expected.,Neutral
+REV00665,IKEA00459,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV00666,IKEA00806,KALLAX,5,Good quality and durable.,Positive
+REV00667,IKEA00334,EKET,5,Perfect for a small apartment.,Positive
+REV00668,IKEA00927,MICKE,4,Beautiful Scandinavian design.,Positive
+REV00669,IKEA00628,PAX,4,Good quality and durable.,Positive
+REV00670,IKEA00822,MICKE,4,Excellent product for the price.,Positive
+REV00671,IKEA00634,EKET,5,Excellent product for the price.,Positive
+REV00672,IKEA00493,IVAR,5,Good quality and durable.,Positive
+REV00673,IKEA00318,MICKE,2,Assembly instructions could be better.,Positive
+REV00674,IKEA00242,IVAR,3,The product is good.,Positive
+REV00675,IKEA00259,HEMNES,3,Overall good product.,Positive
+REV00676,IKEA00579,BESTA,5,Good quality and durable.,Positive
+REV00677,IKEA00656,PAX,5,Good quality and durable.,Positive
+REV00678,IKEA00987,PAX,4,Very good quality and easy to assemble.,Positive
+REV00679,IKEA01131,EKET,5,Looks great in my room.,Positive
+REV00680,IKEA00430,EKET,5,Good quality and durable.,Positive
+REV00681,IKEA00070,PAX,4,Very useful and practical furniture.,Positive
+REV00682,IKEA00393,MICKE,4,Very good quality and easy to assemble.,Positive
+REV00683,IKEA00065,BILLY,5,Perfect for a small apartment.,Positive
+REV00684,IKEA00517,POANG,4,Perfect for a small apartment.,Positive
+REV00685,IKEA01020,BRIMNES,5,Very useful and practical furniture.,Positive
+REV00686,IKEA00663,ALEX,4,Perfect for a small apartment.,Positive
+REV00687,IKEA00670,HEMNES,5,Good quality and durable.,Positive
+REV00688,IKEA00865,IVAR,5,Perfect for a small apartment.,Positive
+REV00689,IKEA01161,LACK,5,Excellent product for the price.,Positive
+REV00690,IKEA00016,BILLY,5,Excellent product for the price.,Positive
+REV00691,IKEA00514,ALEX,4,Very useful and practical furniture.,Positive
+REV00692,IKEA00686,KALLAX,3,Decent quality for the price.,Positive
+REV00693,IKEA00492,BESTA,5,Very useful and practical furniture.,Positive
+REV00694,IKEA00570,MALM,5,Good quality and durable.,Positive
+REV00695,IKEA00370,EKET,4,Perfect for a small apartment.,Positive
+REV00696,IKEA00019,BILLY,5,Good quality and durable.,Positive
+REV00697,IKEA00703,MALM,5,Looks great in my room.,Positive
+REV00698,IKEA00691,MALM,1,Not completely satisfied.,Negative
+REV00699,IKEA01027,ALEX,4,Excellent product for the price.,Positive
+REV00700,IKEA00681,EKET,5,Perfect for a small apartment.,Positive
+REV00701,IKEA01035,BRIMNES,4,Very useful and practical furniture.,Positive
+REV00702,IKEA01083,BILLY,5,Beautiful Scandinavian design.,Positive
+REV00703,IKEA00403,HEMNES,4,Good quality and durable.,Positive
+REV00704,IKEA00081,BESTA,5,Good quality and durable.,Positive
+REV00705,IKEA01121,MALM,4,Perfect for a small apartment.,Positive
+REV00706,IKEA00935,MALM,2,Some parts were difficult to assemble.,Negative
+REV00707,IKEA00037,BESTA,4,Good quality and durable.,Positive
+REV00708,IKEA00129,MALM,5,Very useful and practical furniture.,Positive
+REV00709,IKEA00950,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00710,IKEA01172,ALEX,4,Looks great in my room.,Positive
+REV00711,IKEA00457,MALM,4,Looks great in my room.,Positive
+REV00712,IKEA00080,IVAR,5,Good quality and durable.,Positive
+REV00713,IKEA01187,ALEX,4,Looks great in my room.,Positive
+REV00714,IKEA00009,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00715,IKEA00455,TROFAST,5,Very useful and practical furniture.,Positive
+REV00716,IKEA00490,POANG,4,Very useful and practical furniture.,Positive
+REV00717,IKEA00098,IVAR,5,Perfect for a small apartment.,Positive
+REV00718,IKEA00561,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00719,IKEA00854,TROFAST,1,Some parts were difficult to assemble.,Negative
+REV00720,IKEA00105,EKET,5,Beautiful Scandinavian design.,Positive
+REV00721,IKEA00438,IVAR,5,Beautiful Scandinavian design.,Positive
+REV00722,IKEA00589,KALLAX,5,Perfect for a small apartment.,Positive
+REV00723,IKEA00481,KALLAX,5,Very useful and practical furniture.,Positive
+REV00724,IKEA01149,MALM,5,Excellent product for the price.,Positive
+REV00725,IKEA01117,MICKE,5,Very good quality and easy to assemble.,Positive
+REV00726,IKEA00880,BESTA,3,Decent quality for the price.,Positive
+REV00727,IKEA00983,BRIMNES,2,Quality was average.,Negative
+REV00728,IKEA00529,KALLAX,4,Looks great in my room.,Positive
+REV00729,IKEA00527,ALEX,4,Very useful and practical furniture.,Positive
+REV00730,IKEA00418,TROFAST,5,Looks great in my room.,Positive
+REV00731,IKEA00200,EKET,5,Looks great in my room.,Positive
+REV00732,IKEA00634,EKET,5,Good quality and durable.,Positive
+REV00733,IKEA01124,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00734,IKEA00319,EKET,5,Perfect for a small apartment.,Positive
+REV00735,IKEA00007,MALM,5,Very good quality and easy to assemble.,Positive
+REV00736,IKEA00554,POANG,5,Very good quality and easy to assemble.,Positive
+REV00737,IKEA00925,EKET,4,Beautiful Scandinavian design.,Positive
+REV00738,IKEA01095,PAX,5,Very good quality and easy to assemble.,Positive
+REV00739,IKEA00986,LACK,5,Looks great in my room.,Positive
+REV00740,IKEA00171,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV00741,IKEA00724,MALM,4,Perfect for a small apartment.,Positive
+REV00742,IKEA00388,EKET,5,Looks great in my room.,Positive
+REV00743,IKEA00038,PAX,5,Beautiful Scandinavian design.,Positive
+REV00744,IKEA00177,IVAR,5,Excellent product for the price.,Positive
+REV00745,IKEA00299,MICKE,4,Beautiful Scandinavian design.,Positive
+REV00746,IKEA01096,BILLY,4,Perfect for a small apartment.,Positive
+REV00747,IKEA00720,IVAR,2,Not completely satisfied.,Negative
+REV00748,IKEA00886,BESTA,3,Size was as expected.,Neutral
+REV00749,IKEA00825,ALEX,4,Excellent product for the price.,Positive
+REV00750,IKEA00991,MICKE,5,Good quality and durable.,Positive
+REV00751,IKEA00138,BILLY,5,Good quality and durable.,Positive
+REV00752,IKEA00465,POANG,5,Perfect for a small apartment.,Positive
+REV00753,IKEA01013,MALM,5,Very useful and practical furniture.,Positive
+REV00754,IKEA00794,POANG,4,Looks great in my room.,Positive
+REV00755,IKEA00408,BESTA,5,Very good quality and easy to assemble.,Positive
+REV00756,IKEA00928,IVAR,4,Beautiful Scandinavian design.,Positive
+REV00757,IKEA00728,POANG,1,Some parts were difficult to assemble.,Negative
+REV00758,IKEA00694,BESTA,4,Perfect for a small apartment.,Positive
+REV00759,IKEA00016,BILLY,5,Perfect for a small apartment.,Positive
+REV00760,IKEA00950,TROFAST,3,Overall good product.,Positive
+REV00761,IKEA01067,POANG,5,Very good quality and easy to assemble.,Positive
+REV00762,IKEA00279,EKET,5,Beautiful Scandinavian design.,Positive
+REV00763,IKEA01130,BESTA,5,Looks great in my room.,Positive
+REV00764,IKEA00246,LACK,5,Very good quality and easy to assemble.,Positive
+REV00765,IKEA00650,PAX,4,Beautiful Scandinavian design.,Positive
+REV00766,IKEA00872,BILLY,4,Perfect for a small apartment.,Positive
+REV00767,IKEA00219,BESTA,3,Assembly takes some time.,Neutral
+REV00768,IKEA00281,MICKE,5,Perfect for a small apartment.,Positive
+REV00769,IKEA00778,IVAR,5,Looks great in my room.,Positive
+REV00770,IKEA00697,POANG,5,Very good quality and easy to assemble.,Positive
+REV00771,IKEA01088,BESTA,4,Very useful and practical furniture.,Positive
+REV00772,IKEA00632,MICKE,5,Very useful and practical furniture.,Positive
+REV00773,IKEA00047,BESTA,2,Some parts were difficult to assemble.,Negative
+REV00774,IKEA00672,TROFAST,4,Very good quality and easy to assemble.,Positive
+REV00775,IKEA00282,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00776,IKEA00206,KALLAX,4,Very good quality and easy to assemble.,Positive
+REV00777,IKEA00542,KALLAX,5,Looks great in my room.,Positive
+REV00778,IKEA00254,KALLAX,4,Excellent product for the price.,Positive
+REV00779,IKEA01193,POANG,5,Excellent product for the price.,Positive
+REV00780,IKEA00101,MALM,4,Perfect for a small apartment.,Positive
+REV00781,IKEA01127,MICKE,5,Perfect for a small apartment.,Positive
+REV00782,IKEA00164,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00783,IKEA01183,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00784,IKEA00609,KALLAX,5,Good quality and durable.,Positive
+REV00785,IKEA00610,PAX,3,The product is good.,Positive
+REV00786,IKEA00084,LACK,4,Very useful and practical furniture.,Positive
+REV00787,IKEA00191,LACK,5,Looks great in my room.,Positive
+REV00788,IKEA00107,TROFAST,3,Overall good product.,Positive
+REV00789,IKEA00009,MICKE,3,The product is good.,Positive
+REV00790,IKEA00088,LACK,5,Looks great in my room.,Positive
+REV00791,IKEA00832,KALLAX,5,Looks great in my room.,Positive
+REV00792,IKEA00326,BILLY,5,Beautiful Scandinavian design.,Positive
+REV00793,IKEA00508,LACK,3,Decent quality for the price.,Positive
+REV00794,IKEA00380,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00795,IKEA00213,POANG,5,Very good quality and easy to assemble.,Positive
+REV00796,IKEA00964,PAX,4,Good quality and durable.,Positive
+REV00797,IKEA00260,MALM,4,Perfect for a small apartment.,Positive
+REV00798,IKEA01044,BILLY,4,Very useful and practical furniture.,Positive
+REV00799,IKEA00011,IVAR,5,Looks great in my room.,Positive
+REV00800,IKEA01182,TROFAST,5,Perfect for a small apartment.,Positive
+REV00801,IKEA00385,POANG,5,Excellent product for the price.,Positive
+REV00802,IKEA00122,ALEX,4,Beautiful Scandinavian design.,Positive
+REV00803,IKEA00796,EKET,4,Beautiful Scandinavian design.,Positive
+REV00804,IKEA00600,TROFAST,4,Very useful and practical furniture.,Positive
+REV00805,IKEA00843,EKET,5,Looks great in my room.,Positive
+REV00806,IKEA00552,BRIMNES,4,Perfect for a small apartment.,Positive
+REV00807,IKEA00256,PAX,5,Looks great in my room.,Positive
+REV00808,IKEA01020,BRIMNES,1,Assembly instructions could be better.,Positive
+REV00809,IKEA00831,BILLY,5,Good quality and durable.,Positive
+REV00810,IKEA00519,EKET,5,Beautiful Scandinavian design.,Positive
+REV00811,IKEA00378,POANG,5,Beautiful Scandinavian design.,Positive
+REV00812,IKEA00246,LACK,5,Excellent product for the price.,Positive
+REV00813,IKEA00272,LACK,5,Excellent product for the price.,Positive
+REV00814,IKEA00512,IVAR,5,Good quality and durable.,Positive
+REV00815,IKEA00148,LACK,5,Excellent product for the price.,Positive
+REV00816,IKEA00447,KALLAX,4,Very good quality and easy to assemble.,Positive
+REV00817,IKEA01177,MICKE,1,Quality was average.,Negative
+REV00818,IKEA00227,POANG,5,Very good quality and easy to assemble.,Positive
+REV00819,IKEA00847,BRIMNES,3,Decent quality for the price.,Positive
+REV00820,IKEA00916,HEMNES,3,Overall good product.,Positive
+REV00821,IKEA00756,TROFAST,4,Very useful and practical furniture.,Positive
+REV00822,IKEA00776,BILLY,5,Good quality and durable.,Positive
+REV00823,IKEA00564,LACK,4,Excellent product for the price.,Positive
+REV00824,IKEA00299,MICKE,4,Looks great in my room.,Positive
+REV00825,IKEA00386,BILLY,5,Perfect for a small apartment.,Positive
+REV00826,IKEA00498,BESTA,5,Looks great in my room.,Positive
+REV00827,IKEA00896,BILLY,2,Assembly instructions could be better.,Positive
+REV00828,IKEA00888,EKET,5,Very good quality and easy to assemble.,Positive
+REV00829,IKEA00123,MICKE,5,Beautiful Scandinavian design.,Positive
+REV00830,IKEA00593,TROFAST,4,Very good quality and easy to assemble.,Positive
+REV00831,IKEA00589,KALLAX,3,Assembly takes some time.,Neutral
+REV00832,IKEA00363,PAX,4,Very good quality and easy to assemble.,Positive
+REV00833,IKEA00970,BILLY,5,Beautiful Scandinavian design.,Positive
+REV00834,IKEA00134,BESTA,5,Looks great in my room.,Positive
+REV00835,IKEA00621,POANG,5,Very useful and practical furniture.,Positive
+REV00836,IKEA00412,EKET,5,Looks great in my room.,Positive
+REV00837,IKEA00977,MICKE,5,Looks great in my room.,Positive
+REV00838,IKEA00329,BESTA,5,Very useful and practical furniture.,Positive
+REV00839,IKEA00274,TROFAST,1,Quality was average.,Negative
+REV00840,IKEA00996,POANG,4,Beautiful Scandinavian design.,Positive
+REV00841,IKEA01044,BILLY,5,Excellent product for the price.,Positive
+REV00842,IKEA00225,ALEX,4,Looks great in my room.,Positive
+REV00843,IKEA01070,BRIMNES,4,Very good quality and easy to assemble.,Positive
+REV00844,IKEA00557,MALM,5,Beautiful Scandinavian design.,Positive
+REV00845,IKEA00636,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00846,IKEA00129,MALM,5,Very good quality and easy to assemble.,Positive
+REV00847,IKEA00495,MICKE,5,Looks great in my room.,Positive
+REV00848,IKEA00501,POANG,5,Good quality and durable.,Positive
+REV00849,IKEA01139,EKET,5,Beautiful Scandinavian design.,Positive
+REV00850,IKEA01086,HEMNES,5,Good quality and durable.,Positive
+REV00851,IKEA01018,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00852,IKEA00306,MICKE,5,Looks great in my room.,Positive
+REV00853,IKEA01135,BESTA,4,Looks great in my room.,Positive
+REV00854,IKEA00003,LACK,5,Excellent product for the price.,Positive
+REV00855,IKEA00223,TROFAST,5,Good quality and durable.,Positive
+REV00856,IKEA00871,EKET,4,Perfect for a small apartment.,Positive
+REV00857,IKEA00557,MALM,5,Good quality and durable.,Positive
+REV00858,IKEA00824,IVAR,5,Beautiful Scandinavian design.,Positive
+REV00859,IKEA01158,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00860,IKEA00779,BRIMNES,5,Excellent product for the price.,Positive
+REV00861,IKEA00502,TROFAST,4,Perfect for a small apartment.,Positive
+REV00862,IKEA00689,ALEX,4,Perfect for a small apartment.,Positive
+REV00863,IKEA00494,LACK,5,Very useful and practical furniture.,Positive
+REV00864,IKEA00467,MALM,4,Beautiful Scandinavian design.,Positive
+REV00865,IKEA00034,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV00866,IKEA01158,BRIMNES,5,Excellent product for the price.,Positive
+REV00867,IKEA00842,MICKE,5,Excellent product for the price.,Positive
+REV00868,IKEA00957,LACK,4,Good quality and durable.,Positive
+REV00869,IKEA00149,LACK,3,Size was as expected.,Neutral
+REV00870,IKEA00904,ALEX,5,Excellent product for the price.,Positive
+REV00871,IKEA00440,IVAR,4,Very good quality and easy to assemble.,Positive
+REV00872,IKEA00075,KALLAX,4,Beautiful Scandinavian design.,Positive
+REV00873,IKEA00838,MICKE,3,Assembly takes some time.,Neutral
+REV00874,IKEA00922,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV00875,IKEA00698,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00876,IKEA00244,TROFAST,3,Assembly takes some time.,Neutral
+REV00877,IKEA01100,ALEX,5,Perfect for a small apartment.,Positive
+REV00878,IKEA00494,LACK,2,Some parts were difficult to assemble.,Negative
+REV00879,IKEA01109,PAX,4,Perfect for a small apartment.,Positive
+REV00880,IKEA00014,POANG,5,Very useful and practical furniture.,Positive
+REV00881,IKEA00444,ALEX,5,Looks great in my room.,Positive
+REV00882,IKEA00205,ALEX,3,Size was as expected.,Neutral
+REV00883,IKEA00470,HEMNES,5,Looks great in my room.,Positive
+REV00884,IKEA00001,ALEX,4,Looks great in my room.,Positive
+REV00885,IKEA00731,BRIMNES,5,Beautiful Scandinavian design.,Positive
+REV00886,IKEA00337,IVAR,2,Assembly instructions could be better.,Positive
+REV00887,IKEA01171,EKET,2,Some parts were difficult to assemble.,Negative
+REV00888,IKEA00395,LACK,4,Excellent product for the price.,Positive
+REV00889,IKEA00480,TROFAST,5,Good quality and durable.,Positive
+REV00890,IKEA00368,TROFAST,4,Excellent product for the price.,Positive
+REV00891,IKEA00405,POANG,3,The product is good.,Positive
+REV00892,IKEA00126,ALEX,5,Excellent product for the price.,Positive
+REV00893,IKEA00276,POANG,2,Quality was average.,Negative
+REV00894,IKEA00751,EKET,5,Perfect for a small apartment.,Positive
+REV00895,IKEA00614,EKET,5,Very useful and practical furniture.,Positive
+REV00896,IKEA00316,MALM,5,Perfect for a small apartment.,Positive
+REV00897,IKEA00326,BILLY,5,Very good quality and easy to assemble.,Positive
+REV00898,IKEA00351,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00899,IKEA00359,BILLY,5,Very useful and practical furniture.,Positive
+REV00900,IKEA00223,TROFAST,3,Decent quality for the price.,Positive
+REV00901,IKEA00434,TROFAST,3,The product is good.,Positive
+REV00902,IKEA00223,TROFAST,4,Good quality and durable.,Positive
+REV00903,IKEA00341,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV00904,IKEA01137,BESTA,5,Beautiful Scandinavian design.,Positive
+REV00905,IKEA01200,EKET,5,Very useful and practical furniture.,Positive
+REV00906,IKEA00323,EKET,5,Beautiful Scandinavian design.,Positive
+REV00907,IKEA01092,HEMNES,5,Excellent product for the price.,Positive
+REV00908,IKEA00920,BESTA,4,Beautiful Scandinavian design.,Positive
+REV00909,IKEA00912,BRIMNES,4,Looks great in my room.,Positive
+REV00910,IKEA00439,ALEX,5,Perfect for a small apartment.,Positive
+REV00911,IKEA00042,KALLAX,4,Looks great in my room.,Positive
+REV00912,IKEA00770,PAX,5,Very useful and practical furniture.,Positive
+REV00913,IKEA00187,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV00914,IKEA00260,MALM,5,Excellent product for the price.,Positive
+REV00915,IKEA01093,BESTA,5,Very good quality and easy to assemble.,Positive
+REV00916,IKEA01148,EKET,5,Good quality and durable.,Positive
+REV00917,IKEA01190,IVAR,5,Perfect for a small apartment.,Positive
+REV00918,IKEA00277,MALM,3,Decent quality for the price.,Positive
+REV00919,IKEA01104,EKET,5,Perfect for a small apartment.,Positive
+REV00920,IKEA00259,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV00921,IKEA01042,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00922,IKEA00152,BILLY,4,Beautiful Scandinavian design.,Positive
+REV00923,IKEA00172,TROFAST,4,Beautiful Scandinavian design.,Positive
+REV00924,IKEA00192,EKET,4,Looks great in my room.,Positive
+REV00925,IKEA01125,HEMNES,3,Decent quality for the price.,Positive
+REV00926,IKEA00091,HEMNES,4,Perfect for a small apartment.,Positive
+REV00927,IKEA00421,MICKE,3,Decent quality for the price.,Positive
+REV00928,IKEA00184,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00929,IKEA00906,BILLY,3,Size was as expected.,Neutral
+REV00930,IKEA00165,EKET,5,Looks great in my room.,Positive
+REV00931,IKEA00944,EKET,4,Looks great in my room.,Positive
+REV00932,IKEA00692,EKET,2,Assembly instructions could be better.,Positive
+REV00933,IKEA00056,MICKE,5,Good quality and durable.,Positive
+REV00934,IKEA00050,IVAR,5,Good quality and durable.,Positive
+REV00935,IKEA00063,MALM,3,Decent quality for the price.,Positive
+REV00936,IKEA01200,EKET,3,Decent quality for the price.,Positive
+REV00937,IKEA00985,MALM,5,Very good quality and easy to assemble.,Positive
+REV00938,IKEA00900,POANG,5,Beautiful Scandinavian design.,Positive
+REV00939,IKEA00761,PAX,3,Size was as expected.,Neutral
+REV00940,IKEA00053,ALEX,5,Looks great in my room.,Positive
+REV00941,IKEA00641,LACK,4,Very good quality and easy to assemble.,Positive
+REV00942,IKEA01033,LACK,5,Perfect for a small apartment.,Positive
+REV00943,IKEA00599,MALM,4,Very good quality and easy to assemble.,Positive
+REV00944,IKEA01118,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV00945,IKEA01181,MICKE,5,Looks great in my room.,Positive
+REV00946,IKEA01006,POANG,5,Perfect for a small apartment.,Positive
+REV00947,IKEA00157,MICKE,4,Perfect for a small apartment.,Positive
+REV00948,IKEA00592,BILLY,5,Perfect for a small apartment.,Positive
+REV00949,IKEA00087,ALEX,4,Very useful and practical furniture.,Positive
+REV00950,IKEA00083,POANG,5,Very useful and practical furniture.,Positive
+REV00951,IKEA00054,TROFAST,2,Assembly instructions could be better.,Positive
+REV00952,IKEA00006,ALEX,5,Excellent product for the price.,Positive
+REV00953,IKEA00774,PAX,4,Looks great in my room.,Positive
+REV00954,IKEA00182,LACK,4,Beautiful Scandinavian design.,Positive
+REV00955,IKEA00564,LACK,5,Very useful and practical furniture.,Positive
+REV00956,IKEA00774,PAX,5,Excellent product for the price.,Positive
+REV00957,IKEA00846,MALM,3,Assembly takes some time.,Neutral
+REV00958,IKEA01048,BRIMNES,4,Looks great in my room.,Positive
+REV00959,IKEA00757,ALEX,5,Looks great in my room.,Positive
+REV00960,IKEA00636,HEMNES,5,Perfect for a small apartment.,Positive
+REV00961,IKEA01182,TROFAST,4,Very good quality and easy to assemble.,Positive
+REV00962,IKEA01132,LACK,5,Good quality and durable.,Positive
+REV00963,IKEA00963,POANG,3,Decent quality for the price.,Positive
+REV00964,IKEA00493,IVAR,4,Perfect for a small apartment.,Positive
+REV00965,IKEA01144,IVAR,5,Looks great in my room.,Positive
+REV00966,IKEA00035,LACK,5,Perfect for a small apartment.,Positive
+REV00967,IKEA01077,BESTA,4,Very good quality and easy to assemble.,Positive
+REV00968,IKEA00125,BESTA,4,Very good quality and easy to assemble.,Positive
+REV00969,IKEA00251,LACK,5,Looks great in my room.,Positive
+REV00970,IKEA01083,BILLY,3,Size was as expected.,Neutral
+REV00971,IKEA01084,BILLY,5,Looks great in my room.,Positive
+REV00972,IKEA00530,PAX,5,Good quality and durable.,Positive
+REV00973,IKEA00364,LACK,5,Very useful and practical furniture.,Positive
+REV00974,IKEA01021,IVAR,5,Excellent product for the price.,Positive
+REV00975,IKEA01057,KALLAX,4,Good quality and durable.,Positive
+REV00976,IKEA00385,POANG,5,Very good quality and easy to assemble.,Positive
+REV00977,IKEA00819,BRIMNES,4,Excellent product for the price.,Positive
+REV00978,IKEA00135,EKET,3,The product is good.,Positive
+REV00979,IKEA00605,EKET,5,Beautiful Scandinavian design.,Positive
+REV00980,IKEA01171,EKET,5,Good quality and durable.,Positive
+REV00981,IKEA00630,IVAR,4,Excellent product for the price.,Positive
+REV00982,IKEA00043,ALEX,4,Very useful and practical furniture.,Positive
+REV00983,IKEA00268,BRIMNES,4,Good quality and durable.,Positive
+REV00984,IKEA01083,BILLY,4,Very good quality and easy to assemble.,Positive
+REV00985,IKEA00635,HEMNES,5,Looks great in my room.,Positive
+REV00986,IKEA00169,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00987,IKEA00800,HEMNES,4,Good quality and durable.,Positive
+REV00988,IKEA00799,IVAR,4,Perfect for a small apartment.,Positive
+REV00989,IKEA00766,MICKE,5,Perfect for a small apartment.,Positive
+REV00990,IKEA00087,ALEX,4,Perfect for a small apartment.,Positive
+REV00991,IKEA00470,HEMNES,5,Looks great in my room.,Positive
+REV00992,IKEA00697,POANG,5,Excellent product for the price.,Positive
+REV00993,IKEA00602,ALEX,4,Perfect for a small apartment.,Positive
+REV00994,IKEA00048,PAX,5,Very useful and practical furniture.,Positive
+REV00995,IKEA00773,BILLY,4,Perfect for a small apartment.,Positive
+REV00996,IKEA00574,ALEX,5,Beautiful Scandinavian design.,Positive
+REV00997,IKEA01180,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV00998,IKEA01035,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV00999,IKEA00463,LACK,5,Looks great in my room.,Positive
+REV01000,IKEA00495,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01001,IKEA01063,KALLAX,4,Looks great in my room.,Positive
+REV01002,IKEA00680,BRIMNES,5,Excellent product for the price.,Positive
+REV01003,IKEA00954,ALEX,5,Good quality and durable.,Positive
+REV01004,IKEA00127,BRIMNES,5,Looks great in my room.,Positive
+REV01005,IKEA00077,MICKE,4,Good quality and durable.,Positive
+REV01006,IKEA00118,BILLY,5,Looks great in my room.,Positive
+REV01007,IKEA00490,POANG,4,Excellent product for the price.,Positive
+REV01008,IKEA00428,BRIMNES,5,Perfect for a small apartment.,Positive
+REV01009,IKEA00728,POANG,4,Beautiful Scandinavian design.,Positive
+REV01010,IKEA00528,ALEX,5,Good quality and durable.,Positive
+REV01011,IKEA00251,LACK,4,Excellent product for the price.,Positive
+REV01012,IKEA00290,PAX,5,Very good quality and easy to assemble.,Positive
+REV01013,IKEA00194,HEMNES,5,Very useful and practical furniture.,Positive
+REV01014,IKEA01078,POANG,5,Perfect for a small apartment.,Positive
+REV01015,IKEA00254,KALLAX,5,Beautiful Scandinavian design.,Positive
+REV01016,IKEA00407,PAX,4,Very good quality and easy to assemble.,Positive
+REV01017,IKEA00406,KALLAX,5,Excellent product for the price.,Positive
+REV01018,IKEA00830,EKET,5,Excellent product for the price.,Positive
+REV01019,IKEA00081,BESTA,5,Perfect for a small apartment.,Positive
+REV01020,IKEA00072,LACK,5,Very good quality and easy to assemble.,Positive
+REV01021,IKEA01035,BRIMNES,5,Looks great in my room.,Positive
+REV01022,IKEA00798,PAX,3,Size was as expected.,Neutral
+REV01023,IKEA00834,PAX,5,Good quality and durable.,Positive
+REV01024,IKEA01075,ALEX,5,Very good quality and easy to assemble.,Positive
+REV01025,IKEA00379,MICKE,4,Very good quality and easy to assemble.,Positive
+REV01026,IKEA00061,HEMNES,5,Looks great in my room.,Positive
+REV01027,IKEA00850,BRIMNES,3,Decent quality for the price.,Positive
+REV01028,IKEA01073,KALLAX,5,Excellent product for the price.,Positive
+REV01029,IKEA00773,BILLY,4,Good quality and durable.,Positive
+REV01030,IKEA01019,TROFAST,4,Looks great in my room.,Positive
+REV01031,IKEA00246,LACK,5,Very useful and practical furniture.,Positive
+REV01032,IKEA00007,MALM,5,Good quality and durable.,Positive
+REV01033,IKEA00438,IVAR,4,Beautiful Scandinavian design.,Positive
+REV01034,IKEA00709,ALEX,3,Overall good product.,Positive
+REV01035,IKEA00157,MICKE,4,Very good quality and easy to assemble.,Positive
+REV01036,IKEA00253,BRIMNES,5,Good quality and durable.,Positive
+REV01037,IKEA01178,ALEX,4,Beautiful Scandinavian design.,Positive
+REV01038,IKEA00599,MALM,4,Very useful and practical furniture.,Positive
+REV01039,IKEA01086,HEMNES,5,Perfect for a small apartment.,Positive
+REV01040,IKEA00055,IVAR,5,Perfect for a small apartment.,Positive
+REV01041,IKEA00835,BRIMNES,4,Perfect for a small apartment.,Positive
+REV01042,IKEA00323,EKET,5,Beautiful Scandinavian design.,Positive
+REV01043,IKEA01036,EKET,3,Decent quality for the price.,Positive
+REV01044,IKEA00925,EKET,4,Looks great in my room.,Positive
+REV01045,IKEA00857,ALEX,3,Assembly takes some time.,Neutral
+REV01046,IKEA00075,KALLAX,5,Perfect for a small apartment.,Positive
+REV01047,IKEA00603,LACK,3,Size was as expected.,Neutral
+REV01048,IKEA00835,BRIMNES,5,Very good quality and easy to assemble.,Positive
+REV01049,IKEA00752,MALM,5,Perfect for a small apartment.,Positive
+REV01050,IKEA00692,EKET,4,Very useful and practical furniture.,Positive
+REV01051,IKEA00878,IVAR,4,Perfect for a small apartment.,Positive
+REV01052,IKEA00095,EKET,5,Very good quality and easy to assemble.,Positive
+REV01053,IKEA00239,BILLY,5,Very useful and practical furniture.,Positive
+REV01054,IKEA00037,BESTA,5,Excellent product for the price.,Positive
+REV01055,IKEA00114,MALM,5,Excellent product for the price.,Positive
+REV01056,IKEA00740,EKET,4,Beautiful Scandinavian design.,Positive
+REV01057,IKEA00182,LACK,5,Perfect for a small apartment.,Positive
+REV01058,IKEA00056,MICKE,4,Good quality and durable.,Positive
+REV01059,IKEA00934,BRIMNES,3,Decent quality for the price.,Positive
+REV01060,IKEA00205,ALEX,5,Perfect for a small apartment.,Positive
+REV01061,IKEA00448,MICKE,4,Looks great in my room.,Positive
+REV01062,IKEA00729,TROFAST,3,The product is good.,Positive
+REV01063,IKEA01043,POANG,5,Very useful and practical furniture.,Positive
+REV01064,IKEA01172,ALEX,3,The product is good.,Positive
+REV01065,IKEA00870,BILLY,5,Good quality and durable.,Positive
+REV01066,IKEA00293,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV01067,IKEA00541,BRIMNES,4,Very good quality and easy to assemble.,Positive
+REV01068,IKEA00238,POANG,4,Beautiful Scandinavian design.,Positive
+REV01069,IKEA00011,IVAR,5,Very useful and practical furniture.,Positive
+REV01070,IKEA00398,LACK,4,Excellent product for the price.,Positive
+REV01071,IKEA00977,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01072,IKEA01083,BILLY,3,Overall good product.,Positive
+REV01073,IKEA00435,BRIMNES,4,Looks great in my room.,Positive
+REV01074,IKEA00255,HEMNES,3,Assembly takes some time.,Neutral
+REV01075,IKEA00925,EKET,5,Very good quality and easy to assemble.,Positive
+REV01076,IKEA00098,IVAR,5,Beautiful Scandinavian design.,Positive
+REV01077,IKEA01190,IVAR,5,Perfect for a small apartment.,Positive
+REV01078,IKEA00593,TROFAST,4,Excellent product for the price.,Positive
+REV01079,IKEA00033,EKET,5,Very useful and practical furniture.,Positive
+REV01080,IKEA00523,MALM,5,Excellent product for the price.,Positive
+REV01081,IKEA00826,KALLAX,5,Good quality and durable.,Positive
+REV01082,IKEA01174,MICKE,5,Good quality and durable.,Positive
+REV01083,IKEA00862,EKET,5,Beautiful Scandinavian design.,Positive
+REV01084,IKEA00770,PAX,5,Good quality and durable.,Positive
+REV01085,IKEA00608,BESTA,5,Good quality and durable.,Positive
+REV01086,IKEA00935,MALM,3,Size was as expected.,Neutral
+REV01087,IKEA00606,MALM,3,Assembly takes some time.,Neutral
+REV01088,IKEA01187,ALEX,4,Beautiful Scandinavian design.,Positive
+REV01089,IKEA00509,MALM,3,Size was as expected.,Neutral
+REV01090,IKEA00211,IVAR,4,Perfect for a small apartment.,Positive
+REV01091,IKEA01025,LACK,5,Beautiful Scandinavian design.,Positive
+REV01092,IKEA00399,MICKE,5,Excellent product for the price.,Positive
+REV01093,IKEA00222,HEMNES,4,Perfect for a small apartment.,Positive
+REV01094,IKEA00457,MALM,4,Excellent product for the price.,Positive
+REV01095,IKEA00881,EKET,4,Beautiful Scandinavian design.,Positive
+REV01096,IKEA00113,EKET,4,Good quality and durable.,Positive
+REV01097,IKEA00048,PAX,5,Very useful and practical furniture.,Positive
+REV01098,IKEA00318,MICKE,4,Very good quality and easy to assemble.,Positive
+REV01099,IKEA00937,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV01100,IKEA00906,BILLY,4,Excellent product for the price.,Positive
+REV01101,IKEA00634,EKET,5,Good quality and durable.,Positive
+REV01102,IKEA00468,TROFAST,5,Excellent product for the price.,Positive
+REV01103,IKEA00668,EKET,5,Beautiful Scandinavian design.,Positive
+REV01104,IKEA00741,MALM,5,Beautiful Scandinavian design.,Positive
+REV01105,IKEA00284,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV01106,IKEA00036,HEMNES,5,Looks great in my room.,Positive
+REV01107,IKEA00007,MALM,5,Very useful and practical furniture.,Positive
+REV01108,IKEA00242,IVAR,5,Good quality and durable.,Positive
+REV01109,IKEA01160,POANG,5,Looks great in my room.,Positive
+REV01110,IKEA00062,HEMNES,5,Perfect for a small apartment.,Positive
+REV01111,IKEA00302,POANG,4,Perfect for a small apartment.,Positive
+REV01112,IKEA00735,LACK,5,Excellent product for the price.,Positive
+REV01113,IKEA00890,POANG,5,Very good quality and easy to assemble.,Positive
+REV01114,IKEA01128,MALM,4,Very useful and practical furniture.,Positive
+REV01115,IKEA00706,BESTA,4,Very good quality and easy to assemble.,Positive
+REV01116,IKEA00444,ALEX,1,Not completely satisfied.,Negative
+REV01117,IKEA00873,TROFAST,3,Decent quality for the price.,Positive
+REV01118,IKEA00390,TROFAST,5,Looks great in my room.,Positive
+REV01119,IKEA01171,EKET,4,Perfect for a small apartment.,Positive
+REV01120,IKEA00247,IVAR,4,Excellent product for the price.,Positive
+REV01121,IKEA00547,POANG,4,Excellent product for the price.,Positive
+REV01122,IKEA00493,IVAR,5,Perfect for a small apartment.,Positive
+REV01123,IKEA00637,BRIMNES,5,Looks great in my room.,Positive
+REV01124,IKEA00084,LACK,5,Perfect for a small apartment.,Positive
+REV01125,IKEA00337,IVAR,5,Excellent product for the price.,Positive
+REV01126,IKEA00003,LACK,1,Product was smaller than expected.,Neutral
+REV01127,IKEA00890,POANG,5,Very useful and practical furniture.,Positive
+REV01128,IKEA00129,MALM,5,Very good quality and easy to assemble.,Positive
+REV01129,IKEA00793,LACK,5,Very good quality and easy to assemble.,Positive
+REV01130,IKEA00167,LACK,5,Perfect for a small apartment.,Positive
+REV01131,IKEA00686,KALLAX,5,Perfect for a small apartment.,Positive
+REV01132,IKEA00053,ALEX,2,Assembly instructions could be better.,Positive
+REV01133,IKEA00769,BILLY,5,Beautiful Scandinavian design.,Positive
+REV01134,IKEA00572,KALLAX,3,Size was as expected.,Neutral
+REV01135,IKEA00150,BILLY,5,Looks great in my room.,Positive
+REV01136,IKEA00112,EKET,5,Perfect for a small apartment.,Positive
+REV01137,IKEA00363,PAX,5,Beautiful Scandinavian design.,Positive
+REV01138,IKEA00402,ALEX,5,Very useful and practical furniture.,Positive
+REV01139,IKEA00843,EKET,5,Very good quality and easy to assemble.,Positive
+REV01140,IKEA00755,HEMNES,4,Looks great in my room.,Positive
+REV01141,IKEA00554,POANG,1,Not completely satisfied.,Negative
+REV01142,IKEA00903,POANG,4,Looks great in my room.,Positive
+REV01143,IKEA00801,ALEX,4,Good quality and durable.,Positive
+REV01144,IKEA00920,BESTA,5,Good quality and durable.,Positive
+REV01145,IKEA00826,KALLAX,5,Very useful and practical furniture.,Positive
+REV01146,IKEA00267,IVAR,5,Looks great in my room.,Positive
+REV01147,IKEA00040,MICKE,5,Very good quality and easy to assemble.,Positive
+REV01148,IKEA01008,MALM,5,Perfect for a small apartment.,Positive
+REV01149,IKEA00972,POANG,5,Very good quality and easy to assemble.,Positive
+REV01150,IKEA00330,LACK,5,Beautiful Scandinavian design.,Positive
+REV01151,IKEA00137,HEMNES,5,Looks great in my room.,Positive
+REV01152,IKEA00047,BESTA,4,Beautiful Scandinavian design.,Positive
+REV01153,IKEA01093,BESTA,4,Excellent product for the price.,Positive
+REV01154,IKEA00407,PAX,4,Excellent product for the price.,Positive
+REV01155,IKEA00183,EKET,5,Looks great in my room.,Positive
+REV01156,IKEA00733,EKET,5,Excellent product for the price.,Positive
+REV01157,IKEA00415,BILLY,4,Very useful and practical furniture.,Positive
+REV01158,IKEA00223,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV01159,IKEA00951,PAX,1,Quality was average.,Negative
+REV01160,IKEA00209,PAX,3,Decent quality for the price.,Positive
+REV01161,IKEA00001,ALEX,4,Excellent product for the price.,Positive
+REV01162,IKEA00865,IVAR,4,Beautiful Scandinavian design.,Positive
+REV01163,IKEA00651,KALLAX,3,The product is good.,Positive
+REV01164,IKEA01119,IVAR,5,Looks great in my room.,Positive
+REV01165,IKEA00771,MICKE,3,Decent quality for the price.,Positive
+REV01166,IKEA00917,BESTA,3,Size was as expected.,Neutral
+REV01167,IKEA00608,BESTA,4,Beautiful Scandinavian design.,Positive
+REV01168,IKEA00101,MALM,5,Excellent product for the price.,Positive
+REV01169,IKEA01186,BILLY,4,Excellent product for the price.,Positive
+REV01170,IKEA00811,MALM,4,Very good quality and easy to assemble.,Positive
+REV01171,IKEA00194,HEMNES,4,Looks great in my room.,Positive
+REV01172,IKEA00109,IVAR,4,Excellent product for the price.,Positive
+REV01173,IKEA00513,MALM,5,Very useful and practical furniture.,Positive
+REV01174,IKEA00964,PAX,5,Excellent product for the price.,Positive
+REV01175,IKEA00949,LACK,5,Very useful and practical furniture.,Positive
+REV01176,IKEA01052,IVAR,4,Excellent product for the price.,Positive
+REV01177,IKEA00154,MALM,1,Quality was average.,Negative
+REV01178,IKEA00189,PAX,5,Perfect for a small apartment.,Positive
+REV01179,IKEA01099,MALM,5,Very good quality and easy to assemble.,Positive
+REV01180,IKEA00397,LACK,4,Very useful and practical furniture.,Positive
+REV01181,IKEA00352,PAX,5,Looks great in my room.,Positive
+REV01182,IKEA01007,HEMNES,5,Good quality and durable.,Positive
+REV01183,IKEA00897,PAX,4,Very useful and practical furniture.,Positive
+REV01184,IKEA00475,BILLY,5,Beautiful Scandinavian design.,Positive
+REV01185,IKEA00498,BESTA,5,Perfect for a small apartment.,Positive
+REV01186,IKEA01056,BILLY,4,Good quality and durable.,Positive
+REV01187,IKEA00653,BILLY,4,Looks great in my room.,Positive
+REV01188,IKEA00469,TROFAST,5,Very useful and practical furniture.,Positive
+REV01189,IKEA00047,BESTA,5,Good quality and durable.,Positive
+REV01190,IKEA01116,TROFAST,5,Very useful and practical furniture.,Positive
+REV01191,IKEA00825,ALEX,5,Very good quality and easy to assemble.,Positive
+REV01192,IKEA00929,ALEX,5,Very good quality and easy to assemble.,Positive
+REV01193,IKEA00825,ALEX,5,Very useful and practical furniture.,Positive
+REV01194,IKEA00484,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV01195,IKEA00301,LACK,5,Very good quality and easy to assemble.,Positive
+REV01196,IKEA00748,TROFAST,5,Very useful and practical furniture.,Positive
+REV01197,IKEA01108,MALM,3,Decent quality for the price.,Positive
+REV01198,IKEA00370,EKET,4,Looks great in my room.,Positive
+REV01199,IKEA00672,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV01200,IKEA00806,KALLAX,5,Good quality and durable.,Positive
+REV01201,IKEA00750,TROFAST,1,Some parts were difficult to assemble.,Negative
+REV01202,IKEA01105,MICKE,5,Very good quality and easy to assemble.,Positive
+REV01203,IKEA00543,PAX,4,Excellent product for the price.,Positive
+REV01204,IKEA00150,BILLY,5,Perfect for a small apartment.,Positive
+REV01205,IKEA00357,PAX,3,Size was as expected.,Neutral
+REV01206,IKEA00285,BRIMNES,4,Very useful and practical furniture.,Positive
+REV01207,IKEA00936,EKET,5,Very good quality and easy to assemble.,Positive
+REV01208,IKEA01142,ALEX,5,Perfect for a small apartment.,Positive
+REV01209,IKEA00550,LACK,4,Beautiful Scandinavian design.,Positive
+REV01210,IKEA01110,EKET,4,Beautiful Scandinavian design.,Positive
+REV01211,IKEA00034,TROFAST,5,Excellent product for the price.,Positive
+REV01212,IKEA00078,TROFAST,5,Perfect for a small apartment.,Positive
+REV01213,IKEA00070,PAX,5,Good quality and durable.,Positive
+REV01214,IKEA00471,EKET,5,Beautiful Scandinavian design.,Positive
+REV01215,IKEA00888,EKET,5,Beautiful Scandinavian design.,Positive
+REV01216,IKEA00514,ALEX,5,Looks great in my room.,Positive
+REV01217,IKEA00267,IVAR,4,Beautiful Scandinavian design.,Positive
+REV01218,IKEA00692,EKET,5,Beautiful Scandinavian design.,Positive
+REV01219,IKEA01049,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV01220,IKEA00173,BRIMNES,4,Very useful and practical furniture.,Positive
+REV01221,IKEA01118,TROFAST,5,Perfect for a small apartment.,Positive
+REV01222,IKEA00074,PAX,5,Very useful and practical furniture.,Positive
+REV01223,IKEA00188,KALLAX,4,Excellent product for the price.,Positive
+REV01224,IKEA00482,MALM,5,Very useful and practical furniture.,Positive
+REV01225,IKEA00917,BESTA,4,Excellent product for the price.,Positive
+REV01226,IKEA01105,MICKE,5,Good quality and durable.,Positive
+REV01227,IKEA00383,ALEX,2,Product was smaller than expected.,Neutral
+REV01228,IKEA00926,EKET,4,Perfect for a small apartment.,Positive
+REV01229,IKEA00160,HEMNES,5,Very good quality and easy to assemble.,Positive
+REV01230,IKEA00945,KALLAX,5,Beautiful Scandinavian design.,Positive
+REV01231,IKEA01009,LACK,4,Excellent product for the price.,Positive
+REV01232,IKEA01177,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01233,IKEA01019,TROFAST,5,Excellent product for the price.,Positive
+REV01234,IKEA00266,EKET,4,Beautiful Scandinavian design.,Positive
+REV01235,IKEA00402,ALEX,5,Good quality and durable.,Positive
+REV01236,IKEA00079,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01237,IKEA00652,EKET,5,Very good quality and easy to assemble.,Positive
+REV01238,IKEA00817,MICKE,5,Good quality and durable.,Positive
+REV01239,IKEA00487,EKET,4,Good quality and durable.,Positive
+REV01240,IKEA00552,BRIMNES,5,Good quality and durable.,Positive
+REV01241,IKEA00739,TROFAST,5,Very useful and practical furniture.,Positive
+REV01242,IKEA00781,PAX,5,Looks great in my room.,Positive
+REV01243,IKEA00936,EKET,5,Very good quality and easy to assemble.,Positive
+REV01244,IKEA00256,PAX,4,Beautiful Scandinavian design.,Positive
+REV01245,IKEA00361,IVAR,5,Looks great in my room.,Positive
+REV01246,IKEA00768,HEMNES,4,Excellent product for the price.,Positive
+REV01247,IKEA01073,KALLAX,4,Beautiful Scandinavian design.,Positive
+REV01248,IKEA00808,IVAR,4,Looks great in my room.,Positive
+REV01249,IKEA00603,LACK,4,Excellent product for the price.,Positive
+REV01250,IKEA00273,MICKE,5,Good quality and durable.,Positive
+REV01251,IKEA01180,HEMNES,5,Perfect for a small apartment.,Positive
+REV01252,IKEA00802,ALEX,5,Excellent product for the price.,Positive
+REV01253,IKEA00399,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01254,IKEA00212,MALM,4,Excellent product for the price.,Positive
+REV01255,IKEA00534,TROFAST,3,Assembly takes some time.,Neutral
+REV01256,IKEA00383,ALEX,5,Looks great in my room.,Positive
+REV01257,IKEA00990,EKET,4,Looks great in my room.,Positive
+REV01258,IKEA00797,MALM,4,Beautiful Scandinavian design.,Positive
+REV01259,IKEA00352,PAX,4,Beautiful Scandinavian design.,Positive
+REV01260,IKEA00454,PAX,5,Excellent product for the price.,Positive
+REV01261,IKEA00704,IVAR,5,Perfect for a small apartment.,Positive
+REV01262,IKEA00758,POANG,3,Size was as expected.,Neutral
+REV01263,IKEA00218,MALM,5,Very useful and practical furniture.,Positive
+REV01264,IKEA00757,ALEX,4,Good quality and durable.,Positive
+REV01265,IKEA01003,EKET,5,Very useful and practical furniture.,Positive
+REV01266,IKEA01145,ALEX,4,Beautiful Scandinavian design.,Positive
+REV01267,IKEA00657,BRIMNES,5,Perfect for a small apartment.,Positive
+REV01268,IKEA00589,KALLAX,5,Excellent product for the price.,Positive
+REV01269,IKEA00016,BILLY,4,Good quality and durable.,Positive
+REV01270,IKEA00246,LACK,5,Beautiful Scandinavian design.,Positive
+REV01271,IKEA01182,TROFAST,3,Overall good product.,Positive
+REV01272,IKEA00986,LACK,5,Excellent product for the price.,Positive
+REV01273,IKEA00097,HEMNES,4,Perfect for a small apartment.,Positive
+REV01274,IKEA00684,EKET,5,Looks great in my room.,Positive
+REV01275,IKEA00078,TROFAST,3,Assembly takes some time.,Neutral
+REV01276,IKEA00431,KALLAX,4,Very good quality and easy to assemble.,Positive
+REV01277,IKEA00667,LACK,4,Very good quality and easy to assemble.,Positive
+REV01278,IKEA00670,HEMNES,5,Excellent product for the price.,Positive
+REV01279,IKEA00220,BESTA,4,Excellent product for the price.,Positive
+REV01280,IKEA00750,TROFAST,5,Excellent product for the price.,Positive
+REV01281,IKEA00860,TROFAST,5,Perfect for a small apartment.,Positive
+REV01282,IKEA01075,ALEX,3,The product is good.,Positive
+REV01283,IKEA00917,BESTA,5,Very good quality and easy to assemble.,Positive
+REV01284,IKEA00033,EKET,5,Looks great in my room.,Positive
+REV01285,IKEA00307,IVAR,5,Good quality and durable.,Positive
+REV01286,IKEA00224,EKET,4,Perfect for a small apartment.,Positive
+REV01287,IKEA00179,MALM,2,Some parts were difficult to assemble.,Negative
+REV01288,IKEA00364,LACK,5,Beautiful Scandinavian design.,Positive
+REV01289,IKEA01084,BILLY,5,Very good quality and easy to assemble.,Positive
+REV01290,IKEA01073,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV01291,IKEA00270,TROFAST,5,Very good quality and easy to assemble.,Positive
+REV01292,IKEA00557,MALM,4,Excellent product for the price.,Positive
+REV01293,IKEA01054,ALEX,5,Perfect for a small apartment.,Positive
+REV01294,IKEA00714,KALLAX,4,Excellent product for the price.,Positive
+REV01295,IKEA00678,LACK,5,Perfect for a small apartment.,Positive
+REV01296,IKEA00877,ALEX,4,Looks great in my room.,Positive
+REV01297,IKEA01196,BESTA,5,Perfect for a small apartment.,Positive
+REV01298,IKEA00922,HEMNES,5,Looks great in my room.,Positive
+REV01299,IKEA00612,BRIMNES,5,Excellent product for the price.,Positive
+REV01300,IKEA01010,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01301,IKEA00691,MALM,5,Good quality and durable.,Positive
+REV01302,IKEA00573,EKET,5,Looks great in my room.,Positive
+REV01303,IKEA00865,IVAR,5,Perfect for a small apartment.,Positive
+REV01304,IKEA00650,PAX,5,Perfect for a small apartment.,Positive
+REV01305,IKEA00590,BILLY,4,Excellent product for the price.,Positive
+REV01306,IKEA00624,IVAR,5,Very good quality and easy to assemble.,Positive
+REV01307,IKEA00170,MICKE,5,Very useful and practical furniture.,Positive
+REV01308,IKEA00681,EKET,2,Assembly instructions could be better.,Positive
+REV01309,IKEA00081,BESTA,2,Some parts were difficult to assemble.,Negative
+REV01310,IKEA00763,PAX,5,Beautiful Scandinavian design.,Positive
+REV01311,IKEA00476,BRIMNES,3,Decent quality for the price.,Positive
+REV01312,IKEA00269,IVAR,5,Perfect for a small apartment.,Positive
+REV01313,IKEA00238,POANG,5,Perfect for a small apartment.,Positive
+REV01314,IKEA00650,PAX,3,Overall good product.,Positive
+REV01315,IKEA00664,HEMNES,4,Very good quality and easy to assemble.,Positive
+REV01316,IKEA01069,BILLY,4,Good quality and durable.,Positive
+REV01317,IKEA00872,BILLY,5,Excellent product for the price.,Positive
+REV01318,IKEA00206,KALLAX,4,Looks great in my room.,Positive
+REV01319,IKEA01065,IVAR,5,Very useful and practical furniture.,Positive
+REV01320,IKEA00791,POANG,5,Good quality and durable.,Positive
+REV01321,IKEA01005,BILLY,3,Decent quality for the price.,Positive
+REV01322,IKEA00867,BILLY,4,Good quality and durable.,Positive
+REV01323,IKEA00904,ALEX,5,Looks great in my room.,Positive
+REV01324,IKEA00847,BRIMNES,3,Overall good product.,Positive
+REV01325,IKEA00266,EKET,4,Beautiful Scandinavian design.,Positive
+REV01326,IKEA00344,MICKE,5,Looks great in my room.,Positive
+REV01327,IKEA00429,LACK,5,Very good quality and easy to assemble.,Positive
+REV01328,IKEA01077,BESTA,4,Perfect for a small apartment.,Positive
+REV01329,IKEA00355,IVAR,5,Perfect for a small apartment.,Positive
+REV01330,IKEA00217,BESTA,5,Excellent product for the price.,Positive
+REV01331,IKEA00129,MALM,3,Size was as expected.,Neutral
+REV01332,IKEA00294,MICKE,5,Good quality and durable.,Positive
+REV01333,IKEA00015,POANG,5,Beautiful Scandinavian design.,Positive
+REV01334,IKEA00190,HEMNES,3,Overall good product.,Positive
+REV01335,IKEA00185,MICKE,5,Very useful and practical furniture.,Positive
+REV01336,IKEA00538,BILLY,5,Excellent product for the price.,Positive
+REV01337,IKEA01133,POANG,5,Very good quality and easy to assemble.,Positive
+REV01338,IKEA01091,KALLAX,4,Very useful and practical furniture.,Positive
+REV01339,IKEA00828,MALM,5,Very good quality and easy to assemble.,Positive
+REV01340,IKEA00934,BRIMNES,4,Excellent product for the price.,Positive
+REV01341,IKEA00717,POANG,5,Looks great in my room.,Positive
+REV01342,IKEA00534,TROFAST,5,Looks great in my room.,Positive
+REV01343,IKEA01152,MALM,5,Very useful and practical furniture.,Positive
+REV01344,IKEA00278,PAX,4,Perfect for a small apartment.,Positive
+REV01345,IKEA01170,ALEX,5,Looks great in my room.,Positive
+REV01346,IKEA00292,BILLY,5,Beautiful Scandinavian design.,Positive
+REV01347,IKEA00929,ALEX,4,Good quality and durable.,Positive
+REV01348,IKEA01135,BESTA,4,Very good quality and easy to assemble.,Positive
+REV01349,IKEA00804,EKET,3,Decent quality for the price.,Positive
+REV01350,IKEA00901,PAX,5,Good quality and durable.,Positive
+REV01351,IKEA00961,BESTA,4,Very useful and practical furniture.,Positive
+REV01352,IKEA00441,KALLAX,4,Perfect for a small apartment.,Positive
+REV01353,IKEA00445,POANG,5,Good quality and durable.,Positive
+REV01354,IKEA01194,MALM,5,Perfect for a small apartment.,Positive
+REV01355,IKEA00060,EKET,4,Excellent product for the price.,Positive
+REV01356,IKEA00318,MICKE,5,Beautiful Scandinavian design.,Positive
+REV01357,IKEA00439,ALEX,5,Excellent product for the price.,Positive
+REV01358,IKEA00207,TROFAST,5,Perfect for a small apartment.,Positive
+REV01359,IKEA00670,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV01360,IKEA00155,POANG,5,Excellent product for the price.,Positive
+REV01361,IKEA01133,POANG,5,Excellent product for the price.,Positive
+REV01362,IKEA00342,MALM,4,Looks great in my room.,Positive
+REV01363,IKEA00501,POANG,5,Perfect for a small apartment.,Positive
+REV01364,IKEA01107,POANG,4,Beautiful Scandinavian design.,Positive
+REV01365,IKEA00631,POANG,4,Very good quality and easy to assemble.,Positive
+REV01366,IKEA01002,MALM,5,Very useful and practical furniture.,Positive
+REV01367,IKEA01010,MICKE,4,Perfect for a small apartment.,Positive
+REV01368,IKEA00806,KALLAX,4,Very good quality and easy to assemble.,Positive
+REV01369,IKEA01170,ALEX,4,Perfect for a small apartment.,Positive
+REV01370,IKEA00520,LACK,5,Perfect for a small apartment.,Positive
+REV01371,IKEA01021,IVAR,5,Good quality and durable.,Positive
+REV01372,IKEA00239,BILLY,4,Very useful and practical furniture.,Positive
+REV01373,IKEA01193,POANG,4,Excellent product for the price.,Positive
+REV01374,IKEA01170,ALEX,4,Very good quality and easy to assemble.,Positive
+REV01375,IKEA00332,EKET,3,Decent quality for the price.,Positive
+REV01376,IKEA00960,KALLAX,5,Very useful and practical furniture.,Positive
+REV01377,IKEA00231,PAX,4,Good quality and durable.,Positive
+REV01378,IKEA00670,HEMNES,3,Size was as expected.,Neutral
+REV01379,IKEA01063,KALLAX,4,Excellent product for the price.,Positive
+REV01380,IKEA00058,POANG,5,Perfect for a small apartment.,Positive
+REV01381,IKEA00202,BESTA,3,Assembly takes some time.,Neutral
+REV01382,IKEA00814,BILLY,5,Good quality and durable.,Positive
+REV01383,IKEA00112,EKET,5,Excellent product for the price.,Positive
+REV01384,IKEA00078,TROFAST,5,Looks great in my room.,Positive
+REV01385,IKEA01136,BESTA,5,Perfect for a small apartment.,Positive
+REV01386,IKEA00954,ALEX,5,Beautiful Scandinavian design.,Positive
+REV01387,IKEA01166,IVAR,4,Good quality and durable.,Positive
+REV01388,IKEA00432,KALLAX,5,Good quality and durable.,Positive
+REV01389,IKEA00763,PAX,5,Looks great in my room.,Positive
+REV01390,IKEA00379,MICKE,4,Beautiful Scandinavian design.,Positive
+REV01391,IKEA00808,IVAR,5,Perfect for a small apartment.,Positive
+REV01392,IKEA00083,POANG,4,Looks great in my room.,Positive
+REV01393,IKEA00619,ALEX,4,Very useful and practical furniture.,Positive
+REV01394,IKEA00168,BRIMNES,5,Perfect for a small apartment.,Positive
+REV01395,IKEA01176,EKET,4,Very useful and practical furniture.,Positive
+REV01396,IKEA00137,HEMNES,4,Perfect for a small apartment.,Positive
+REV01397,IKEA00334,EKET,5,Perfect for a small apartment.,Positive
+REV01398,IKEA01169,TROFAST,5,Perfect for a small apartment.,Positive
+REV01399,IKEA00192,EKET,2,Quality was average.,Negative
+REV01400,IKEA01183,BRIMNES,4,Good quality and durable.,Positive
+REV01401,IKEA00714,KALLAX,5,Very good quality and easy to assemble.,Positive
+REV01402,IKEA00621,POANG,4,Looks great in my room.,Positive
+REV01403,IKEA01048,BRIMNES,4,Beautiful Scandinavian design.,Positive
+REV01404,IKEA00403,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV01405,IKEA00852,PAX,5,Very good quality and easy to assemble.,Positive
+REV01406,IKEA00431,KALLAX,5,Very useful and practical furniture.,Positive
+REV01407,IKEA00191,LACK,5,Very good quality and easy to assemble.,Positive
+REV01408,IKEA00298,PAX,4,Good quality and durable.,Positive
+REV01409,IKEA00310,ALEX,5,Very good quality and easy to assemble.,Positive
+REV01410,IKEA00425,MICKE,4,Perfect for a small apartment.,Positive
+REV01411,IKEA00943,LACK,4,Perfect for a small apartment.,Positive
+REV01412,IKEA00286,EKET,3,Size was as expected.,Neutral
+REV01413,IKEA00183,EKET,3,The product is good.,Positive
+REV01414,IKEA00825,ALEX,3,Decent quality for the price.,Positive
+REV01415,IKEA00086,EKET,3,Overall good product.,Positive
+REV01416,IKEA00915,BILLY,3,Assembly takes some time.,Neutral
+REV01417,IKEA01084,BILLY,5,Excellent product for the price.,Positive
+REV01418,IKEA00406,KALLAX,5,Good quality and durable.,Positive
+REV01419,IKEA00439,ALEX,2,Product was smaller than expected.,Neutral
+REV01420,IKEA00395,LACK,4,Looks great in my room.,Positive
+REV01421,IKEA00427,BRIMNES,5,Good quality and durable.,Positive
+REV01422,IKEA00367,BRIMNES,5,Good quality and durable.,Positive
+REV01423,IKEA00618,EKET,5,Very good quality and easy to assemble.,Positive
+REV01424,IKEA00307,IVAR,5,Looks great in my room.,Positive
+REV01425,IKEA00361,IVAR,3,Assembly takes some time.,Neutral
+REV01426,IKEA00047,BESTA,5,Good quality and durable.,Positive
+REV01427,IKEA00809,MICKE,5,Excellent product for the price.,Positive
+REV01428,IKEA00691,MALM,5,Beautiful Scandinavian design.,Positive
+REV01429,IKEA00669,EKET,5,Excellent product for the price.,Positive
+REV01430,IKEA00588,BILLY,4,Very good quality and easy to assemble.,Positive
+REV01431,IKEA00397,LACK,5,Looks great in my room.,Positive
+REV01432,IKEA00717,POANG,5,Perfect for a small apartment.,Positive
+REV01433,IKEA00136,HEMNES,5,Good quality and durable.,Positive
+REV01434,IKEA00003,LACK,5,Excellent product for the price.,Positive
+REV01435,IKEA01166,IVAR,5,Excellent product for the price.,Positive
+REV01436,IKEA01195,LACK,5,Very good quality and easy to assemble.,Positive
+REV01437,IKEA00200,EKET,4,Very useful and practical furniture.,Positive
+REV01438,IKEA00243,HEMNES,3,Decent quality for the price.,Positive
+REV01439,IKEA00869,PAX,5,Beautiful Scandinavian design.,Positive
+REV01440,IKEA00669,EKET,5,Very useful and practical furniture.,Positive
+REV01441,IKEA00629,ALEX,5,Excellent product for the price.,Positive
+REV01442,IKEA00435,BRIMNES,5,Looks great in my room.,Positive
+REV01443,IKEA00154,MALM,5,Perfect for a small apartment.,Positive
+REV01444,IKEA00320,HEMNES,2,Not completely satisfied.,Negative
+REV01445,IKEA00111,TROFAST,4,Looks great in my room.,Positive
+REV01446,IKEA00332,EKET,5,Beautiful Scandinavian design.,Positive
+REV01447,IKEA01014,PAX,4,Excellent product for the price.,Positive
+REV01448,IKEA00126,ALEX,4,Good quality and durable.,Positive
+REV01449,IKEA00175,BILLY,4,Perfect for a small apartment.,Positive
+REV01450,IKEA00046,BESTA,4,Excellent product for the price.,Positive
+REV01451,IKEA00260,MALM,5,Beautiful Scandinavian design.,Positive
+REV01452,IKEA00220,BESTA,4,Looks great in my room.,Positive
+REV01453,IKEA00325,LACK,5,Good quality and durable.,Positive
+REV01454,IKEA00016,BILLY,4,Good quality and durable.,Positive
+REV01455,IKEA00585,MICKE,2,Assembly instructions could be better.,Positive
+REV01456,IKEA00256,PAX,1,Some parts were difficult to assemble.,Negative
+REV01457,IKEA00831,BILLY,5,Beautiful Scandinavian design.,Positive
+REV01458,IKEA00925,EKET,4,Perfect for a small apartment.,Positive
+REV01459,IKEA00632,MICKE,5,Looks great in my room.,Positive
+REV01460,IKEA00907,ALEX,5,Perfect for a small apartment.,Positive
+REV01461,IKEA00713,IVAR,4,Very useful and practical furniture.,Positive
+REV01462,IKEA00354,ALEX,5,Looks great in my room.,Positive
+REV01463,IKEA00983,BRIMNES,5,Excellent product for the price.,Positive
+REV01464,IKEA00515,POANG,5,Very good quality and easy to assemble.,Positive
+REV01465,IKEA00227,POANG,2,Assembly instructions could be better.,Positive
+REV01466,IKEA00243,HEMNES,5,Beautiful Scandinavian design.,Positive
+REV01467,IKEA00252,HEMNES,2,Assembly instructions could be better.,Positive
+REV01468,IKEA00845,LACK,5,Very good quality and easy to assemble.,Positive
+REV01469,IKEA00921,BILLY,4,Perfect for a small apartment.,Positive
+REV01470,IKEA00185,MICKE,5,Very useful and practical furniture.,Positive
+REV01471,IKEA01058,MALM,2,Assembly instructions could be better.,Positive
+REV01472,IKEA01059,MALM,3,Assembly takes some time.,Neutral
+REV01473,IKEA00918,BESTA,3,Size was as expected.,Neutral
+REV01474,IKEA00063,MALM,5,Very good quality and easy to assemble.,Positive
+REV01475,IKEA00702,BESTA,5,Very useful and practical furniture.,Positive
+REV01476,IKEA00173,BRIMNES,4,Very good quality and easy to assemble.,Positive
+REV01477,IKEA00837,LACK,5,Excellent product for the price.,Positive
+REV01478,IKEA00111,TROFAST,5,Excellent product for the price.,Positive
+REV01479,IKEA00681,EKET,3,Overall good product.,Positive
+REV01480,IKEA00590,BILLY,4,Beautiful Scandinavian design.,Positive
+REV01481,IKEA00565,TROFAST,5,Excellent product for the price.,Positive
+REV01482,IKEA00821,ALEX,4,Good quality and durable.,Positive
+REV01483,IKEA00403,HEMNES,2,Product was smaller than expected.,Neutral
+REV01484,IKEA00892,HEMNES,4,Beautiful Scandinavian design.,Positive
+REV01485,IKEA01082,IVAR,5,Very useful and practical furniture.,Positive
+REV01486,IKEA00873,TROFAST,5,Beautiful Scandinavian design.,Positive
+REV01487,IKEA00520,LACK,5,Excellent product for the price.,Positive
+REV01488,IKEA00247,IVAR,5,Looks great in my room.,Positive
+REV01489,IKEA00408,BESTA,5,Perfect for a small apartment.,Positive
+REV01490,IKEA00411,LACK,5,Excellent product for the price.,Positive
+REV01491,IKEA00901,PAX,5,Perfect for a small apartment.,Positive
+REV01492,IKEA00896,BILLY,5,Very useful and practical furniture.,Positive
+REV01493,IKEA00305,EKET,3,Size was as expected.,Neutral
+REV01494,IKEA00132,BESTA,5,Perfect for a small apartment.,Positive
+REV01495,IKEA00284,TROFAST,5,Very useful and practical furniture.,Positive
+REV01496,IKEA00039,TROFAST,2,Some parts were difficult to assemble.,Negative
+REV01497,IKEA00826,KALLAX,4,Very good quality and easy to assemble.,Positive
+REV01498,IKEA00637,BRIMNES,5,Good quality and durable.,Positive
+REV01499,IKEA00052,EKET,5,Perfect for a small apartment.,Positive
+REV01500,IKEA00239,BILLY,3,Size was as expected.,Neutral
